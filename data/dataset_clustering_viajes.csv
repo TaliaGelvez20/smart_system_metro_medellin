@@ -1,0 +1,2001 @@
+origen,destino,distancia_km,tipo_transporte,dia_semana,hora,es_hora_pico,es_finde_semana,tiempo_viaje_min,costo,transferencias,clima,ocupacion_estimada
+Floresta,Cisneros,4.1,Taxi,Miercoles,12,1,0,1.1,3501,1,Tormenta,29
+Cisneros,Santa Lucia,7.9,Bus,Miercoles,16,0,0,3.9,7552,1,Tormenta,48
+Cisneros,Universidad,1.3,Caminando,Domingo,3,0,1,2.1,1164,0,Soleado,42
+Poblado,Acevedo,1.1,Cable,Jueves,21,0,0,0.2,1090,1,Lluvia,64
+Sabaneta,Itagui,10.5,Cable,Sabado,19,1,1,3.6,9765,3,Tormenta,78
+Estadio,Acevedo,14.3,Cable,Viernes,18,1,0,5.3,15001,0,Tormenta,42
+Envigado,Madera,7.4,Metro,Martes,23,0,0,2.7,7696,0,Lluvia,49
+Envigado,Suramericana,2.3,Cable,Lunes,19,1,0,0.8,1872,3,Soleado,74
+Caribe,Aguacatala,12.2,Taxi,Martes,18,1,0,4.1,10492,3,Nublado,67
+Parque Berrio,Caribe,7.0,Metro,Jueves,19,1,0,4.5,7322,3,Nublado,10
+Exposiciones,Suramericana,3.6,Bus,Sabado,1,0,1,1.3,3787,1,Tormenta,99
+Acevedo,Tricentenario,7.1,Bus,Jueves,4,0,0,2.6,5751,2,Soleado,63
+Aguacatala,Bello,1.9,Taxi,Martes,17,1,0,0.5,1982,3,Nublado,27
+Acevedo,Niquia,10.3,Bus,Viernes,18,1,0,7.2,9620,3,Soleado,94
+Caribe,Sabaneta,4.3,Cable,Sabado,17,1,1,1.1,3462,2,Soleado,75
+Suramericana,Niquia,9.2,Metro,Viernes,21,0,0,2.5,8004,2,Nublado,71
+Suramericana,Universidad,7.7,Bus,Sabado,15,0,1,2.3,8655,0,Nublado,95
+Tricentenario,Envigado,8.9,Bus,Martes,15,0,0,3.0,9968,2,Nublado,43
+Industriales,Bello,1.4,Cable,Miercoles,10,0,0,0.3,1400,3,Nublado,26
+Aguacatala,La Estrella,4.4,Caminando,Lunes,20,0,0,8.9,3687,3,Soleado,63
+Madera,Itagui,6.2,Metro,Sabado,4,0,1,2.0,6039,2,Lluvia,49
+Aguacatala,Envigado,7.6,Cable,Jueves,22,0,0,1.4,7410,0,Lluvia,90
+Prado,Parque Berrio,5.4,Taxi,Sabado,16,0,1,1.3,5881,1,Lluvia,49
+Universidad,Alpujarra,4.7,Caminando,Sabado,13,1,1,14.9,4094,2,Nublado,97
+San Javier,Alpujarra,12.2,Caminando,Sabado,10,0,1,25.2,14274,2,Nublado,36
+Sabaneta,Cisneros,6.2,Taxi,Viernes,20,0,0,1.2,6758,3,Lluvia,28
+Prado,La Estrella,12.4,Metro,Sabado,3,0,1,11.3,11532,3,Tormenta,80
+Itagui,Prado,4.7,Caminando,Sabado,13,1,1,18.1,4018,3,Tormenta,59
+San Antonio,Acevedo,11.6,Bus,Jueves,3,0,0,6.0,9686,2,Soleado,80
+Envigado,Prado,3.9,Bus,Miercoles,23,0,0,1.9,3140,0,Lluvia,89
+Floresta,Prado,4.1,Taxi,Sabado,7,1,1,1.4,4022,1,Nublado,12
+Envigado,Sabaneta,3.8,Taxi,Miercoles,5,0,0,0.8,3215,2,Tormenta,25
+Acevedo,Prado,9.5,Cable,Jueves,7,1,0,3.6,7610,1,Lluvia,65
+Itagui,La Estrella,2.4,Cable,Domingo,6,1,1,0.7,2827,3,Tormenta,12
+Envigado,Suramericana,7.1,Taxi,Miercoles,21,0,0,1.7,5751,3,Tormenta,66
+Sabaneta,Universidad,9.4,Taxi,Sabado,22,0,1,2.1,9456,1,Nublado,50
+Alpujarra,Industriales,13.6,Taxi,Jueves,22,0,0,2.6,11043,1,Soleado,67
+Santa Lucia,Cisneros,6.0,Metro,Sabado,18,1,1,2.5,6102,0,Tormenta,42
+Alpujarra,Hospital,3.2,Taxi,Lunes,8,1,0,0.9,3427,1,Soleado,58
+Alpujarra,Bello,2.3,Bus,Domingo,22,0,1,1.0,1932,2,Tormenta,29
+Parque Berrio,Tricentenario,6.7,Cable,Viernes,5,0,0,1.3,5675,0,Nublado,46
+Envigado,Aguacatala,12.3,Cable,Jueves,7,1,0,3.8,10467,2,Nublado,78
+Acevedo,Suramericana,3.1,Cable,Sabado,11,1,1,3.1,3695,2,Soleado,74
+Ayura,Bello,7.6,Cable,Martes,5,0,0,1.6,8444,2,Lluvia,69
+Hospital,Aguacatala,3.3,Bus,Martes,3,0,0,1.4,3277,1,Soleado,46
+Poblado,Envigado,13.4,Cable,Sabado,12,1,1,4.3,14874,3,Lluvia,77
+Industriales,Caribe,3.9,Caminando,Sabado,4,0,1,8.1,3713,0,Tormenta,58
+Exposiciones,Parque Berrio,3.8,Taxi,Lunes,10,0,0,0.6,4279,1,Tormenta,85
+Suramericana,Estadio,4.4,Bus,Sabado,9,0,1,1.2,4506,2,Tormenta,61
+Poblado,Floresta,2.8,Cable,Jueves,6,1,0,0.9,3156,0,Lluvia,57
+Bello,Exposiciones,2.1,Cable,Jueves,20,0,0,0.4,2272,3,Soleado,71
+Madera,Exposiciones,1.2,Taxi,Jueves,9,0,0,0.2,1304,2,Soleado,13
+Ayura,Universidad,6.6,Caminando,Jueves,0,0,0,14.8,7379,2,Lluvia,57
+Bello,Cisneros,11.6,Caminando,Lunes,3,0,0,22.6,13236,0,Nublado,58
+San Antonio,Santa Lucia,3.0,Cable,Sabado,8,1,1,0.9,3003,1,Soleado,15
+Parque Berrio,Niquia,6.8,Bus,Jueves,13,1,0,4.5,6324,1,Soleado,18
+Caribe,Bello,7.6,Taxi,Viernes,2,0,0,1.9,7995,0,Soleado,95
+Poblado,Cisneros,12.9,Taxi,Miercoles,23,0,0,3.2,13996,2,Lluvia,77
+Tricentenario,Santa Lucia,12.3,Caminando,Miercoles,21,0,0,27.3,9975,3,Tormenta,44
+San Antonio,Envigado,1.7,Taxi,Sabado,23,0,1,0.4,1583,0,Nublado,81
+Hospital,Cisneros,14.0,Bus,Jueves,14,1,0,9.7,14056,3,Lluvia,48
+Madera,Prado,11.8,Bus,Domingo,15,0,1,5.9,11883,3,Nublado,63
+Aguacatala,Niquia,4.3,Taxi,Miercoles,3,0,0,1.0,4309,1,Tormenta,65
+Hospital,San Antonio,3.2,Bus,Domingo,5,0,1,1.1,2694,0,Soleado,20
+Suramericana,Floresta,7.9,Metro,Martes,17,1,0,3.9,8935,1,Soleado,10
+Aguacatala,Caribe,10.5,Metro,Lunes,9,0,0,4.1,11980,0,Soleado,31
+Parque Berrio,Alpujarra,14.8,Metro,Lunes,18,1,0,8.8,13128,3,Tormenta,23
+Prado,Sabaneta,12.6,Taxi,Miercoles,16,0,0,2.2,13986,2,Nublado,92
+Estadio,Santa Lucia,10.6,Caminando,Miercoles,15,0,0,17.2,12084,1,Tormenta,67
+Alpujarra,Envigado,6.9,Taxi,Sabado,20,0,1,1.7,6610,2,Nublado,40
+Poblado,Tricentenario,9.2,Bus,Domingo,2,0,1,2.8,9467,1,Nublado,19
+Parque Berrio,Suramericana,11.1,Taxi,Viernes,10,0,0,2.1,12532,2,Nublado,70
+La Estrella,Bello,5.8,Taxi,Sabado,12,1,1,1.5,5794,1,Tormenta,69
+San Javier,Exposiciones,11.4,Taxi,Martes,4,0,0,2.5,13498,1,Soleado,31
+Prado,Poblado,1.6,Metro,Domingo,10,0,1,0.5,1685,2,Nublado,33
+Industriales,Bello,12.2,Metro,Jueves,11,1,0,5.0,12883,1,Nublado,28
+San Antonio,Santa Lucia,13.5,Caminando,Miercoles,16,0,0,32.3,15026,1,Tormenta,15
+Poblado,Estadio,1.6,Caminando,Miercoles,9,0,0,3.0,1794,0,Tormenta,63
+Poblado,La Estrella,7.3,Caminando,Martes,10,0,0,13.4,5979,1,Lluvia,60
+Prado,Niquia,14.3,Caminando,Lunes,1,0,0,28.0,14586,0,Soleado,45
+Envigado,Itagui,11.8,Cable,Jueves,16,0,0,2.4,12945,1,Lluvia,24
+Hospital,Industriales,1.2,Caminando,Miercoles,5,0,0,2.3,1110,3,Soleado,22
+Tricentenario,Estadio,10.4,Taxi,Viernes,21,0,0,2.0,9402,1,Lluvia,22
+Estadio,Parque Berrio,2.1,Taxi,Domingo,22,0,1,0.3,1682,1,Soleado,44
+Caribe,Acevedo,8.2,Cable,Domingo,3,0,1,1.6,6904,2,Soleado,55
+Caribe,Industriales,13.8,Bus,Martes,8,1,0,10.6,11482,1,Nublado,53
+Caribe,Envigado,1.4,Caminando,Jueves,15,0,0,3.2,1429,0,Tormenta,37
+Caribe,Hospital,14.7,Caminando,Domingo,15,0,1,32.3,17625,3,Tormenta,59
+San Antonio,San Javier,7.3,Taxi,Sabado,1,0,1,1.1,8322,2,Lluvia,63
+Floresta,Niquia,12.8,Taxi,Martes,2,0,0,2.7,10995,1,Tormenta,73
+Envigado,Itagui,12.0,Taxi,Lunes,19,1,0,3.7,12204,2,Soleado,23
+Bello,San Antonio,15.0,Bus,Martes,8,1,0,9.0,16065,2,Soleado,73
+Parque Berrio,Estadio,14.7,Taxi,Lunes,0,0,0,2.7,12789,0,Lluvia,24
+Acevedo,Parque Berrio,9.1,Taxi,Jueves,3,0,0,1.9,7508,2,Lluvia,80
+Estadio,Envigado,13.7,Metro,Miercoles,17,1,0,6.6,11234,2,Tormenta,21
+San Javier,San Antonio,2.3,Taxi,Lunes,4,0,0,1.9,1888,3,Lluvia,61
+Envigado,Acevedo,2.1,Taxi,Domingo,18,1,1,0.6,1791,0,Tormenta,37
+Floresta,Santa Lucia,14.9,Bus,Viernes,23,0,0,4.2,13991,1,Tormenta,80
+Hospital,Bello,3.7,Cable,Sabado,19,1,1,1.1,4077,3,Lluvia,44
+Hospital,La Estrella,10.1,Metro,Domingo,13,1,1,6.0,9060,2,Nublado,83
+Caribe,San Javier,2.9,Caminando,Lunes,21,0,0,4.7,3425,0,Soleado,97
+Exposiciones,Tricentenario,10.1,Bus,Jueves,3,0,0,4.6,8151,3,Soleado,53
+Universidad,Aguacatala,13.2,Bus,Lunes,23,0,0,4.7,15008,2,Tormenta,94
+Universidad,San Javier,3.6,Bus,Miercoles,12,1,0,2.8,3780,2,Tormenta,16
+Prado,Niquia,11.9,Cable,Martes,5,0,0,2.5,12709,2,Nublado,62
+Acevedo,San Antonio,7.0,Bus,Lunes,8,1,0,3.4,7700,3,Lluvia,48
+La Estrella,Hospital,12.8,Cable,Domingo,22,0,1,2.8,13376,1,Tormenta,27
+Niquia,Suramericana,4.1,Bus,Jueves,15,0,0,2.1,3583,0,Lluvia,57
+Ayura,Prado,11.4,Metro,Martes,21,0,0,3.1,9736,1,Lluvia,42
+Suramericana,Hospital,9.8,Caminando,Martes,18,1,0,30.4,9477,3,Lluvia,10
+Aguacatala,Universidad,11.1,Bus,Martes,23,0,0,4.2,10423,1,Tormenta,95
+Cisneros,Sabaneta,6.3,Caminando,Jueves,11,1,0,23.1,6124,2,Tormenta,40
+Envigado,San Antonio,10.7,Cable,Domingo,13,1,1,3.4,8795,1,Tormenta,62
+Envigado,Estadio,11.1,Metro,Sabado,21,0,1,3.3,10978,0,Soleado,42
+Niquia,Sabaneta,13.5,Cable,Lunes,8,1,0,4.4,11434,2,Nublado,15
+Aguacatala,Floresta,14.0,Taxi,Domingo,5,0,1,2.8,14140,2,Soleado,21
+Ayura,Sabaneta,7.0,Bus,Miercoles,8,1,0,3.8,8092,1,Soleado,22
+La Estrella,Itagui,3.4,Metro,Lunes,8,1,0,1.6,3060,1,Nublado,26
+Parque Berrio,Aguacatala,9.7,Metro,Viernes,14,1,0,4.4,9574,2,Tormenta,29
+Santa Lucia,Madera,3.4,Bus,Domingo,12,1,1,1.4,3451,0,Soleado,30
+Universidad,Madera,4.2,Bus,Viernes,3,0,0,2.0,4477,2,Tormenta,30
+Cisneros,Sabaneta,14.4,Caminando,Viernes,18,1,0,44.8,13565,2,Lluvia,87
+Universidad,Estadio,6.3,Metro,Viernes,12,1,0,3.8,5412,1,Soleado,39
+Floresta,Santa Lucia,6.5,Caminando,Jueves,17,1,0,22.8,5376,1,Nublado,26
+Hospital,Bello,4.4,Caminando,Viernes,17,1,0,13.2,4101,2,Lluvia,80
+Tricentenario,Universidad,3.0,Metro,Jueves,15,0,0,1.1,2535,1,Tormenta,19
+Industriales,Estadio,7.5,Caminando,Martes,23,0,0,16.1,7290,0,Soleado,11
+Estadio,Niquia,3.3,Metro,Jueves,2,0,0,1.2,2775,0,Nublado,71
+Suramericana,Acevedo,1.8,Cable,Viernes,20,0,0,0.4,1463,1,Lluvia,50
+Exposiciones,Santa Lucia,11.5,Metro,Martes,20,0,0,3.5,10062,3,Lluvia,72
+Ayura,Suramericana,8.0,Metro,Miercoles,5,0,0,3.0,8320,0,Tormenta,69
+Niquia,Madera,13.4,Caminando,Domingo,0,0,1,25.5,11323,2,Lluvia,77
+Tricentenario,Industriales,6.8,Cable,Jueves,3,0,0,1.4,6555,2,Soleado,56
+Parque Berrio,Caribe,8.7,Caminando,Sabado,23,0,1,14.2,8770,1,Nublado,62
+Sabaneta,La Estrella,12.0,Caminando,Domingo,19,1,1,31.2,12828,1,Nublado,18
+Bello,Parque Berrio,12.7,Metro,Martes,12,1,0,5.7,10185,2,Lluvia,92
+Caribe,Itagui,6.3,Cable,Sabado,7,1,1,2.1,5903,1,Nublado,96
+Madera,Caribe,11.2,Cable,Jueves,21,0,0,2.2,12779,2,Tormenta,48
+Caribe,Niquia,6.2,Bus,Domingo,22,0,1,2.8,5636,0,Lluvia,42
+Madera,Aguacatala,3.2,Metro,Sabado,9,0,1,1.3,3034,0,Nublado,61
+Suramericana,Hospital,5.1,Taxi,Martes,17,1,0,4.7,5064,2,Tormenta,45
+Parque Berrio,Envigado,11.8,Caminando,Lunes,16,0,0,25.8,12791,1,Lluvia,52
+Floresta,Tricentenario,10.4,Cable,Domingo,22,0,1,2.0,11721,0,Lluvia,40
+Universidad,Hospital,9.2,Bus,Martes,6,1,0,6.2,8022,0,Soleado,22
+Santa Lucia,Sabaneta,8.6,Cable,Sabado,14,1,1,2.5,9658,1,Tormenta,37
+Tricentenario,Industriales,13.0,Taxi,Sabado,1,0,1,2.9,15392,3,Lluvia,59
+Acevedo,Aguacatala,1.1,Caminando,Lunes,17,1,0,3.3,897,0,Lluvia,63
+Acevedo,Itagui,4.4,Bus,Domingo,16,0,1,1.6,5100,3,Lluvia,46
+Cisneros,Sabaneta,6.5,Metro,Viernes,0,0,0,2.3,5388,0,Lluvia,87
+Madera,Cisneros,2.5,Metro,Sabado,20,0,1,0.8,2678,3,Lluvia,13
+Itagui,Tricentenario,14.2,Cable,Jueves,5,0,0,2.9,11885,1,Tormenta,45
+San Antonio,Alpujarra,14.1,Cable,Domingo,2,0,1,2.9,13395,1,Tormenta,15
+Cisneros,Alpujarra,14.1,Metro,Domingo,7,1,1,8.1,15016,0,Soleado,26
+Industriales,Suramericana,8.3,Metro,Miercoles,6,1,0,3.6,7014,0,Tormenta,29
+San Javier,Poblado,2.4,Metro,Sabado,23,0,1,0.7,2338,2,Soleado,65
+Ayura,Itagui,7.8,Bus,Martes,18,1,0,5.7,6809,1,Lluvia,47
+Floresta,Bello,12.1,Metro,Domingo,9,0,1,4.8,11798,2,Nublado,71
+San Javier,Envigado,4.0,Caminando,Martes,13,1,0,13.6,3408,2,Tormenta,98
+Santa Lucia,Niquia,14.9,Caminando,Sabado,16,0,1,30.8,14125,2,Nublado,12
+Santa Lucia,Poblado,11.6,Taxi,Domingo,5,0,1,2.6,12992,3,Tormenta,94
+Parque Berrio,Itagui,2.3,Caminando,Martes,23,0,0,4.6,2270,3,Nublado,28
+San Antonio,Sabaneta,9.0,Metro,Sabado,0,0,1,3.4,8001,1,Soleado,33
+Cisneros,Estadio,6.7,Bus,Sabado,4,0,1,2.8,6754,0,Tormenta,29
+Exposiciones,San Javier,10.0,Metro,Sabado,13,1,1,4.1,11700,1,Nublado,51
+San Javier,Santa Lucia,13.6,Caminando,Sabado,20,0,1,27.4,14783,0,Lluvia,10
+Alpujarra,Poblado,5.8,Metro,Viernes,22,0,0,2.0,5075,3,Lluvia,79
+San Javier,Tricentenario,12.0,Cable,Viernes,8,1,0,3.5,10044,1,Soleado,81
+Aguacatala,Cisneros,11.7,Cable,Jueves,21,0,0,2.5,11372,0,Lluvia,34
+Estadio,Prado,9.2,Cable,Domingo,4,0,1,1.9,8639,0,Soleado,31
+Aguacatala,Suramericana,9.4,Bus,Miercoles,0,0,0,4.7,7783,0,Tormenta,74
+Universidad,Madera,12.5,Metro,Martes,6,1,0,6.2,12400,0,Lluvia,20
+Parque Berrio,San Javier,1.8,Caminando,Viernes,23,0,0,3.5,2020,1,Tormenta,92
+Industriales,San Javier,4.1,Bus,Domingo,23,0,1,3.9,4207,2,Tormenta,30
+Bello,Floresta,11.7,Cable,Jueves,23,0,0,2.3,10179,2,Soleado,81
+Suramericana,Madera,13.9,Cable,Lunes,15,0,0,3.0,15401,0,Lluvia,12
+Exposiciones,Envigado,3.8,Caminando,Jueves,2,0,0,7.5,3295,2,Lluvia,31
+Universidad,Exposiciones,7.5,Cable,Martes,14,1,0,2.5,8602,0,Soleado,87
+Caribe,Niquia,4.3,Cable,Jueves,7,1,0,1.4,4528,2,Tormenta,25
+Universidad,Hospital,5.3,Cable,Sabado,21,0,1,1.1,4696,2,Soleado,28
+Exposiciones,Parque Berrio,4.9,Caminando,Jueves,3,0,0,11.7,4430,2,Soleado,60
+Aguacatala,Itagui,10.3,Metro,Viernes,14,1,0,9.3,8724,3,Nublado,23
+La Estrella,Universidad,9.0,Taxi,Martes,13,1,0,2.8,10359,3,Nublado,64
+Cisneros,Hospital,8.6,Caminando,Lunes,3,0,0,20.6,8368,1,Tormenta,12
+Aguacatala,Cisneros,6.6,Caminando,Lunes,23,0,0,15.5,6890,0,Tormenta,73
+Hospital,Industriales,11.7,Caminando,Lunes,0,0,0,22.2,13303,1,Nublado,38
+La Estrella,Alpujarra,14.9,Taxi,Viernes,5,0,0,3.2,12024,2,Tormenta,23
+San Javier,Prado,8.3,Cable,Domingo,4,0,1,1.7,9064,1,Lluvia,82
+Exposiciones,Aguacatala,4.3,Caminando,Martes,17,1,0,14.2,3474,1,Nublado,14
+San Antonio,Cisneros,10.3,Metro,Jueves,22,0,0,3.5,11392,2,Lluvia,92
+Tricentenario,San Antonio,10.1,Caminando,Domingo,23,0,1,18.5,10898,3,Soleado,98
+La Estrella,Poblado,13.5,Metro,Miercoles,5,0,0,4.3,12150,1,Soleado,88
+Poblado,Prado,11.1,Cable,Domingo,19,1,1,3.5,11677,3,Nublado,89
+Itagui,Industriales,12.7,Caminando,Viernes,22,0,0,21.6,11430,3,Soleado,92
+Envigado,San Antonio,10.6,Caminando,Miercoles,12,1,0,35.1,8639,2,Tormenta,58
+Floresta,Sabaneta,1.4,Taxi,Jueves,14,1,0,0.3,1677,2,Lluvia,44
+Prado,Caribe,3.7,Caminando,Lunes,14,1,0,11.9,4166,1,Nublado,97
+Envigado,Estadio,13.1,Caminando,Domingo,12,1,1,40.9,11161,2,Tormenta,31
+Prado,Madera,11.1,Taxi,Domingo,17,1,1,3.7,11089,1,Nublado,61
+Itagui,Hospital,2.4,Bus,Miercoles,16,0,0,1.2,2050,3,Lluvia,56
+Niquia,San Javier,14.3,Cable,Martes,8,1,0,3.8,15001,2,Lluvia,38
+Niquia,Hospital,13.3,Taxi,Martes,19,1,0,5.5,11398,3,Tormenta,31
+Bello,Hospital,4.8,Caminando,Sabado,10,0,1,7.8,4354,3,Lluvia,21
+San Antonio,Parque Berrio,3.8,Cable,Martes,10,0,0,0.7,4245,1,Tormenta,70
+Floresta,Ayura,12.9,Metro,Viernes,13,1,0,6.3,11300,0,Lluvia,21
+Bello,Suramericana,9.6,Taxi,Martes,14,1,0,3.2,10003,0,Nublado,71
+Niquia,Parque Berrio,6.6,Taxi,Sabado,7,1,1,2.8,7900,3,Tormenta,17
+San Antonio,Suramericana,8.5,Caminando,Miercoles,13,1,0,26.8,9868,2,Lluvia,95
+Prado,Itagui,12.2,Taxi,Miercoles,13,1,0,3.7,10870,1,Lluvia,88
+Acevedo,Madera,14.1,Cable,Viernes,0,0,0,2.5,12394,2,Lluvia,91
+Hospital,Sabaneta,10.0,Bus,Viernes,7,1,0,8.6,9660,2,Soleado,36
+Niquia,Alpujarra,9.9,Taxi,Jueves,1,0,0,1.9,11375,0,Lluvia,48
+Parque Berrio,Envigado,9.2,Caminando,Miercoles,12,1,0,34.1,10608,1,Tormenta,67
+La Estrella,Cisneros,3.1,Cable,Viernes,20,0,0,0.6,3295,1,Lluvia,46
+Universidad,Madera,11.3,Caminando,Martes,5,0,0,19.8,10193,1,Soleado,90
+Parque Berrio,La Estrella,13.4,Metro,Viernes,12,1,0,6.8,12114,3,Lluvia,13
+Envigado,Caribe,10.3,Cable,Sabado,16,0,1,1.9,10084,3,Tormenta,51
+Prado,Estadio,7.8,Taxi,Miercoles,20,0,0,1.5,6365,2,Nublado,89
+Madera,Envigado,11.2,Cable,Martes,21,0,0,2.2,10002,3,Soleado,92
+Aguacatala,Caribe,3.8,Metro,Sabado,21,0,1,1.4,4138,1,Soleado,51
+Caribe,Universidad,11.4,Bus,Jueves,18,1,0,10.0,11024,0,Lluvia,40
+Envigado,Itagui,10.1,Bus,Viernes,5,0,0,4.5,11060,1,Lluvia,81
+Parque Berrio,Prado,11.3,Cable,Martes,15,0,0,2.4,11311,2,Nublado,12
+Itagui,San Antonio,9.6,Taxi,Sabado,18,1,1,3.0,10541,3,Soleado,33
+Itagui,Caribe,5.6,Cable,Miercoles,5,0,0,1.2,6653,3,Soleado,37
+Aguacatala,Floresta,2.8,Taxi,Miercoles,18,1,0,0.7,2430,2,Tormenta,16
+Envigado,Universidad,11.7,Bus,Lunes,1,0,0,4.6,13467,3,Tormenta,54
+San Javier,Universidad,3.6,Taxi,Lunes,16,0,0,0.8,2992,0,Nublado,12
+Prado,San Antonio,12.4,Bus,Viernes,20,0,0,6.0,10614,3,Soleado,54
+Cisneros,Caribe,11.9,Bus,Lunes,2,0,0,5.2,13959,2,Soleado,21
+Parque Berrio,Universidad,1.8,Cable,Jueves,20,0,0,0.4,1971,3,Tormenta,20
+Universidad,Santa Lucia,3.0,Caminando,Sabado,2,0,1,4.9,2631,0,Nublado,30
+Acevedo,Santa Lucia,1.7,Cable,Martes,14,1,0,0.6,1457,3,Tormenta,23
+Tricentenario,Universidad,7.3,Metro,Lunes,19,1,0,4.3,8680,3,Nublado,35
+Sabaneta,Estadio,7.0,Bus,Domingo,9,0,1,2.5,7966,1,Tormenta,93
+San Javier,Cisneros,11.7,Taxi,Miercoles,3,0,0,2.1,11056,0,Tormenta,90
+Ayura,Tricentenario,14.7,Taxi,Domingo,18,1,1,3.5,16199,1,Lluvia,54
+Floresta,Exposiciones,11.0,Metro,Martes,0,0,0,3.8,13178,3,Soleado,22
+Hospital,Aguacatala,6.9,Metro,Viernes,8,1,0,3.2,6603,1,Nublado,13
+Prado,Madera,14.0,Bus,Martes,4,0,0,5.3,12348,3,Nublado,81
+Aguacatala,Prado,7.2,Metro,Jueves,19,1,0,3.5,7934,0,Tormenta,39
+Tricentenario,Caribe,5.8,Taxi,Lunes,20,0,0,1.0,6670,0,Nublado,99
+Santa Lucia,Parque Berrio,1.2,Metro,Jueves,1,0,0,0.4,1265,3,Lluvia,64
+Suramericana,Parque Berrio,9.3,Caminando,Lunes,11,1,0,30.5,8258,1,Lluvia,71
+Cisneros,Acevedo,1.0,Bus,Viernes,14,1,0,0.4,1063,0,Soleado,36
+Niquia,Cisneros,7.3,Cable,Sabado,7,1,1,2.5,7417,0,Soleado,76
+Acevedo,Cisneros,9.3,Taxi,Lunes,3,0,0,2.2,9068,0,Tormenta,20
+Universidad,Envigado,4.5,Metro,Martes,14,1,0,2.1,3708,2,Lluvia,77
+Prado,Ayura,2.6,Taxi,Domingo,12,1,1,0.6,2543,2,Tormenta,64
+Santa Lucia,Industriales,3.9,Caminando,Sabado,15,0,1,8.0,4458,1,Tormenta,30
+Cisneros,Suramericana,7.1,Cable,Domingo,13,1,1,1.9,6553,1,Tormenta,12
+Bello,Madera,2.4,Taxi,Sabado,13,1,1,2.0,2062,0,Tormenta,85
+Aguacatala,Santa Lucia,1.3,Cable,Miercoles,8,1,0,0.4,1407,0,Lluvia,83
+Niquia,Alpujarra,5.4,Bus,Lunes,22,0,0,1.7,5999,0,Lluvia,92
+Cisneros,Sabaneta,9.9,Cable,Martes,19,1,0,2.9,11385,0,Tormenta,58
+Sabaneta,Envigado,14.4,Taxi,Sabado,13,1,1,3.7,15091,3,Lluvia,41
+Hospital,Caribe,11.3,Taxi,Martes,5,0,0,2.8,12475,2,Soleado,88
+Poblado,Cisneros,3.3,Metro,Martes,22,0,0,1.1,3755,1,Soleado,37
+Poblado,Bello,2.5,Caminando,Domingo,17,1,1,8.3,2842,0,Lluvia,22
+Envigado,Cisneros,13.6,Metro,Jueves,11,1,0,7.0,11030,2,Soleado,19
+Envigado,Exposiciones,3.3,Taxi,Jueves,17,1,0,0.9,3521,1,Tormenta,74
+Alpujarra,Aguacatala,12.4,Metro,Sabado,5,0,1,3.7,12921,2,Tormenta,95
+Madera,Universidad,5.2,Bus,Lunes,18,1,0,3.3,4576,3,Lluvia,31
+Sabaneta,Santa Lucia,7.5,Cable,Martes,16,0,0,1.6,8572,3,Soleado,44
+Bello,Sabaneta,4.6,Taxi,Lunes,22,0,0,1.1,4674,0,Lluvia,64
+Bello,Ayura,7.8,Caminando,Martes,7,1,0,28.4,7129,2,Tormenta,55
+Acevedo,Suramericana,3.5,Cable,Sabado,21,0,1,0.7,3552,2,Tormenta,59
+Envigado,Hospital,4.7,Taxi,Lunes,13,1,0,1.3,4127,2,Soleado,59
+Tricentenario,Universidad,4.9,Taxi,Viernes,7,1,0,1.3,5870,1,Lluvia,78
+Exposiciones,Itagui,13.3,Caminando,Domingo,19,1,1,32.5,15760,3,Soleado,64
+Niquia,La Estrella,4.0,Metro,Sabado,9,0,1,1.5,4748,1,Lluvia,94
+Estadio,Sabaneta,2.5,Bus,Martes,22,0,0,0.8,2000,2,Nublado,41
+Bello,Parque Berrio,6.6,Taxi,Domingo,16,0,1,1.5,5834,2,Lluvia,48
+Aguacatala,Tricentenario,7.0,Taxi,Miercoles,19,1,0,2.6,6580,0,Tormenta,61
+Madera,Ayura,10.8,Cable,Lunes,16,0,0,2.2,11653,0,Soleado,61
+Poblado,Itagui,7.2,Bus,Miercoles,8,1,0,4.7,6588,2,Nublado,60
+La Estrella,Exposiciones,10.8,Taxi,Martes,13,1,0,3.7,10357,3,Lluvia,98
+Madera,Alpujarra,12.3,Taxi,Miercoles,8,1,0,2.6,13604,1,Soleado,97
+Estadio,Aguacatala,13.4,Taxi,Miercoles,22,0,0,2.1,13963,0,Tormenta,97
+Floresta,Bello,3.9,Bus,Domingo,17,1,1,2.1,3370,0,Lluvia,51
+Alpujarra,La Estrella,1.7,Metro,Lunes,15,0,0,0.6,1622,1,Lluvia,77
+Itagui,Prado,15.0,Bus,Sabado,9,0,1,6.7,17685,3,Tormenta,73
+Industriales,Bello,1.2,Taxi,Martes,8,1,0,0.4,1183,3,Tormenta,53
+Envigado,Niquia,14.5,Caminando,Martes,9,0,0,25.4,16110,0,Tormenta,26
+Hospital,Cisneros,12.0,Taxi,Martes,12,1,0,3.9,13896,2,Soleado,23
+Exposiciones,San Javier,4.2,Taxi,Jueves,19,1,0,1.1,3704,1,Soleado,32
+Tricentenario,San Antonio,10.7,Bus,Miercoles,13,1,0,6.3,11909,0,Tormenta,13
+Acevedo,Madera,2.3,Bus,Sabado,22,0,1,1.1,2134,3,Soleado,10
+Estadio,Envigado,7.7,Metro,Martes,15,0,0,2.6,6930,0,Nublado,83
+Sabaneta,Alpujarra,2.9,Cable,Martes,8,1,0,1.0,3265,3,Soleado,28
+Floresta,Acevedo,4.2,Bus,Martes,6,1,0,3.0,4103,3,Soleado,69
+Envigado,Alpujarra,5.3,Bus,Martes,8,1,0,2.6,5602,2,Lluvia,56
+Suramericana,Estadio,4.6,Taxi,Sabado,1,0,1,1.0,4779,2,Nublado,35
+Madera,Tricentenario,5.0,Bus,Jueves,4,0,0,2.0,5870,3,Soleado,67
+Poblado,Suramericana,10.0,Cable,Miercoles,7,1,0,2.9,8980,3,Nublado,19
+Aguacatala,Alpujarra,12.2,Metro,Martes,17,1,0,5.7,10016,2,Lluvia,91
+Universidad,Bello,11.1,Cable,Sabado,7,1,1,3.0,10179,2,Nublado,49
+Niquia,Madera,7.2,Metro,Domingo,2,0,1,2.4,6005,3,Lluvia,32
+Prado,Parque Berrio,4.7,Taxi,Miercoles,11,1,0,1.1,4630,0,Tormenta,87
+Sabaneta,Universidad,1.2,Cable,Sabado,17,1,1,0.4,1370,2,Nublado,92
+Sabaneta,Acevedo,13.2,Bus,Jueves,14,1,0,10.3,13424,1,Soleado,49
+San Antonio,Ayura,2.5,Caminando,Viernes,4,0,0,5.7,2322,3,Nublado,14
+Suramericana,Madera,10.9,Caminando,Sabado,23,0,1,19.0,9854,1,Tormenta,30
+Ayura,Hospital,14.7,Bus,Sabado,3,0,1,7.6,15508,0,Tormenta,30
+Itagui,Universidad,11.0,Bus,Lunes,16,0,0,4.6,9614,0,Soleado,24
+Niquia,Universidad,1.9,Bus,Lunes,0,0,0,0.8,1889,0,Soleado,13
+Ayura,San Javier,11.0,Caminando,Miercoles,17,1,0,29.4,9856,2,Tormenta,21
+Parque Berrio,Bello,10.1,Bus,Sabado,9,0,1,4.4,10716,0,Tormenta,45
+Industriales,Cisneros,5.4,Caminando,Martes,4,0,0,10.4,5189,0,Soleado,10
+Universidad,Estadio,1.0,Metro,Sabado,12,1,1,0.5,1180,3,Tormenta,19
+San Antonio,Niquia,6.9,Metro,Martes,13,1,0,2.5,6824,2,Soleado,100
+Madera,Floresta,8.6,Bus,Domingo,0,0,1,2.6,9477,2,Tormenta,15
+Ayura,La Estrella,7.0,Metro,Martes,17,1,0,3.4,7511,3,Nublado,59
+Sabaneta,Poblado,8.8,Metro,Domingo,7,1,1,4.8,9416,3,Soleado,56
+Niquia,Exposiciones,7.3,Caminando,Viernes,5,0,0,12.1,7249,0,Nublado,26
+Niquia,Acevedo,7.4,Bus,Sabado,22,0,1,3.8,8036,1,Tormenta,11
+Parque Berrio,Madera,14.1,Caminando,Viernes,18,1,0,56.1,14960,2,Soleado,68
+Aguacatala,Poblado,7.8,Taxi,Domingo,2,0,1,1.5,6536,0,Nublado,45
+Madera,La Estrella,4.7,Caminando,Sabado,4,0,1,8.1,4907,2,Soleado,67
+Bello,Cisneros,2.5,Taxi,Lunes,8,1,0,0.8,2058,2,Tormenta,74
+Tricentenario,Niquia,8.0,Caminando,Viernes,4,0,0,12.8,9400,0,Soleado,90
+Exposiciones,Hospital,7.4,Taxi,Martes,8,1,0,1.7,7696,1,Nublado,81
+Sabaneta,San Antonio,7.8,Taxi,Viernes,1,0,0,1.7,8299,1,Nublado,98
+Prado,Floresta,14.9,Cable,Domingo,2,0,1,2.7,16047,2,Soleado,71
+Madera,Bello,2.3,Taxi,Miercoles,20,0,0,0.5,2558,1,Tormenta,23
+Cisneros,San Javier,2.1,Metro,Miercoles,5,0,0,0.8,1924,3,Soleado,82
+Tricentenario,Hospital,12.3,Metro,Viernes,14,1,0,19.0,14243,0,Lluvia,81
+Santa Lucia,San Antonio,12.2,Taxi,Domingo,20,0,1,2.5,13225,1,Tormenta,54
+Tricentenario,La Estrella,6.8,Taxi,Viernes,15,0,0,1.5,7949,1,Tormenta,35
+Suramericana,Parque Berrio,1.5,Caminando,Miercoles,6,1,0,3.9,1708,3,Nublado,97
+Caribe,Madera,7.1,Cable,Domingo,6,1,1,2.5,6227,3,Soleado,61
+Prado,Itagui,7.3,Cable,Lunes,23,0,0,1.5,8519,2,Lluvia,79
+Ayura,Universidad,12.2,Caminando,Jueves,5,0,0,23.3,13688,2,Tormenta,27
+Envigado,Bello,12.4,Taxi,Sabado,1,0,1,3.0,12412,2,Tormenta,89
+San Antonio,Exposiciones,3.9,Metro,Domingo,12,1,1,1.9,4196,2,Lluvia,23
+Bello,Ayura,13.5,Taxi,Miercoles,21,0,0,2.2,11488,3,Tormenta,22
+Sabaneta,Santa Lucia,10.9,Metro,Viernes,10,0,0,3.6,12546,1,Nublado,91
+Niquia,Industriales,12.4,Caminando,Miercoles,7,1,0,48.0,11036,0,Soleado,95
+Tricentenario,Universidad,13.2,Cable,Martes,18,1,0,3.3,15286,0,Soleado,50
+Acevedo,Alpujarra,7.2,Bus,Viernes,11,1,0,5.2,5918,3,Soleado,66
+Santa Lucia,Universidad,14.0,Bus,Martes,19,1,0,10.0,11396,1,Soleado,16
+Niquia,Industriales,14.6,Taxi,Sabado,19,1,1,4.3,16002,0,Soleado,45
+Alpujarra,Tricentenario,8.1,Metro,Domingo,13,1,1,4.9,8724,2,Soleado,38
+La Estrella,San Antonio,5.8,Caminando,Miercoles,5,0,0,12.8,6676,2,Nublado,15
+Alpujarra,Industriales,14.5,Metro,Sabado,1,0,1,5.0,16370,0,Tormenta,83
+Industriales,Itagui,11.0,Metro,Viernes,17,1,0,4.8,10153,3,Lluvia,98
+San Javier,Tricentenario,5.3,Bus,Sabado,6,1,1,4.3,4293,0,Tormenta,72
+Poblado,Exposiciones,4.1,Bus,Sabado,10,0,1,1.8,3432,3,Nublado,58
+San Antonio,Prado,2.5,Bus,Domingo,5,0,1,1.0,2078,1,Nublado,38
+Suramericana,Hospital,1.2,Taxi,Jueves,3,0,0,0.3,1355,3,Soleado,55
+Hospital,Niquia,4.4,Caminando,Domingo,13,1,1,13.3,4404,3,Nublado,27
+Sabaneta,Niquia,5.7,Taxi,Domingo,10,0,1,1.4,6145,3,Lluvia,82
+Caribe,Madera,5.4,Bus,Viernes,23,0,0,2.0,4984,3,Nublado,11
+Santa Lucia,Tricentenario,2.1,Cable,Miercoles,11,1,0,1.8,1680,3,Soleado,21
+Suramericana,Alpujarra,3.5,Bus,Sabado,22,0,1,1.3,2975,1,Soleado,55
+Ayura,Cisneros,11.1,Metro,Jueves,18,1,0,6.3,13264,0,Tormenta,37
+Envigado,Alpujarra,11.2,Taxi,Jueves,17,1,0,4.2,11648,1,Soleado,58
+Envigado,Ayura,13.8,Metro,Lunes,1,0,0,4.6,15980,1,Soleado,80
+Exposiciones,La Estrella,13.6,Bus,Jueves,18,1,0,9.2,13042,0,Soleado,75
+Tricentenario,Universidad,3.5,Cable,Martes,0,0,0,0.7,3028,1,Nublado,94
+Tricentenario,Bello,7.8,Taxi,Sabado,8,1,1,2.0,9227,0,Soleado,63
+Alpujarra,Sabaneta,10.4,Caminando,Martes,6,1,0,38.0,11690,1,Soleado,45
+Santa Lucia,Floresta,11.0,Bus,Miercoles,4,0,0,4.4,9515,0,Nublado,57
+Santa Lucia,Universidad,6.9,Metro,Sabado,16,0,1,2.7,6914,1,Soleado,97
+Cisneros,Bello,7.4,Taxi,Sabado,7,1,1,2.4,7955,1,Nublado,19
+San Javier,Niquia,10.6,Bus,Lunes,2,0,0,5.0,8872,3,Lluvia,58
+Sabaneta,Bello,2.7,Bus,Domingo,23,0,1,1.3,3183,2,Soleado,89
+Exposiciones,Industriales,12.2,Bus,Miercoles,18,1,0,5.5,12883,0,Lluvia,61
+Envigado,Alpujarra,6.4,Cable,Lunes,14,1,0,2.3,6797,3,Lluvia,56
+Bello,San Antonio,10.2,Caminando,Martes,8,1,0,30.2,11730,2,Nublado,38
+Itagui,Industriales,3.3,Taxi,Domingo,9,0,1,0.6,3290,1,Tormenta,25
+Madera,San Antonio,10.3,Bus,Domingo,6,1,1,8.6,11165,2,Lluvia,96
+Tricentenario,Acevedo,8.5,Caminando,Sabado,20,0,1,17.0,9784,0,Tormenta,28
+La Estrella,Hospital,4.7,Taxi,Miercoles,2,0,0,0.8,4333,1,Lluvia,68
+Caribe,Exposiciones,4.1,Metro,Domingo,17,1,1,1.7,4727,1,Soleado,20
+Santa Lucia,Alpujarra,6.2,Caminando,Sabado,12,1,1,20.0,7266,3,Lluvia,73
+San Antonio,Cisneros,11.1,Cable,Viernes,18,1,0,4.2,10012,2,Nublado,65
+Alpujarra,Sabaneta,14.0,Cable,Lunes,12,1,0,4.4,11648,3,Nublado,45
+Tricentenario,Madera,1.3,Bus,Miercoles,9,0,0,1.5,1451,2,Soleado,53
+Caribe,Suramericana,12.0,Cable,Domingo,4,0,1,2.3,11448,3,Nublado,24
+Hospital,Niquia,6.2,Cable,Jueves,4,0,0,1.3,5803,1,Tormenta,25
+Cisneros,Parque Berrio,4.5,Metro,Lunes,8,1,0,3.1,4293,2,Lluvia,37
+Santa Lucia,Cisneros,4.1,Metro,Miercoles,18,1,0,2.1,4707,0,Soleado,78
+La Estrella,Santa Lucia,13.9,Metro,Jueves,16,0,0,4.0,13733,3,Soleado,81
+Prado,Alpujarra,11.3,Bus,Viernes,11,1,0,6.4,11696,2,Lluvia,97
+La Estrella,Santa Lucia,3.7,Cable,Sabado,3,0,1,0.8,4240,0,Tormenta,53
+Floresta,Tricentenario,2.8,Bus,Sabado,14,1,1,1.8,2517,3,Soleado,24
+Prado,Bello,12.4,Metro,Miercoles,22,0,0,4.7,10317,0,Lluvia,51
+La Estrella,Ayura,7.8,Metro,Domingo,0,0,1,2.8,6497,2,Nublado,50
+Poblado,Santa Lucia,9.5,Bus,Lunes,13,1,0,5.0,11334,1,Tormenta,77
+Suramericana,La Estrella,3.8,Metro,Jueves,5,0,0,1.1,3720,1,Tormenta,32
+Floresta,Niquia,12.0,Caminando,Jueves,5,0,0,22.5,13380,2,Nublado,40
+Tricentenario,Universidad,4.2,Bus,Lunes,22,0,0,1.8,4654,1,Soleado,46
+Alpujarra,Ayura,4.2,Bus,Martes,7,1,0,2.5,4368,3,Soleado,16
+Envigado,Poblado,9.5,Metro,Viernes,5,0,0,3.5,10051,1,Nublado,58
+Bello,Tricentenario,6.5,Metro,Martes,3,0,0,2.0,7040,1,Nublado,100
+Madera,Ayura,11.9,Cable,Lunes,8,1,0,3.5,10317,1,Nublado,37
+Santa Lucia,Tricentenario,9.9,Bus,Lunes,22,0,0,4.6,8692,2,Nublado,95
+San Javier,La Estrella,6.7,Bus,Miercoles,23,0,0,2.5,7477,2,Nublado,57
+La Estrella,Bello,13.1,Cable,Lunes,20,0,0,2.5,11240,0,Lluvia,60
+San Javier,Cisneros,1.1,Cable,Jueves,3,0,0,0.2,1195,2,Soleado,93
+Envigado,San Antonio,4.1,Bus,Martes,21,0,0,1.5,3399,2,Tormenta,39
+Itagui,Estadio,1.9,Cable,Miercoles,11,1,0,0.7,1830,2,Soleado,32
+La Estrella,Santa Lucia,14.7,Metro,Martes,2,0,0,4.4,17522,2,Lluvia,64
+Prado,Niquia,9.3,Caminando,Miercoles,2,0,0,16.5,10044,3,Lluvia,33
+Bello,Ayura,3.4,Metro,Miercoles,0,0,0,1.3,2842,3,Soleado,27
+Floresta,San Javier,14.2,Metro,Martes,9,0,0,4.9,14484,3,Tormenta,78
+Itagui,San Javier,4.0,Cable,Domingo,1,0,1,0.7,4188,1,Soleado,87
+Estadio,Caribe,10.4,Bus,Miercoles,20,0,0,3.0,12022,3,Tormenta,55
+Hospital,San Javier,3.8,Bus,Jueves,21,0,0,1.6,3781,2,Lluvia,34
+Niquia,Envigado,4.3,Caminando,Domingo,10,0,1,7.4,4730,0,Lluvia,13
+Estadio,Alpujarra,8.9,Cable,Domingo,8,1,1,3.1,10360,0,Soleado,27
+Industriales,Itagui,8.6,Cable,Martes,9,0,0,1.8,8187,3,Tormenta,49
+Madera,Poblado,10.7,Bus,Jueves,11,1,0,5.3,10786,1,Lluvia,50
+Santa Lucia,Hospital,14.7,Cable,Sabado,1,0,1,3.0,15244,3,Soleado,24
+La Estrella,Itagui,4.1,Taxi,Miercoles,18,1,0,1.2,4789,0,Nublado,57
+Alpujarra,Acevedo,6.8,Bus,Domingo,5,0,1,2.2,5712,2,Lluvia,77
+Sabaneta,Envigado,5.9,Caminando,Sabado,19,1,1,17.5,5717,2,Lluvia,38
+Parque Berrio,Floresta,6.5,Taxi,Viernes,9,0,0,1.6,7702,1,Lluvia,45
+Itagui,Poblado,13.3,Taxi,Sabado,18,1,1,3.7,15109,1,Nublado,38
+Bello,Sabaneta,9.5,Taxi,Domingo,13,1,1,3.3,10849,2,Soleado,41
+Caribe,Acevedo,1.9,Metro,Lunes,14,1,0,1.0,1986,2,Lluvia,76
+Alpujarra,Universidad,6.2,Taxi,Miercoles,22,0,0,1.2,7428,1,Soleado,41
+Niquia,Madera,12.9,Taxi,Viernes,18,1,0,3.2,11791,0,Soleado,28
+Floresta,Alpujarra,11.3,Metro,Martes,3,0,0,3.7,11097,3,Nublado,52
+Itagui,San Antonio,14.6,Cable,Jueves,17,1,0,4.2,12191,2,Lluvia,80
+Parque Berrio,Universidad,6.4,Taxi,Martes,10,0,0,1.0,6893,2,Soleado,36
+Parque Berrio,Caribe,1.5,Bus,Lunes,5,0,0,0.5,1424,1,Lluvia,62
+Universidad,San Javier,10.3,Metro,Viernes,9,0,0,3.7,12144,3,Soleado,14
+Envigado,Cisneros,9.0,Taxi,Martes,22,0,0,1.6,7425,1,Soleado,92
+San Javier,Aguacatala,4.7,Cable,Martes,2,0,0,1.0,4526,0,Nublado,39
+Envigado,Cisneros,12.4,Taxi,Sabado,5,0,1,2.6,12400,2,Nublado,67
+Estadio,San Antonio,8.3,Bus,Sabado,6,1,1,9.0,8043,3,Soleado,37
+Universidad,Niquia,4.6,Bus,Domingo,7,1,1,2.4,5258,3,Tormenta,56
+Cisneros,Niquia,9.5,Cable,Jueves,4,0,0,1.8,8806,0,Nublado,45
+La Estrella,Alpujarra,13.7,Bus,Miercoles,2,0,0,6.3,12768,3,Nublado,40
+Niquia,Hospital,8.6,Taxi,Domingo,1,0,1,1.7,9434,0,Soleado,68
+Santa Lucia,Caribe,1.7,Bus,Viernes,4,0,0,0.6,1987,3,Lluvia,94
+Envigado,Poblado,5.5,Metro,Lunes,20,0,0,1.7,6088,1,Lluvia,16
+Exposiciones,Alpujarra,3.2,Caminando,Domingo,17,1,1,11.1,2662,1,Nublado,50
+Sabaneta,Bello,6.5,Caminando,Viernes,10,0,0,13.2,6884,1,Nublado,72
+Hospital,San Javier,12.1,Bus,Miercoles,18,1,0,4.9,10418,3,Soleado,40
+Santa Lucia,Alpujarra,10.4,Caminando,Viernes,23,0,0,24.1,10733,0,Tormenta,47
+Santa Lucia,Bello,2.4,Bus,Lunes,4,0,0,1.2,2772,2,Nublado,86
+San Antonio,Estadio,3.5,Metro,Miercoles,3,0,0,1.4,4140,2,Nublado,38
+Envigado,Poblado,13.0,Bus,Martes,0,0,0,4.1,11570,3,Lluvia,97
+Suramericana,Prado,13.7,Caminando,Jueves,12,1,0,39.1,12330,1,Lluvia,47
+Parque Berrio,Aguacatala,8.1,Metro,Viernes,16,0,0,2.8,7598,3,Soleado,31
+Niquia,Exposiciones,2.0,Caminando,Martes,12,1,0,6.4,2058,3,Lluvia,89
+Santa Lucia,Caribe,3.2,Cable,Jueves,20,0,0,0.7,3238,1,Lluvia,33
+Poblado,Ayura,13.8,Cable,Viernes,5,0,0,5.9,13855,2,Soleado,28
+Suramericana,Sabaneta,9.0,Bus,Miercoles,20,0,0,4.5,8514,0,Soleado,51
+Estadio,Industriales,5.4,Bus,Miercoles,4,0,0,2.4,4963,3,Nublado,69
+San Javier,Estadio,12.6,Bus,Jueves,13,1,0,9.3,10345,3,Tormenta,19
+San Antonio,Santa Lucia,10.0,Taxi,Domingo,16,0,1,2.1,9040,0,Nublado,93
+Envigado,Suramericana,10.9,Metro,Jueves,8,1,0,5.4,9559,0,Nublado,19
+Alpujarra,Estadio,11.0,Taxi,Viernes,21,0,0,2.2,11858,3,Tormenta,61
+Parque Berrio,Niquia,4.7,Metro,Domingo,3,0,1,1.6,4493,1,Soleado,15
+Suramericana,Exposiciones,7.2,Bus,Domingo,16,0,1,2.9,6912,2,Tormenta,91
+Exposiciones,Parque Berrio,9.3,Cable,Lunes,23,0,0,1.9,10574,1,Soleado,88
+Tricentenario,Floresta,3.7,Cable,Domingo,5,0,1,0.7,3045,2,Nublado,88
+Prado,Itagui,14.1,Bus,Jueves,9,0,0,7.1,16328,0,Soleado,70
+Sabaneta,Poblado,9.1,Bus,Lunes,18,1,0,6.0,8199,0,Soleado,17
+Hospital,Poblado,10.9,Cable,Martes,0,0,0,2.0,9810,1,Lluvia,34
+Envigado,Exposiciones,9.8,Bus,Miercoles,0,0,0,3.5,9065,1,Soleado,55
+Envigado,Floresta,10.2,Bus,Sabado,19,1,1,6.8,10231,3,Nublado,68
+Estadio,Industriales,13.3,Bus,Domingo,5,0,1,5.3,15215,1,Nublado,71
+Industriales,Estadio,13.4,Metro,Martes,10,0,0,5.3,15866,3,Nublado,60
+Poblado,Acevedo,14.5,Bus,Lunes,17,1,0,7.9,16516,1,Nublado,38
+Santa Lucia,Sabaneta,5.9,Bus,Jueves,21,0,0,1.9,6915,0,Tormenta,51
+Santa Lucia,Suramericana,6.4,Metro,Domingo,15,0,1,2.3,7181,2,Nublado,10
+La Estrella,Envigado,4.5,Caminando,Viernes,20,0,0,7.5,4995,3,Tormenta,24
+Poblado,Envigado,9.1,Metro,Lunes,18,1,0,4.4,8909,3,Nublado,96
+Niquia,Floresta,6.2,Bus,Viernes,12,1,0,4.7,5499,2,Soleado,27
+San Antonio,Aguacatala,5.8,Bus,Sabado,19,1,1,2.8,6525,0,Tormenta,48
+Tricentenario,Sabaneta,9.8,Caminando,Domingo,14,1,1,27.0,9359,0,Tormenta,83
+Sabaneta,Exposiciones,8.7,Cable,Domingo,17,1,1,2.6,8091,2,Lluvia,61
+Prado,Madera,2.6,Caminando,Jueves,19,1,0,7.4,2917,2,Nublado,61
+Floresta,Itagui,5.1,Caminando,Miercoles,3,0,0,25.7,4106,1,Tormenta,11
+San Antonio,Caribe,3.0,Metro,Viernes,5,0,0,1.0,2844,0,Soleado,79
+Caribe,Parque Berrio,11.8,Caminando,Sabado,11,1,1,32.8,10585,0,Lluvia,71
+Parque Berrio,Santa Lucia,4.7,Caminando,Viernes,7,1,0,19.3,4756,1,Soleado,29
+Poblado,Cisneros,4.0,Taxi,Martes,1,0,0,0.9,4756,3,Soleado,85
+Estadio,Sabaneta,13.8,Taxi,Jueves,6,1,0,5.1,12875,1,Tormenta,79
+San Javier,Parque Berrio,8.0,Cable,Lunes,18,1,0,5.8,8328,1,Tormenta,92
+Suramericana,Bello,7.0,Metro,Jueves,20,0,0,2.7,6426,2,Lluvia,48
+Prado,Tricentenario,7.8,Caminando,Sabado,1,0,1,16.6,8471,3,Lluvia,31
+Parque Berrio,Bello,5.5,Cable,Viernes,4,0,0,1.1,5742,1,Lluvia,64
+Estadio,Caribe,5.6,Bus,Jueves,3,0,0,1.9,6367,2,Tormenta,13
+Prado,Ayura,8.6,Taxi,Miercoles,12,1,0,2.7,9520,3,Lluvia,31
+Acevedo,Prado,7.8,Caminando,Sabado,10,0,1,13.0,7566,2,Nublado,23
+Caribe,Floresta,6.5,Caminando,Miercoles,0,0,0,13.8,5421,3,Nublado,91
+Tricentenario,San Javier,11.8,Cable,Jueves,5,0,0,2.4,10927,2,Lluvia,96
+San Antonio,Itagui,3.4,Taxi,Sabado,5,0,1,0.8,3264,0,Tormenta,24
+Ayura,San Antonio,7.3,Cable,Martes,19,1,0,2.3,8220,0,Lluvia,49
+Sabaneta,Madera,4.8,Taxi,Lunes,14,1,0,1.2,5736,1,Lluvia,66
+Ayura,Estadio,6.0,Taxi,Jueves,14,1,0,1.8,5412,2,Lluvia,87
+Universidad,Bello,4.1,Taxi,Martes,15,0,0,0.7,3452,0,Nublado,40
+Cisneros,La Estrella,14.1,Caminando,Martes,5,0,0,28.3,12535,0,Lluvia,32
+Aguacatala,Itagui,12.6,Cable,Viernes,0,0,0,2.5,10483,2,Nublado,25
+Poblado,Floresta,14.0,Taxi,Martes,10,0,0,3.1,14868,0,Soleado,75
+Itagui,Acevedo,3.6,Taxi,Miercoles,21,0,0,0.6,3038,3,Tormenta,58
+Caribe,Sabaneta,4.1,Cable,Miercoles,2,0,0,0.9,4547,2,Tormenta,90
+Suramericana,Industriales,10.7,Taxi,Martes,1,0,0,1.7,11588,2,Tormenta,39
+Itagui,Niquia,3.3,Caminando,Miercoles,21,0,0,7.1,3330,2,Lluvia,31
+La Estrella,Parque Berrio,9.7,Cable,Jueves,23,0,0,2.1,10806,3,Lluvia,66
+Caribe,Itagui,11.6,Taxi,Martes,10,0,0,1.9,9930,0,Nublado,28
+Madera,Aguacatala,12.5,Caminando,Lunes,23,0,0,23.0,14088,3,Soleado,69
+Niquia,Alpujarra,14.0,Caminando,Domingo,9,0,1,31.5,12670,3,Tormenta,30
+Ayura,Exposiciones,11.2,Caminando,Domingo,2,0,1,23.6,11838,2,Tormenta,78
+Acevedo,Suramericana,12.7,Metro,Jueves,7,1,0,6.2,10224,0,Nublado,23
+Poblado,Aguacatala,3.1,Caminando,Sabado,11,1,1,12.5,2830,2,Soleado,90
+Cisneros,San Javier,11.6,Taxi,Martes,17,1,0,3.8,13247,2,Nublado,26
+San Javier,Exposiciones,12.0,Metro,Martes,3,0,0,3.3,12864,1,Tormenta,49
+Tricentenario,San Javier,11.1,Taxi,Sabado,3,0,1,1.7,11888,2,Soleado,74
+Santa Lucia,Acevedo,13.3,Metro,Lunes,10,0,0,4.1,12036,3,Soleado,53
+Santa Lucia,Cisneros,11.6,Caminando,Viernes,6,1,0,30.2,11345,3,Nublado,36
+Alpujarra,Hospital,9.8,Caminando,Viernes,22,0,0,19.9,11603,3,Soleado,56
+La Estrella,Parque Berrio,10.1,Cable,Domingo,7,1,1,3.7,10595,1,Lluvia,54
+Suramericana,Acevedo,6.5,Metro,Lunes,9,0,0,2.3,5642,1,Tormenta,72
+Caribe,Aguacatala,15.0,Metro,Domingo,17,1,1,8.0,13905,2,Nublado,76
+Madera,Industriales,2.1,Taxi,Lunes,2,0,0,0.5,2428,3,Lluvia,91
+Universidad,Alpujarra,12.6,Caminando,Sabado,9,0,1,20.6,10874,0,Nublado,95
+Envigado,Itagui,1.1,Metro,Martes,15,0,0,0.3,1118,1,Soleado,43
+La Estrella,Prado,9.3,Taxi,Jueves,3,0,0,2.1,10174,3,Soleado,63
+Aguacatala,Exposiciones,9.0,Taxi,Lunes,21,0,0,1.5,8478,3,Lluvia,50
+Estadio,Alpujarra,8.5,Metro,Domingo,7,1,1,4.5,8772,2,Nublado,12
+La Estrella,Industriales,11.6,Caminando,Martes,3,0,0,26.3,13885,0,Nublado,49
+Universidad,Sabaneta,3.9,Caminando,Jueves,2,0,0,7.7,3834,1,Nublado,37
+Exposiciones,Parque Berrio,2.3,Cable,Martes,0,0,0,0.5,2571,0,Lluvia,34
+Ayura,San Javier,6.5,Cable,Domingo,5,0,1,1.3,5330,2,Soleado,93
+Caribe,Prado,7.3,Metro,Domingo,1,0,1,2.1,6884,0,Soleado,17
+Santa Lucia,Floresta,2.4,Cable,Sabado,18,1,1,0.6,2213,0,Soleado,89
+Aguacatala,Floresta,3.0,Caminando,Domingo,3,0,1,5.5,2442,3,Nublado,59
+Prado,Sabaneta,6.2,Cable,Martes,5,0,0,1.4,5413,1,Lluvia,11
+Prado,Floresta,2.5,Bus,Domingo,13,1,1,1.6,2488,3,Soleado,98
+Exposiciones,Universidad,8.6,Metro,Lunes,0,0,0,2.8,7121,1,Soleado,14
+Sabaneta,San Antonio,2.0,Bus,Domingo,13,1,1,1.1,1630,0,Lluvia,69
+Aguacatala,La Estrella,7.9,Taxi,Jueves,1,0,0,1.3,8595,0,Soleado,69
+Universidad,La Estrella,10.2,Cable,Sabado,6,1,1,2.6,10139,0,Tormenta,19
+La Estrella,Exposiciones,1.3,Cable,Viernes,5,0,0,0.3,1512,2,Tormenta,24
+Aguacatala,Acevedo,7.6,Caminando,Jueves,17,1,0,17.4,6285,1,Nublado,48
+Parque Berrio,Cisneros,2.3,Bus,Sabado,11,1,1,1.2,2530,2,Soleado,28
+Floresta,San Javier,11.4,Metro,Domingo,8,1,1,6.4,11309,0,Nublado,96
+Caribe,Poblado,13.9,Taxi,Miercoles,3,0,0,2.7,14428,2,Soleado,96
+Tricentenario,Parque Berrio,2.6,Taxi,Domingo,11,1,1,0.5,2226,2,Soleado,31
+Suramericana,Industriales,11.3,Caminando,Domingo,22,0,1,25.3,10509,3,Tormenta,75
+San Javier,Industriales,15.0,Bus,Domingo,14,1,1,11.6,15495,2,Soleado,75
+Floresta,Hospital,14.7,Cable,Miercoles,17,1,0,3.6,16023,1,Soleado,65
+Parque Berrio,Bello,6.5,Metro,Sabado,18,1,1,4.1,6279,1,Lluvia,79
+Prado,Envigado,8.1,Cable,Lunes,14,1,0,2.4,7800,2,Tormenta,33
+Tricentenario,Floresta,3.8,Metro,Viernes,2,0,0,1.4,4484,1,Soleado,55
+San Antonio,Niquia,1.3,Bus,Martes,0,0,0,0.5,1234,3,Tormenta,40
+Itagui,Acevedo,2.7,Caminando,Viernes,0,0,0,4.6,2190,0,Tormenta,82
+Estadio,Floresta,3.8,Bus,Jueves,4,0,0,1.5,4347,3,Soleado,59
+Niquia,Itagui,14.2,Taxi,Martes,17,1,0,5.3,13234,3,Nublado,15
+Bello,Niquia,10.6,Caminando,Miercoles,16,0,0,19.1,8999,1,Tormenta,20
+Acevedo,Envigado,10.7,Metro,Jueves,2,0,0,3.3,11695,2,Nublado,12
+Universidad,San Javier,6.1,Taxi,Domingo,0,0,1,1.1,6167,3,Soleado,67
+San Antonio,Industriales,5.0,Caminando,Viernes,19,1,0,16.6,5130,1,Soleado,22
+Bello,Itagui,12.3,Bus,Sabado,20,0,1,5.5,10406,1,Nublado,93
+Hospital,Envigado,3.1,Cable,Domingo,9,0,1,0.7,3320,2,Soleado,73
+Prado,Floresta,12.1,Taxi,Martes,14,1,0,4.0,10660,1,Lluvia,68
+Niquia,Bello,14.9,Taxi,Viernes,5,0,0,3.1,17269,2,Soleado,80
+Acevedo,Santa Lucia,12.0,Cable,Miercoles,20,0,0,2.6,9708,2,Tormenta,24
+Bello,Madera,1.8,Cable,Miercoles,5,0,0,0.8,1957,1,Nublado,68
+Madera,Niquia,8.9,Metro,Lunes,6,1,0,5.7,7520,1,Soleado,93
+Prado,Itagui,7.1,Taxi,Lunes,15,0,0,1.3,8484,2,Lluvia,58
+Floresta,Bello,14.7,Taxi,Martes,5,0,0,2.8,16523,2,Tormenta,13
+Acevedo,La Estrella,6.1,Metro,Viernes,7,1,0,3.8,7161,2,Tormenta,29
+Prado,Hospital,7.9,Taxi,Lunes,13,1,0,2.1,9377,0,Nublado,68
+San Javier,Caribe,12.9,Cable,Miercoles,0,0,0,2.7,12629,3,Nublado,26
+Prado,Madera,8.1,Caminando,Viernes,13,1,0,31.2,8416,0,Nublado,84
+Bello,San Javier,6.8,Bus,Sabado,0,0,1,3.4,6494,3,Lluvia,28
+Tricentenario,Prado,1.8,Taxi,Martes,6,1,0,0.7,1944,1,Soleado,29
+Madera,Alpujarra,3.3,Cable,Sabado,19,1,1,2.8,3805,2,Lluvia,92
+Cisneros,Madera,11.8,Metro,Viernes,21,0,0,4.0,10325,3,Nublado,10
+San Javier,Industriales,10.5,Bus,Sabado,7,1,1,7.6,9356,0,Lluvia,85
+Suramericana,Industriales,4.6,Caminando,Domingo,12,1,1,15.0,3915,0,Nublado,21
+Caribe,Exposiciones,2.2,Taxi,Viernes,21,0,0,0.5,1793,0,Tormenta,16
+Parque Berrio,La Estrella,8.0,Caminando,Miercoles,0,0,0,13.4,8464,3,Soleado,17
+Universidad,Caribe,9.3,Metro,Miercoles,6,1,0,5.0,7673,0,Soleado,45
+Bello,Niquia,4.4,Bus,Lunes,15,0,0,2.0,3740,3,Tormenta,15
+Estadio,Floresta,11.6,Metro,Miercoles,12,1,0,7.5,13734,0,Lluvia,22
+Itagui,San Javier,13.1,Taxi,Sabado,14,1,1,5.1,13414,2,Nublado,53
+Ayura,Caribe,8.8,Metro,Domingo,15,0,1,3.1,9390,0,Tormenta,27
+Estadio,Poblado,7.6,Caminando,Miercoles,22,0,0,17.9,6186,0,Tormenta,29
+Tricentenario,Hospital,4.5,Caminando,Miercoles,20,0,0,9.0,4054,3,Lluvia,39
+Bello,Aguacatala,3.5,Cable,Martes,3,0,0,2.1,3784,2,Lluvia,69
+Ayura,Bello,10.4,Metro,Viernes,20,0,0,3.2,9038,1,Tormenta,33
+Caribe,Acevedo,9.4,Cable,Lunes,1,0,0,2.0,9710,2,Tormenta,95
+Aguacatala,Niquia,1.9,Cable,Viernes,21,0,0,0.4,2080,2,Nublado,21
+San Antonio,Bello,6.4,Metro,Lunes,9,0,0,1.7,5830,1,Lluvia,15
+Cisneros,La Estrella,12.9,Caminando,Martes,5,0,0,27.9,14409,1,Nublado,46
+Envigado,Parque Berrio,1.1,Caminando,Lunes,7,1,0,4.3,922,0,Lluvia,39
+Bello,Caribe,7.7,Metro,Martes,2,0,0,2.4,8324,3,Lluvia,61
+Santa Lucia,Cisneros,4.3,Bus,Martes,21,0,0,1.8,4154,0,Soleado,45
+Aguacatala,Industriales,13.0,Taxi,Viernes,15,0,0,2.1,14066,2,Lluvia,24
+Tricentenario,Itagui,12.3,Metro,Lunes,15,0,0,3.5,14649,3,Soleado,53
+Alpujarra,Prado,11.7,Bus,Sabado,20,0,1,5.6,10717,3,Soleado,29
+Parque Berrio,Cisneros,11.8,Taxi,Lunes,23,0,0,2.3,10290,0,Lluvia,18
+Poblado,Acevedo,12.6,Metro,Domingo,6,1,1,6.1,14944,3,Nublado,71
+San Javier,Estadio,5.5,Metro,Lunes,3,0,0,2.2,6584,1,Tormenta,47
+Cisneros,Madera,10.4,Taxi,Lunes,10,0,0,2.0,9235,2,Lluvia,60
+San Javier,Ayura,8.8,Cable,Lunes,14,1,0,3.4,8967,2,Nublado,11
+Poblado,San Javier,7.7,Cable,Martes,6,1,0,2.4,7492,1,Tormenta,70
+Industriales,Floresta,4.1,Bus,Jueves,19,1,0,2.8,4551,0,Tormenta,95
+Santa Lucia,Niquia,9.3,Taxi,Lunes,16,0,0,1.6,9030,2,Nublado,43
+Niquia,Exposiciones,7.6,Metro,Jueves,16,0,0,2.6,7349,3,Tormenta,42
+Estadio,Niquia,6.8,Taxi,Miercoles,21,0,0,1.1,7507,3,Tormenta,100
+San Antonio,Exposiciones,9.2,Taxi,Domingo,13,1,1,3.1,8574,1,Nublado,71
+Universidad,Industriales,3.5,Bus,Viernes,23,0,0,1.6,3952,1,Tormenta,23
+Acevedo,Suramericana,7.0,Metro,Martes,11,1,0,3.1,5803,2,Nublado,88
+Envigado,Alpujarra,9.1,Metro,Miercoles,8,1,0,4.0,9255,0,Nublado,84
+Suramericana,Caribe,14.9,Bus,Jueves,5,0,0,7.7,12024,0,Lluvia,33
+San Javier,Exposiciones,6.9,Taxi,Jueves,2,0,0,1.1,7155,0,Nublado,20
+Exposiciones,Universidad,14.2,Cable,Martes,10,0,0,2.7,12695,3,Tormenta,33
+Prado,Parque Berrio,13.1,Cable,Jueves,7,1,0,4.1,13375,1,Soleado,79
+Hospital,Sabaneta,1.9,Metro,Miercoles,10,0,0,0.7,2115,2,Soleado,99
+Sabaneta,Hospital,10.8,Caminando,Sabado,4,0,1,25.8,11621,0,Nublado,83
+Acevedo,Industriales,5.2,Bus,Sabado,20,0,1,2.4,4316,1,Tormenta,63
+Poblado,Exposiciones,8.7,Taxi,Sabado,14,1,1,2.8,8134,2,Soleado,67
+Floresta,Niquia,12.4,Caminando,Martes,13,1,0,37.1,12536,0,Nublado,15
+Envigado,Niquia,3.3,Metro,Viernes,5,0,0,1.2,3950,2,Nublado,89
+Bello,Parque Berrio,9.2,Taxi,Domingo,18,1,1,2.1,8519,1,Nublado,10
+Caribe,Prado,12.3,Taxi,Martes,1,0,0,3.0,12005,0,Soleado,89
+Floresta,Hospital,4.2,Taxi,Lunes,10,0,0,0.8,4549,2,Nublado,89
+Universidad,Suramericana,12.9,Bus,Miercoles,5,0,0,4.8,13132,1,Soleado,78
+Niquia,Exposiciones,2.7,Caminando,Viernes,20,0,0,6.1,3200,2,Soleado,30
+Itagui,Bello,5.4,Cable,Viernes,19,1,0,1.9,4471,0,Nublado,41
+Aguacatala,Exposiciones,5.3,Bus,Sabado,15,0,1,2.0,4277,3,Nublado,86
+Estadio,Prado,5.8,Metro,Viernes,6,1,0,3.1,5812,3,Soleado,99
+Hospital,Acevedo,2.8,Cable,Jueves,7,1,0,1.0,2456,3,Lluvia,59
+Acevedo,Caribe,7.3,Metro,Viernes,13,1,0,3.5,6431,2,Lluvia,27
+Prado,Bello,1.9,Bus,Jueves,22,0,0,0.8,1864,0,Lluvia,22
+Prado,Universidad,5.2,Bus,Viernes,18,1,0,3.0,5450,3,Nublado,43
+Poblado,La Estrella,13.0,Bus,Viernes,22,0,0,4.1,14027,1,Lluvia,90
+Suramericana,San Javier,9.3,Taxi,Jueves,17,1,0,3.7,10016,3,Tormenta,15
+Industriales,Ayura,13.3,Cable,Miercoles,6,1,0,4.5,13566,2,Soleado,55
+Sabaneta,Bello,14.4,Bus,Martes,14,1,0,8.7,15221,2,Nublado,79
+Caribe,Suramericana,2.9,Taxi,Jueves,13,1,0,0.9,2909,3,Nublado,94
+Itagui,Suramericana,13.1,Bus,Sabado,9,0,1,5.7,12982,0,Tormenta,31
+Envigado,Caribe,11.6,Bus,Viernes,11,1,0,7.0,13050,3,Nublado,48
+Poblado,Caribe,13.3,Caminando,Miercoles,6,1,0,37.9,11744,1,Lluvia,21
+Parque Berrio,Sabaneta,12.0,Caminando,Lunes,19,1,0,40.7,13860,3,Soleado,27
+Industriales,Exposiciones,14.5,Metro,Jueves,10,0,0,4.6,12093,3,Lluvia,92
+Bello,Niquia,11.3,Bus,Martes,2,0,0,3.4,11176,1,Nublado,27
+Caribe,San Antonio,6.4,Cable,Lunes,2,0,0,1.2,5184,1,Tormenta,72
+San Javier,Bello,2.6,Taxi,Jueves,8,1,0,0.9,2709,3,Nublado,60
+Parque Berrio,Universidad,9.0,Caminando,Martes,0,0,0,16.0,8442,3,Soleado,66
+Cisneros,Industriales,3.9,Bus,Viernes,21,0,0,1.9,3939,0,Soleado,92
+Suramericana,Sabaneta,14.5,Taxi,Domingo,22,0,1,2.6,16907,0,Tormenta,54
+Prado,San Antonio,7.5,Metro,Viernes,14,1,0,4.0,7612,0,Tormenta,98
+Universidad,Cisneros,9.7,Taxi,Jueves,9,0,0,1.5,9884,0,Tormenta,51
+San Antonio,Acevedo,15.0,Caminando,Jueves,14,1,0,52.7,13440,1,Lluvia,99
+Caribe,Bello,7.2,Bus,Martes,17,1,0,3.6,6379,1,Lluvia,54
+Industriales,Suramericana,9.0,Taxi,Viernes,16,0,0,1.8,7245,1,Lluvia,47
+Estadio,Envigado,6.9,Taxi,Sabado,12,1,1,2.1,6217,3,Lluvia,18
+La Estrella,Niquia,8.0,Metro,Sabado,10,0,1,2.5,8368,2,Nublado,21
+Exposiciones,Estadio,12.7,Taxi,Jueves,10,0,0,1.9,13259,0,Lluvia,96
+Industriales,Bello,11.3,Taxi,Lunes,20,0,0,2.0,12057,2,Lluvia,37
+Poblado,Bello,12.8,Cable,Sabado,2,0,1,2.8,12954,2,Tormenta,69
+Tricentenario,Santa Lucia,6.1,Cable,Miercoles,12,1,0,1.9,6490,0,Soleado,29
+Poblado,Ayura,11.9,Bus,Jueves,3,0,0,4.2,12281,3,Soleado,47
+Hospital,Exposiciones,13.6,Cable,Viernes,1,0,0,2.6,12730,3,Nublado,37
+Niquia,Industriales,1.3,Cable,Jueves,14,1,0,0.4,1119,1,Nublado,33
+Industriales,Poblado,11.9,Cable,Miercoles,20,0,0,2.4,12269,3,Lluvia,37
+Ayura,Suramericana,6.4,Taxi,Sabado,19,1,1,2.3,7347,1,Tormenta,61
+Niquia,Estadio,12.8,Taxi,Domingo,10,0,1,2.7,11149,0,Tormenta,17
+Prado,San Javier,8.6,Caminando,Martes,22,0,0,16.5,7009,3,Tormenta,36
+Caribe,Bello,7.6,Metro,Viernes,5,0,0,3.0,6764,0,Nublado,72
+Acevedo,Itagui,14.5,Bus,Domingo,22,0,1,6.7,13326,3,Soleado,68
+Floresta,Niquia,3.4,Caminando,Martes,9,0,0,7.0,3077,1,Soleado,96
+Estadio,Hospital,2.6,Taxi,Miercoles,21,0,0,0.5,2636,3,Soleado,58
+Sabaneta,Caribe,3.7,Metro,Miercoles,10,0,0,1.2,3963,1,Lluvia,39
+Envigado,Ayura,10.8,Taxi,Jueves,7,1,0,4.1,9050,3,Soleado,63
+Aguacatala,Envigado,14.4,Metro,Jueves,20,0,0,4.4,12355,2,Soleado,23
+Exposiciones,San Javier,13.6,Taxi,Sabado,23,0,1,2.9,10880,1,Tormenta,15
+Acevedo,Ayura,9.8,Metro,Lunes,4,0,0,2.7,8859,0,Soleado,76
+La Estrella,Madera,8.4,Cable,Domingo,12,1,1,2.6,10030,2,Lluvia,77
+San Antonio,Suramericana,3.1,Metro,Viernes,0,0,0,1.0,3016,1,Tormenta,90
+Prado,Madera,6.9,Metro,Domingo,17,1,1,3.2,6879,0,Nublado,70
+Exposiciones,Industriales,8.4,Bus,Miercoles,17,1,0,5.7,6964,1,Tormenta,34
+San Javier,Prado,12.2,Taxi,Domingo,6,1,1,3.7,11846,3,Soleado,20
+Caribe,Niquia,5.2,Taxi,Viernes,21,0,0,1.1,5242,0,Soleado,29
+Hospital,Aguacatala,8.7,Taxi,Jueves,0,0,0,1.5,10092,0,Nublado,88
+Exposiciones,San Javier,4.4,Cable,Miercoles,4,0,0,0.8,5073,2,Soleado,55
+Alpujarra,Hospital,10.8,Cable,Domingo,16,0,1,2.3,12938,2,Soleado,41
+Exposiciones,Floresta,2.7,Taxi,Viernes,17,1,0,1.0,2503,2,Lluvia,61
+Industriales,Tricentenario,1.5,Bus,Viernes,7,1,0,0.9,1605,3,Lluvia,84
+Madera,Caribe,14.5,Taxi,Sabado,9,0,1,3.4,12890,1,Soleado,42
+Caribe,La Estrella,14.5,Caminando,Viernes,5,0,0,29.7,14442,3,Tormenta,19
+Poblado,Sabaneta,13.5,Caminando,Lunes,5,0,0,25.7,14944,1,Nublado,37
+San Antonio,Suramericana,10.9,Caminando,Martes,12,1,0,29.8,11140,0,Lluvia,25
+Hospital,Parque Berrio,13.5,Caminando,Domingo,1,0,1,30.4,12177,1,Soleado,29
+Tricentenario,Industriales,5.1,Metro,Jueves,0,0,0,1.4,5901,3,Tormenta,28
+Cisneros,Sabaneta,12.9,Metro,Viernes,23,0,0,4.9,14035,0,Nublado,48
+Acevedo,Niquia,5.5,Bus,Lunes,18,1,0,4.7,4488,3,Lluvia,95
+Exposiciones,Parque Berrio,5.2,Bus,Lunes,22,0,0,1.5,6048,1,Soleado,76
+Caribe,Prado,14.9,Taxi,Martes,0,0,0,2.9,12695,2,Tormenta,26
+Itagui,Suramericana,6.6,Caminando,Sabado,20,0,1,30.5,6508,1,Soleado,67
+Sabaneta,Industriales,9.0,Cable,Viernes,16,0,0,2.0,10719,2,Soleado,49
+Hospital,Cisneros,11.0,Taxi,Martes,8,1,0,3.6,11506,2,Tormenta,22
+Niquia,Madera,10.0,Cable,Lunes,15,0,0,1.8,9790,0,Nublado,63
+Madera,Suramericana,3.1,Caminando,Sabado,5,0,1,5.8,3404,0,Nublado,76
+Aguacatala,Universidad,5.2,Bus,Domingo,1,0,1,1.7,4982,2,Tormenta,46
+Envigado,La Estrella,1.4,Metro,Lunes,15,0,0,0.5,1211,1,Lluvia,18
+Niquia,Floresta,11.9,Cable,Jueves,10,0,0,2.4,13352,0,Lluvia,21
+Aguacatala,Floresta,2.1,Bus,Miercoles,5,0,0,0.8,1953,0,Soleado,81
+Suramericana,Alpujarra,8.6,Caminando,Miercoles,11,1,0,23.9,8867,2,Lluvia,89
+Exposiciones,Santa Lucia,13.9,Taxi,Jueves,19,1,0,3.3,11468,2,Soleado,85
+Hospital,Cisneros,2.6,Metro,Lunes,10,0,0,2.5,2883,1,Nublado,20
+Suramericana,Envigado,6.5,Metro,Lunes,6,1,0,3.3,5993,2,Tormenta,97
+Prado,San Javier,3.1,Metro,Jueves,14,1,0,1.5,3084,2,Tormenta,100
+Sabaneta,Universidad,2.9,Bus,Viernes,10,0,0,0.9,3013,2,Lluvia,12
+Ayura,Envigado,8.1,Metro,Domingo,15,0,1,3.2,6650,1,Soleado,96
+Santa Lucia,Acevedo,8.6,Caminando,Jueves,19,1,0,30.8,8118,1,Soleado,21
+Universidad,Santa Lucia,2.3,Bus,Sabado,12,1,1,1.5,2242,1,Tormenta,40
+Caribe,Santa Lucia,1.5,Metro,Jueves,19,1,0,1.0,1322,1,Soleado,50
+Hospital,La Estrella,7.7,Cable,Domingo,0,0,1,1.5,7323,3,Soleado,78
+San Javier,Santa Lucia,7.2,Bus,Lunes,6,1,0,3.2,8035,2,Nublado,83
+Prado,Poblado,13.2,Cable,Viernes,13,1,0,3.6,13094,0,Lluvia,39
+Niquia,Caribe,1.2,Cable,Viernes,23,0,0,0.2,1235,0,Nublado,59
+Ayura,Exposiciones,4.3,Metro,Jueves,1,0,0,1.4,3457,2,Soleado,26
+Floresta,Ayura,4.7,Metro,Viernes,20,0,0,1.3,4047,0,Nublado,85
+Bello,Sabaneta,9.9,Metro,Miercoles,1,0,0,2.8,10999,2,Lluvia,30
+Santa Lucia,Universidad,10.7,Cable,Miercoles,18,1,0,3.6,9576,3,Soleado,16
+Sabaneta,Floresta,13.1,Caminando,Sabado,1,0,1,25.8,13781,2,Lluvia,42
+Suramericana,Prado,5.0,Caminando,Miercoles,1,0,0,10.2,5775,2,Lluvia,38
+Ayura,Madera,11.1,Metro,Lunes,0,0,0,3.8,10867,1,Lluvia,46
+Estadio,San Antonio,9.4,Cable,Domingo,5,0,1,1.9,9889,3,Soleado,50
+Santa Lucia,Industriales,2.4,Cable,Martes,7,1,0,0.6,1956,3,Soleado,47
+Poblado,San Javier,2.8,Bus,Lunes,12,1,0,1.8,2761,0,Soleado,57
+Universidad,Santa Lucia,10.5,Metro,Martes,14,1,0,5.0,8904,2,Tormenta,16
+Alpujarra,Envigado,2.8,Cable,Lunes,1,0,0,0.5,2590,2,Lluvia,66
+Itagui,Prado,11.2,Metro,Martes,12,1,0,4.8,12936,3,Soleado,50
+Floresta,Poblado,11.6,Metro,Martes,23,0,0,4.5,12435,3,Tormenta,48
+Santa Lucia,Exposiciones,6.4,Caminando,Domingo,13,1,1,15.4,7456,3,Lluvia,90
+San Javier,Envigado,6.2,Cable,Martes,17,1,0,2.1,7322,3,Tormenta,21
+Envigado,Prado,8.9,Bus,Sabado,20,0,1,2.8,9087,3,Nublado,37
+Universidad,Tricentenario,12.0,Caminando,Miercoles,15,0,0,20.5,12084,2,Lluvia,15
+Caribe,Itagui,12.4,Bus,Sabado,7,1,1,10.9,13838,1,Lluvia,31
+Poblado,Ayura,4.1,Bus,Sabado,22,0,1,1.7,3575,0,Nublado,40
+San Javier,Caribe,10.6,Metro,Miercoles,3,0,0,2.8,9498,1,Nublado,76
+Prado,San Antonio,10.2,Bus,Sabado,9,0,1,4.3,11332,0,Tormenta,52
+Cisneros,San Antonio,2.8,Metro,Miercoles,8,1,0,1.6,2864,0,Nublado,80
+Hospital,Acevedo,12.0,Metro,Jueves,22,0,0,4.8,10548,1,Tormenta,90
+Floresta,Suramericana,7.5,Bus,Viernes,15,0,0,2.5,7590,0,Tormenta,61
+Parque Berrio,Estadio,3.9,Cable,Miercoles,14,1,0,1.1,3787,2,Nublado,89
+Ayura,Cisneros,2.2,Taxi,Martes,20,0,0,0.5,2556,2,Soleado,26
+Aguacatala,Prado,7.6,Metro,Viernes,20,0,0,2.8,7744,3,Tormenta,27
+Alpujarra,Sabaneta,12.8,Metro,Sabado,5,0,1,3.8,13568,2,Tormenta,43
+Industriales,Estadio,4.7,Metro,Domingo,18,1,1,2.6,5015,1,Tormenta,83
+Cisneros,Envigado,9.4,Taxi,Lunes,2,0,0,2.1,10349,2,Lluvia,11
+Parque Berrio,La Estrella,5.2,Bus,Sabado,13,1,1,2.7,4841,3,Soleado,26
+Acevedo,Universidad,10.2,Caminando,Lunes,22,0,0,23.7,9659,2,Nublado,42
+Niquia,Bello,7.1,Metro,Viernes,21,0,0,2.6,6269,1,Nublado,85
+Ayura,Floresta,12.6,Taxi,Viernes,9,0,0,3.1,12638,3,Tormenta,18
+Ayura,Suramericana,3.9,Caminando,Sabado,4,0,1,7.9,4083,0,Lluvia,94
+Envigado,Parque Berrio,6.4,Metro,Viernes,16,0,0,1.8,7405,2,Lluvia,61
+Parque Berrio,Aguacatala,6.5,Caminando,Lunes,17,1,0,20.9,6676,2,Tormenta,34
+San Javier,Envigado,3.2,Bus,Jueves,19,1,0,1.6,2656,1,Tormenta,20
+Exposiciones,Industriales,5.5,Bus,Sabado,3,0,1,2.7,6325,3,Lluvia,52
+Aguacatala,Santa Lucia,11.5,Caminando,Jueves,10,0,0,21.7,9786,1,Lluvia,70
+Industriales,Prado,8.3,Metro,Sabado,1,0,1,2.6,8400,1,Lluvia,97
+Bello,Exposiciones,4.6,Metro,Viernes,12,1,0,1.8,4388,2,Soleado,75
+Itagui,La Estrella,12.2,Cable,Domingo,0,0,1,2.6,12298,3,Soleado,75
+Estadio,Hospital,7.3,Taxi,Viernes,1,0,0,1.8,6008,2,Lluvia,29
+Universidad,Envigado,12.2,Cable,Sabado,5,0,1,2.4,13579,1,Soleado,87
+Estadio,Prado,9.2,Metro,Sabado,8,1,1,4.0,10166,3,Tormenta,27
+Cisneros,Prado,2.5,Taxi,Jueves,17,1,0,0.7,2380,2,Soleado,69
+Universidad,Exposiciones,14.8,Cable,Sabado,15,0,1,8.0,16680,1,Lluvia,96
+Niquia,Alpujarra,3.0,Caminando,Martes,17,1,0,9.3,2784,2,Nublado,93
+Suramericana,Bello,5.6,Bus,Domingo,11,1,1,7.7,5370,1,Soleado,39
+Acevedo,Sabaneta,5.0,Cable,Domingo,14,1,1,1.5,4290,2,Soleado,75
+Industriales,Estadio,3.8,Taxi,Jueves,16,0,0,0.8,3291,2,Tormenta,99
+Ayura,Cisneros,3.2,Taxi,Lunes,18,1,0,1.0,3261,0,Lluvia,80
+Exposiciones,Floresta,6.9,Caminando,Sabado,5,0,1,13.7,6258,0,Tormenta,34
+Santa Lucia,Niquia,10.2,Cable,Sabado,5,0,1,2.1,10098,0,Soleado,69
+Envigado,Ayura,12.5,Bus,Sabado,4,0,1,6.0,12650,0,Tormenta,29
+Hospital,Tricentenario,2.7,Cable,Sabado,7,1,1,2.2,2395,1,Tormenta,96
+Cisneros,Itagui,5.4,Metro,Domingo,22,0,1,1.6,5816,3,Soleado,95
+Envigado,Prado,10.8,Cable,Domingo,18,1,1,3.3,10368,2,Nublado,85
+Ayura,Madera,12.8,Caminando,Sabado,19,1,1,43.1,14054,0,Lluvia,73
+Sabaneta,Bello,8.1,Caminando,Sabado,9,0,1,16.9,8092,1,Tormenta,80
+Universidad,Envigado,6.8,Taxi,Jueves,16,0,0,1.4,5494,3,Tormenta,20
+Tricentenario,Prado,3.5,Caminando,Jueves,21,0,0,8.2,3878,0,Lluvia,21
+Envigado,Cisneros,12.9,Caminando,Viernes,4,0,0,28.7,15377,1,Soleado,93
+Cisneros,Aguacatala,13.2,Metro,Viernes,12,1,0,5.7,15827,1,Nublado,59
+Envigado,La Estrella,10.3,Bus,Viernes,8,1,0,6.7,12000,2,Soleado,63
+Aguacatala,San Antonio,13.1,Cable,Viernes,19,1,0,4.8,11751,2,Lluvia,98
+Poblado,Niquia,11.7,Cable,Viernes,7,1,0,4.1,9957,2,Lluvia,53
+La Estrella,Bello,6.0,Taxi,Jueves,21,0,0,1.3,6696,1,Lluvia,100
+Cisneros,Prado,14.7,Taxi,Jueves,9,0,0,3.0,12333,2,Soleado,49
+Aguacatala,Bello,12.9,Metro,Jueves,7,1,0,5.9,12461,3,Soleado,14
+Itagui,San Javier,8.5,Cable,Martes,19,1,0,2.5,8109,2,Lluvia,64
+Ayura,Parque Berrio,1.3,Taxi,Miercoles,15,0,0,0.3,1554,3,Tormenta,48
+Cisneros,Niquia,9.6,Metro,Domingo,6,1,1,5.3,8698,0,Lluvia,84
+Aguacatala,Alpujarra,10.3,Cable,Domingo,5,0,1,2.0,11186,1,Soleado,27
+Itagui,Madera,10.0,Taxi,Martes,11,1,0,3.5,8460,3,Lluvia,18
+Envigado,Alpujarra,12.2,Taxi,Viernes,7,1,0,2.9,11578,3,Tormenta,100
+Prado,Industriales,8.6,Bus,Martes,11,1,0,6.6,10139,0,Tormenta,18
+Poblado,Niquia,2.1,Taxi,Martes,5,0,0,0.5,2272,0,Lluvia,22
+Hospital,Cisneros,6.4,Taxi,Miercoles,21,0,0,1.5,5952,1,Tormenta,67
+Parque Berrio,Niquia,8.5,Bus,Jueves,23,0,0,3.0,7846,1,Soleado,29
+Industriales,San Javier,10.9,Taxi,Jueves,18,1,0,2.9,10824,3,Tormenta,25
+Sabaneta,Estadio,14.3,Cable,Viernes,13,1,0,4.6,13199,2,Nublado,14
+Tricentenario,Cisneros,4.8,Bus,Lunes,21,0,0,2.0,4349,3,Tormenta,80
+Hospital,Poblado,2.3,Cable,Jueves,19,1,0,0.8,2588,2,Lluvia,61
+Acevedo,Parque Berrio,4.0,Taxi,Martes,19,1,0,1.3,4008,2,Tormenta,49
+Tricentenario,Cisneros,4.4,Cable,Lunes,3,0,0,0.9,3670,2,Tormenta,88
+La Estrella,San Antonio,7.8,Taxi,Domingo,5,0,1,1.5,7285,0,Lluvia,87
+Bello,Niquia,14.6,Bus,Miercoles,10,0,0,6.7,12147,1,Lluvia,46
+San Javier,Prado,3.5,Caminando,Jueves,15,0,0,8.1,2800,2,Tormenta,40
+Hospital,Madera,11.2,Taxi,Viernes,8,1,0,3.7,12286,1,Nublado,55
+Madera,Tricentenario,8.4,Taxi,Martes,18,1,0,2.8,7291,0,Lluvia,11
+Itagui,San Antonio,10.1,Taxi,Lunes,14,1,0,3.0,10807,2,Soleado,17
+Acevedo,Estadio,5.4,Caminando,Miercoles,7,1,0,16.3,5011,1,Tormenta,71
+Envigado,Industriales,7.8,Bus,Jueves,3,0,0,3.2,6622,0,Tormenta,90
+Ayura,San Antonio,11.7,Cable,Miercoles,4,0,0,2.5,12636,0,Nublado,64
+Cisneros,Itagui,6.2,Bus,Martes,23,0,0,2.1,5580,0,Tormenta,14
+Bello,Universidad,13.2,Bus,Martes,5,0,0,6.8,12817,0,Lluvia,27
+Caribe,San Antonio,1.4,Metro,Miercoles,9,0,0,0.4,1345,0,Lluvia,50
+Floresta,Itagui,14.8,Caminando,Viernes,0,0,0,28.4,13394,1,Nublado,27
+Tricentenario,Parque Berrio,13.2,Metro,Viernes,10,0,0,4.6,11748,0,Lluvia,58
+Tricentenario,San Javier,12.9,Metro,Martes,21,0,0,3.6,13842,2,Nublado,38
+Itagui,Acevedo,6.1,Bus,Domingo,20,0,1,2.5,5240,1,Nublado,41
+Floresta,Sabaneta,5.7,Taxi,Sabado,13,1,1,1.4,6812,2,Tormenta,64
+Suramericana,Niquia,7.0,Bus,Viernes,18,1,0,4.0,7686,2,Nublado,65
+Estadio,Poblado,10.3,Cable,Lunes,7,1,0,3.4,10722,1,Lluvia,61
+Cisneros,Estadio,15.0,Metro,Sabado,22,0,1,6.0,14550,0,Lluvia,72
+Estadio,Exposiciones,9.7,Bus,Miercoles,7,1,0,5.3,11640,2,Nublado,41
+Exposiciones,Sabaneta,11.9,Taxi,Domingo,9,0,1,2.9,11912,3,Lluvia,95
+Hospital,Alpujarra,2.8,Bus,Miercoles,18,1,0,2.0,2724,1,Nublado,47
+Universidad,Floresta,5.2,Cable,Miercoles,18,1,0,1.3,5876,3,Nublado,90
+Envigado,Hospital,6.8,Taxi,Lunes,6,1,0,2.1,7446,0,Tormenta,22
+Exposiciones,Estadio,9.3,Caminando,Lunes,9,0,0,16.6,11048,0,Tormenta,22
+Alpujarra,Hospital,13.6,Caminando,Miercoles,3,0,0,27.4,14090,0,Soleado,41
+Niquia,Ayura,1.8,Bus,Domingo,4,0,1,0.8,2151,0,Soleado,45
+Envigado,La Estrella,8.8,Cable,Jueves,17,1,0,2.7,7568,1,Soleado,46
+Exposiciones,Cisneros,6.6,Bus,Viernes,9,0,0,2.4,5762,1,Tormenta,99
+Parque Berrio,Exposiciones,7.4,Cable,Miercoles,6,1,0,2.5,8303,2,Soleado,37
+Exposiciones,Sabaneta,14.9,Taxi,Martes,21,0,0,2.4,17269,3,Lluvia,82
+Poblado,Madera,6.8,Caminando,Martes,14,1,0,22.2,7528,0,Soleado,23
+Exposiciones,Acevedo,2.6,Bus,Domingo,18,1,1,1.7,3052,0,Soleado,34
+Hospital,Prado,13.8,Taxi,Martes,6,1,0,4.1,15884,2,Soleado,46
+Bello,Sabaneta,11.2,Caminando,Sabado,8,1,1,45.9,10192,0,Soleado,42
+Envigado,Madera,9.1,Metro,Viernes,0,0,0,3.3,7662,0,Soleado,49
+La Estrella,Caribe,12.9,Metro,Miercoles,16,0,0,5.0,13906,0,Soleado,89
+Sabaneta,Bello,14.4,Bus,Viernes,4,0,0,6.7,16992,2,Lluvia,80
+Prado,Tricentenario,2.0,Metro,Viernes,10,0,0,0.5,2286,0,Tormenta,85
+Acevedo,Hospital,5.5,Caminando,Martes,1,0,0,10.9,4642,3,Soleado,36
+Tricentenario,Cisneros,14.0,Metro,Domingo,21,0,1,5.3,13370,3,Soleado,30
+Ayura,Itagui,2.9,Metro,Jueves,2,0,0,1.0,2764,2,Nublado,72
+Santa Lucia,Madera,12.9,Caminando,Domingo,13,1,1,36.4,11558,0,Nublado,80
+Suramericana,Madera,9.6,Metro,Domingo,15,0,1,2.7,8275,2,Nublado,41
+La Estrella,Tricentenario,2.1,Metro,Sabado,9,0,1,0.6,1913,2,Soleado,62
+Sabaneta,Santa Lucia,1.9,Cable,Viernes,5,0,0,0.4,1847,1,Lluvia,32
+Estadio,La Estrella,2.9,Cable,Lunes,2,0,0,0.6,2416,3,Lluvia,76
+Ayura,Alpujarra,8.1,Cable,Sabado,19,1,1,2.8,6602,2,Soleado,85
+La Estrella,Floresta,14.1,Taxi,Domingo,14,1,1,4.8,14918,2,Nublado,33
+Poblado,San Javier,6.7,Metro,Viernes,4,0,0,2.5,6613,0,Lluvia,58
+Niquia,Ayura,5.1,Metro,Sabado,1,0,1,2.0,4366,1,Soleado,58
+Ayura,San Javier,12.0,Cable,Jueves,8,1,0,4.1,9624,0,Tormenta,62
+Envigado,La Estrella,7.8,Metro,Jueves,8,1,0,3.4,7004,0,Soleado,54
+Suramericana,San Javier,8.7,Bus,Jueves,7,1,0,4.4,9344,2,Tormenta,51
+Tricentenario,Envigado,1.4,Bus,Jueves,19,1,0,0.6,1312,3,Soleado,39
+Alpujarra,Cisneros,5.9,Metro,Sabado,3,0,1,1.6,7056,2,Nublado,50
+Estadio,Poblado,13.9,Bus,Miercoles,20,0,0,3.9,13177,0,Lluvia,72
+Envigado,Bello,1.4,Caminando,Martes,16,0,0,6.9,1334,0,Lluvia,52
+Hospital,San Antonio,12.0,Metro,Lunes,10,0,0,4.0,13620,2,Lluvia,70
+Envigado,Industriales,8.7,Cable,Miercoles,23,0,0,1.6,9962,1,Soleado,59
+Hospital,Suramericana,10.4,Taxi,Viernes,17,1,0,2.8,11866,1,Soleado,38
+Cisneros,San Javier,12.5,Caminando,Sabado,8,1,1,38.1,12112,2,Lluvia,73
+Suramericana,Alpujarra,8.6,Caminando,Lunes,9,0,0,15.7,10122,0,Tormenta,87
+Industriales,Sabaneta,13.5,Metro,Sabado,9,0,1,4.5,13756,0,Tormenta,18
+Floresta,Bello,4.4,Cable,Jueves,13,1,0,1.3,3617,0,Tormenta,50
+Tricentenario,Aguacatala,10.3,Cable,Lunes,7,1,0,3.0,8971,2,Nublado,91
+Niquia,Envigado,9.6,Taxi,Jueves,15,0,0,1.6,9629,2,Lluvia,48
+Poblado,Suramericana,8.4,Cable,Jueves,10,0,0,1.7,7325,2,Nublado,37
+Parque Berrio,Envigado,7.4,Metro,Viernes,8,1,0,2.8,6852,3,Soleado,51
+Envigado,San Antonio,6.4,Taxi,Sabado,9,0,1,1.5,6355,0,Nublado,45
+Caribe,Exposiciones,4.1,Cable,Sabado,7,1,1,1.3,3891,2,Nublado,38
+Madera,Alpujarra,4.2,Caminando,Jueves,16,0,0,7.7,3658,3,Tormenta,33
+Santa Lucia,Sabaneta,2.4,Caminando,Domingo,14,1,1,6.1,2081,0,Lluvia,21
+Industriales,Aguacatala,10.6,Caminando,Martes,3,0,0,22.0,10547,1,Tormenta,10
+Exposiciones,Hospital,2.7,Bus,Martes,1,0,0,0.9,2222,2,Lluvia,10
+Caribe,Tricentenario,2.5,Metro,Domingo,3,0,1,0.7,2478,1,Tormenta,87
+Aguacatala,Madera,10.0,Caminando,Sabado,0,0,1,17.5,9740,3,Soleado,58
+Tricentenario,Universidad,10.8,Taxi,Sabado,22,0,1,1.7,10595,2,Soleado,67
+Itagui,La Estrella,12.1,Bus,Domingo,0,0,1,4.4,11023,1,Nublado,20
+Exposiciones,San Javier,5.0,Cable,Miercoles,17,1,0,1.5,4625,3,Soleado,25
+Sabaneta,Parque Berrio,13.9,Taxi,Viernes,21,0,0,3.0,14164,3,Tormenta,53
+Bello,Exposiciones,1.9,Bus,Jueves,15,0,0,0.5,2058,0,Lluvia,71
+Envigado,Bello,3.2,Cable,Sabado,2,0,1,0.6,3200,3,Tormenta,13
+Exposiciones,San Javier,5.7,Cable,Jueves,13,1,0,1.5,6133,2,Nublado,19
+Tricentenario,Industriales,6.8,Caminando,Lunes,20,0,0,15.8,6433,1,Lluvia,34
+Niquia,Madera,11.8,Metro,Martes,14,1,0,5.9,13641,1,Nublado,99
+Santa Lucia,Madera,5.8,Bus,Sabado,8,1,1,3.9,6455,1,Nublado,71
+Estadio,Envigado,12.2,Taxi,Sabado,15,0,1,2.4,10199,2,Nublado,77
+Tricentenario,Bello,12.4,Metro,Jueves,8,1,0,6.4,11768,1,Tormenta,66
+Suramericana,Hospital,3.6,Taxi,Domingo,4,0,1,0.6,3283,1,Tormenta,56
+San Javier,Exposiciones,14.7,Taxi,Jueves,19,1,0,3.9,14965,1,Nublado,45
+Cisneros,Suramericana,12.6,Caminando,Miercoles,22,0,0,20.4,10962,2,Soleado,62
+Itagui,Tricentenario,8.5,Caminando,Domingo,10,0,1,15.9,9724,0,Tormenta,26
+Estadio,Poblado,9.4,Cable,Miercoles,15,0,0,1.8,7623,3,Nublado,42
+San Javier,Prado,5.2,Bus,Viernes,4,0,0,2.5,4170,1,Nublado,35
+Parque Berrio,Ayura,5.0,Cable,Jueves,22,0,0,1.0,5450,3,Nublado,57
+Acevedo,Envigado,7.4,Taxi,Miercoles,20,0,0,1.3,7925,1,Soleado,47
+Poblado,Itagui,10.0,Bus,Lunes,6,1,0,8.1,11570,2,Lluvia,18
+Santa Lucia,Exposiciones,1.2,Cable,Jueves,23,0,0,0.2,1372,1,Tormenta,35
+Niquia,Tricentenario,12.5,Metro,Miercoles,4,0,0,4.7,14600,2,Lluvia,26
+Exposiciones,Prado,6.9,Caminando,Martes,6,1,0,68.4,6106,3,Tormenta,91
+Madera,Floresta,10.0,Bus,Martes,0,0,0,3.4,10220,1,Soleado,81
+Alpujarra,Poblado,2.6,Taxi,Sabado,22,0,1,0.4,2571,0,Nublado,57
+Bello,San Javier,5.1,Metro,Domingo,3,0,1,1.4,5462,0,Soleado,37
+Ayura,Estadio,5.0,Caminando,Jueves,20,0,0,10.6,4155,2,Nublado,18
+Alpujarra,Industriales,10.6,Cable,Jueves,10,0,0,2.3,11914,0,Lluvia,75
+La Estrella,Universidad,5.9,Cable,Domingo,14,1,1,1.4,5027,3,Lluvia,58
+Parque Berrio,Aguacatala,1.5,Metro,Domingo,14,1,1,1.0,1554,0,Tormenta,87
+Ayura,Floresta,7.8,Caminando,Jueves,22,0,0,13.1,7699,3,Tormenta,76
+Industriales,Acevedo,12.6,Metro,Domingo,18,1,1,5.9,13432,1,Nublado,30
+Industriales,Madera,13.1,Cable,Miercoles,23,0,0,2.5,11869,2,Nublado,42
+Alpujarra,San Javier,6.9,Caminando,Martes,18,1,0,18.5,6803,1,Nublado,84
+La Estrella,Itagui,6.4,Caminando,Martes,9,0,0,13.6,7661,3,Lluvia,81
+Bello,Acevedo,7.0,Taxi,Sabado,8,1,1,8.0,6321,0,Nublado,75
+San Antonio,Universidad,11.6,Bus,Lunes,5,0,0,4.4,13120,1,Lluvia,50
+Madera,San Javier,5.5,Taxi,Martes,1,0,0,1.3,5242,3,Soleado,40
+Niquia,Cisneros,8.5,Caminando,Jueves,6,1,0,26.8,6834,3,Nublado,81
+Santa Lucia,Caribe,13.9,Cable,Lunes,15,0,0,3.0,16527,2,Nublado,50
+Tricentenario,Floresta,3.8,Cable,Lunes,16,0,0,0.8,3899,0,Nublado,19
+Bello,Caribe,10.5,Taxi,Viernes,6,1,0,3.6,10269,3,Tormenta,70
+Acevedo,Suramericana,10.5,Caminando,Miercoles,13,1,0,33.4,12212,3,Lluvia,61
+Exposiciones,Suramericana,9.5,Cable,Lunes,9,0,0,2.0,8740,1,Lluvia,44
+Niquia,Bello,14.1,Caminando,Lunes,4,0,0,32.0,16144,3,Lluvia,35
+Estadio,Poblado,2.8,Caminando,Domingo,22,0,1,4.7,2610,1,Soleado,68
+Niquia,Exposiciones,6.9,Taxi,Martes,21,0,0,1.6,7776,0,Soleado,52
+Bello,Estadio,10.9,Metro,Jueves,2,0,0,4.2,8884,0,Nublado,61
+Alpujarra,Itagui,12.8,Caminando,Jueves,21,0,0,29.8,13875,1,Nublado,50
+Parque Berrio,Envigado,13.5,Caminando,Miercoles,11,1,0,38.0,14054,0,Lluvia,59
+Hospital,Floresta,12.9,Caminando,Jueves,20,0,0,27.6,11339,0,Nublado,21
+Aguacatala,Floresta,6.1,Bus,Miercoles,13,1,0,3.9,5917,2,Nublado,73
+San Javier,Tricentenario,10.6,Taxi,Jueves,1,0,0,2.4,8586,3,Soleado,21
+Parque Berrio,Santa Lucia,9.2,Cable,Jueves,10,0,0,1.9,8335,1,Tormenta,24
+Exposiciones,San Javier,14.8,Bus,Jueves,20,0,0,5.3,16798,1,Tormenta,86
+Santa Lucia,Suramericana,1.8,Bus,Martes,2,0,0,0.5,1987,1,Soleado,80
+Poblado,Envigado,3.4,Metro,Jueves,9,0,0,1.2,3301,2,Soleado,52
+Envigado,La Estrella,9.7,Bus,Domingo,21,0,1,3.3,11262,1,Tormenta,63
+Industriales,Madera,8.5,Bus,Sabado,12,1,1,5.7,7404,1,Tormenta,76
+Madera,Exposiciones,11.8,Caminando,Jueves,14,1,0,46.7,10762,0,Soleado,14
+Alpujarra,Santa Lucia,1.1,Caminando,Sabado,21,0,1,2.3,993,3,Lluvia,27
+Acevedo,Itagui,3.0,Caminando,Miercoles,23,0,0,5.8,3024,2,Soleado,23
+Exposiciones,Cisneros,8.1,Cable,Jueves,15,0,0,1.6,6998,1,Tormenta,40
+Industriales,Itagui,1.3,Caminando,Domingo,21,0,1,2.8,1556,1,Tormenta,61
+Caribe,Sabaneta,7.1,Bus,Sabado,13,1,1,14.4,6383,3,Tormenta,20
+Exposiciones,San Antonio,7.5,Bus,Domingo,17,1,1,4.5,8055,0,Nublado,51
+San Antonio,La Estrella,7.1,Cable,Miercoles,14,1,0,2.7,5765,1,Lluvia,78
+Niquia,Alpujarra,2.7,Metro,Viernes,22,0,0,0.9,3237,3,Lluvia,71
+Envigado,Sabaneta,9.3,Bus,Lunes,2,0,0,4.7,9319,2,Soleado,78
+Envigado,Poblado,8.4,Metro,Viernes,3,0,0,2.3,8266,0,Soleado,87
+Caribe,Parque Berrio,8.3,Taxi,Sabado,22,0,1,1.6,8723,2,Tormenta,16
+La Estrella,Hospital,1.3,Metro,Viernes,18,1,0,0.6,1048,0,Tormenta,90
+Bello,Ayura,6.6,Taxi,Sabado,18,1,1,2.1,5821,1,Nublado,62
+Sabaneta,Universidad,6.4,Metro,Viernes,17,1,0,3.2,7213,1,Soleado,27
+Suramericana,Prado,2.9,Bus,Jueves,20,0,0,1.3,2859,1,Tormenta,91
+Parque Berrio,Niquia,12.3,Taxi,Jueves,22,0,0,2.8,14010,2,Tormenta,96
+Estadio,Aguacatala,8.6,Taxi,Domingo,23,0,1,1.7,9718,2,Lluvia,57
+Hospital,Parque Berrio,10.2,Taxi,Lunes,8,1,0,4.4,10343,2,Nublado,95
+Floresta,Prado,10.3,Caminando,Sabado,9,0,1,24.1,10496,1,Tormenta,73
+Universidad,Poblado,4.4,Cable,Martes,16,0,0,0.8,4554,3,Lluvia,77
+Aguacatala,Niquia,3.2,Caminando,Sabado,9,0,1,7.4,3558,1,Lluvia,48
+Hospital,Estadio,13.1,Cable,Domingo,22,0,1,7.3,12524,2,Soleado,56
+Floresta,Bello,6.6,Caminando,Lunes,17,1,0,19.6,5940,2,Nublado,87
+Estadio,Universidad,7.3,Caminando,Viernes,22,0,0,17.0,6366,2,Lluvia,91
+Suramericana,Alpujarra,1.9,Metro,Domingo,17,1,1,0.9,1864,0,Nublado,98
+Santa Lucia,La Estrella,10.2,Metro,Martes,10,0,0,4.0,9251,2,Nublado,18
+Tricentenario,Aguacatala,12.5,Caminando,Viernes,21,0,0,27.5,14850,2,Nublado,20
+Suramericana,Floresta,10.2,Metro,Jueves,4,0,0,3.5,9027,3,Lluvia,33
+Poblado,Prado,13.7,Bus,Viernes,13,1,0,9.5,14632,2,Tormenta,38
+Ayura,Universidad,5.1,Caminando,Sabado,11,1,1,17.2,4182,0,Nublado,51
+Acevedo,Madera,12.6,Cable,Domingo,9,0,1,2.4,14515,3,Soleado,63
+Tricentenario,Ayura,7.4,Bus,Lunes,3,0,0,2.5,6275,1,Soleado,95
+San Antonio,Ayura,11.7,Taxi,Martes,23,0,0,2.1,13864,3,Soleado,75
+Prado,Envigado,6.5,Metro,Viernes,20,0,0,1.7,5395,3,Nublado,20
+Sabaneta,Industriales,14.3,Bus,Sabado,7,1,1,8.5,13885,0,Lluvia,88
+Cisneros,Itagui,7.2,Caminando,Sabado,4,0,1,15.4,6394,1,Lluvia,39
+Cisneros,Estadio,5.3,Caminando,Domingo,16,0,1,9.9,6021,2,Nublado,17
+Tricentenario,Exposiciones,6.1,Caminando,Lunes,12,1,0,19.1,7131,1,Soleado,41
+Prado,Tricentenario,6.3,Cable,Sabado,11,1,1,1.9,6105,2,Soleado,46
+La Estrella,Prado,10.1,Bus,Jueves,16,0,0,3.4,9999,1,Soleado,14
+San Javier,La Estrella,7.8,Bus,Domingo,18,1,1,10.4,8572,0,Tormenta,87
+Tricentenario,Industriales,13.0,Taxi,Domingo,14,1,1,4.5,14482,0,Soleado,74
+Aguacatala,Hospital,9.3,Caminando,Viernes,5,0,0,16.7,7793,2,Tormenta,37
+San Javier,Poblado,6.0,Cable,Viernes,3,0,0,1.2,6294,0,Tormenta,92
+Parque Berrio,Exposiciones,6.2,Caminando,Jueves,23,0,0,10.9,5964,0,Soleado,32
+Niquia,Caribe,8.8,Cable,Miercoles,7,1,0,2.2,9909,2,Soleado,31
+Sabaneta,San Antonio,1.7,Caminando,Jueves,14,1,0,15.1,1538,2,Tormenta,97
+Santa Lucia,Poblado,8.5,Taxi,Lunes,20,0,0,1.9,8644,0,Soleado,19
+Hospital,Itagui,1.7,Bus,Domingo,5,0,1,0.8,1572,2,Tormenta,17
+Acevedo,Itagui,2.4,Taxi,Domingo,4,0,1,0.5,2364,1,Nublado,14
+Estadio,Envigado,13.3,Bus,Miercoles,23,0,0,5.9,15561,3,Nublado,63
+Cisneros,Niquia,10.1,Bus,Viernes,18,1,0,8.1,11181,0,Tormenta,75
+Itagui,Floresta,7.7,Taxi,Viernes,15,0,0,2.6,7169,0,Soleado,70
+Niquia,Aguacatala,8.8,Metro,Lunes,7,1,0,4.4,9434,2,Soleado,33
+Universidad,Aguacatala,11.7,Metro,Domingo,11,1,1,7.2,10940,2,Lluvia,43
+Alpujarra,Poblado,5.8,Caminando,Sabado,4,0,1,11.1,5191,3,Tormenta,73
+Madera,Prado,10.6,Cable,Domingo,23,0,1,2.2,12550,1,Tormenta,40
+Itagui,Alpujarra,11.7,Cable,Lunes,4,0,0,2.3,12613,1,Soleado,57
+Alpujarra,Ayura,8.6,Bus,Sabado,3,0,1,4.2,8136,0,Nublado,27
+Universidad,Santa Lucia,5.2,Taxi,Lunes,12,1,0,2.1,5288,1,Nublado,10
+Parque Berrio,Santa Lucia,11.9,Metro,Jueves,14,1,0,5.9,11793,1,Lluvia,75
+Hospital,Acevedo,3.9,Caminando,Miercoles,17,1,0,31.0,3744,3,Tormenta,85
+Ayura,Aguacatala,1.0,Metro,Lunes,12,1,0,0.4,1128,1,Tormenta,39
+Santa Lucia,Madera,11.9,Taxi,Jueves,5,0,0,2.6,10210,1,Tormenta,17
+Exposiciones,San Antonio,1.6,Caminando,Viernes,8,1,0,4.3,1398,0,Soleado,79
+Poblado,Caribe,7.7,Bus,Sabado,5,0,1,8.7,7916,3,Soleado,71
+San Antonio,Santa Lucia,12.7,Cable,Sabado,19,1,1,3.6,14211,0,Lluvia,30
+Tricentenario,Acevedo,8.6,Cable,Miercoles,3,0,0,1.7,8712,2,Soleado,80
+Sabaneta,Envigado,7.9,Metro,Domingo,13,1,1,4.6,9172,2,Tormenta,41
+Acevedo,Poblado,14.7,Bus,Martes,5,0,0,5.4,13098,3,Soleado,63
+Sabaneta,Parque Berrio,13.8,Caminando,Miercoles,6,1,0,37.2,12530,0,Tormenta,77
+Caribe,Floresta,8.0,Metro,Viernes,6,1,0,4.0,9192,1,Soleado,59
+Hospital,Cisneros,2.1,Bus,Lunes,3,0,0,0.9,1968,0,Soleado,49
+Santa Lucia,Sabaneta,9.4,Metro,Lunes,15,0,0,3.4,11252,2,Nublado,53
+Santa Lucia,Industriales,3.1,Bus,Lunes,19,1,0,2.7,3481,1,Nublado,51
+Estadio,San Antonio,12.7,Metro,Miercoles,8,1,0,6.4,10592,2,Tormenta,63
+Caribe,Acevedo,12.4,Bus,Domingo,6,1,1,6.0,13714,2,Lluvia,43
+Acevedo,Hospital,2.3,Caminando,Viernes,10,0,0,4.4,2548,1,Soleado,70
+Sabaneta,Exposiciones,11.9,Caminando,Viernes,23,0,0,25.0,12126,2,Lluvia,84
+Envigado,Poblado,8.9,Bus,Miercoles,8,1,0,6.6,7610,3,Tormenta,91
+Estadio,Universidad,6.6,Taxi,Domingo,2,0,1,1.0,6006,3,Nublado,64
+Poblado,Niquia,7.7,Cable,Domingo,4,0,1,1.5,6198,1,Lluvia,26
+La Estrella,Caribe,12.4,Bus,Lunes,3,0,0,3.7,11470,1,Nublado,65
+San Antonio,Parque Berrio,10.1,Metro,Martes,17,1,0,4.5,10938,2,Nublado,95
+San Javier,Niquia,12.3,Bus,Domingo,8,1,1,7.4,12595,3,Lluvia,99
+Madera,Tricentenario,14.7,Caminando,Jueves,21,0,0,28.4,16361,2,Soleado,49
+Aguacatala,Alpujarra,13.6,Bus,Viernes,17,1,0,7.8,11805,2,Lluvia,21
+San Javier,La Estrella,6.4,Caminando,Miercoles,16,0,0,10.6,7674,0,Soleado,92
+Universidad,Alpujarra,3.5,Cable,Viernes,19,1,0,1.3,3112,1,Tormenta,58
+Santa Lucia,Exposiciones,9.4,Cable,Domingo,21,0,1,2.0,8639,1,Tormenta,21
+Itagui,Prado,9.5,Metro,Lunes,20,0,0,2.6,8721,2,Nublado,45
+La Estrella,San Javier,6.9,Bus,Sabado,0,0,1,2.2,6472,3,Nublado,35
+Suramericana,Parque Berrio,14.3,Caminando,Viernes,19,1,0,39.7,16831,3,Tormenta,88
+Prado,Estadio,12.4,Metro,Miercoles,13,1,0,5.1,12350,1,Lluvia,53
+Niquia,Aguacatala,9.1,Taxi,Martes,10,0,0,1.7,9883,2,Lluvia,71
+Cisneros,La Estrella,12.3,Metro,Jueves,18,1,0,7.6,11156,2,Soleado,70
+Exposiciones,San Antonio,12.2,Metro,Martes,14,1,0,5.3,13432,2,Lluvia,27
+Envigado,Ayura,11.4,Cable,Sabado,8,1,1,3.5,11651,3,Tormenta,85
+Envigado,La Estrella,6.7,Caminando,Martes,14,1,0,18.6,5434,3,Soleado,20
+Prado,La Estrella,14.5,Cable,Miercoles,2,0,0,2.7,16907,3,Soleado,53
+Exposiciones,Ayura,1.0,Taxi,Domingo,13,1,1,0.3,810,0,Tormenta,72
+San Javier,Parque Berrio,3.9,Taxi,Jueves,23,0,0,0.9,3853,3,Lluvia,12
+Prado,Alpujarra,6.7,Metro,Jueves,10,0,0,2.4,6144,3,Lluvia,49
+Bello,Caribe,2.0,Taxi,Miercoles,17,1,0,0.7,1938,3,Soleado,48
+Bello,Caribe,8.5,Taxi,Miercoles,21,0,0,2.0,8662,1,Tormenta,48
+Ayura,Cisneros,8.2,Metro,Miercoles,13,1,0,3.6,8905,0,Tormenta,35
+San Antonio,Envigado,1.3,Taxi,Jueves,0,0,0,0.2,1331,3,Lluvia,20
+Suramericana,Sabaneta,3.1,Bus,Miercoles,9,0,0,1.5,3208,2,Tormenta,70
+Bello,Hospital,1.7,Cable,Martes,13,1,0,0.5,1952,2,Nublado,90
+Sabaneta,Prado,11.5,Cable,Jueves,19,1,0,3.4,13168,1,Nublado,38
+Alpujarra,Aguacatala,7.3,Cable,Sabado,15,0,1,1.4,7504,2,Lluvia,55
+Poblado,Aguacatala,13.5,Cable,Domingo,21,0,1,2.6,13864,2,Soleado,75
+Sabaneta,Envigado,12.0,Caminando,Lunes,15,0,0,28.5,13356,2,Lluvia,93
+Hospital,San Antonio,9.2,Caminando,Miercoles,10,0,0,21.0,9522,2,Soleado,40
+Aguacatala,Exposiciones,4.9,Cable,Domingo,17,1,1,1.3,5120,3,Tormenta,55
+Madera,San Antonio,5.2,Caminando,Sabado,11,1,1,14.5,5892,1,Soleado,89
+Itagui,Bello,9.0,Metro,Miercoles,22,0,0,2.7,9081,2,Tormenta,55
+Floresta,Ayura,11.1,Bus,Domingo,23,0,1,4.0,10767,3,Lluvia,41
+San Antonio,Caribe,7.0,Bus,Sabado,4,0,1,2.0,8001,0,Soleado,43
+Poblado,Niquia,11.3,Caminando,Lunes,2,0,0,25.4,13390,2,Tormenta,19
+Madera,La Estrella,12.7,Caminando,Domingo,18,1,1,40.9,12217,1,Tormenta,45
+Exposiciones,Poblado,7.6,Metro,Lunes,23,0,0,2.5,8580,3,Tormenta,95
+Niquia,Parque Berrio,10.4,Cable,Domingo,13,1,1,3.8,9100,0,Lluvia,27
+Alpujarra,Industriales,1.2,Taxi,Martes,18,1,0,0.3,1391,1,Nublado,10
+Floresta,Caribe,6.9,Caminando,Sabado,5,0,1,30.5,7217,1,Tormenta,32
+Tricentenario,Madera,4.0,Taxi,Miercoles,11,1,0,0.9,4192,2,Tormenta,41
+Universidad,Itagui,11.3,Caminando,Domingo,8,1,1,31.3,10780,1,Soleado,34
+San Antonio,La Estrella,14.0,Taxi,Domingo,3,0,1,3.1,16366,1,Tormenta,92
+Hospital,Exposiciones,6.8,Metro,Viernes,23,0,0,2.7,7106,2,Soleado,36
+Madera,Hospital,1.1,Taxi,Domingo,16,0,1,0.2,1030,3,Lluvia,78
+Cisneros,Madera,9.9,Taxi,Viernes,19,1,0,3.4,9652,0,Lluvia,100
+San Javier,Cisneros,5.6,Metro,Sabado,17,1,1,3.6,4794,3,Tormenta,54
+Estadio,Sabaneta,14.2,Bus,Lunes,17,1,0,6.1,15506,0,Soleado,17
+Universidad,Itagui,4.6,Metro,Martes,12,1,0,3.0,4048,0,Lluvia,83
+Poblado,Estadio,3.4,Bus,Lunes,18,1,0,1.9,3233,0,Soleado,47
+Floresta,Exposiciones,5.7,Metro,Viernes,7,1,0,3.0,4742,2,Nublado,14
+Universidad,Bello,7.2,Taxi,Domingo,0,0,1,1.1,5933,3,Lluvia,88
+Envigado,Parque Berrio,11.4,Taxi,Viernes,14,1,0,3.6,11012,2,Soleado,81
+Floresta,Caribe,6.7,Caminando,Jueves,3,0,0,14.0,6271,2,Nublado,17
+Industriales,Parque Berrio,1.3,Metro,Jueves,23,0,0,0.5,1538,3,Tormenta,98
+Sabaneta,Madera,3.2,Metro,Viernes,22,0,0,1.0,2762,3,Nublado,63
+Cisneros,Ayura,9.9,Bus,Miercoles,21,0,0,4.0,9950,1,Tormenta,89
+Itagui,Suramericana,9.8,Cable,Domingo,0,0,1,2.0,11388,0,Soleado,11
+Alpujarra,Sabaneta,7.9,Bus,Jueves,21,0,0,3.7,8161,0,Nublado,30
+Tricentenario,Niquia,13.8,Metro,Jueves,21,0,0,4.2,14518,1,Lluvia,34
+Envigado,Poblado,2.2,Metro,Domingo,19,1,1,1.2,2132,0,Nublado,90
+Ayura,Exposiciones,8.7,Metro,Lunes,1,0,0,2.5,7769,2,Soleado,63
+Suramericana,Alpujarra,14.4,Taxi,Martes,8,1,0,4.9,11822,0,Lluvia,20
+La Estrella,Ayura,6.5,Caminando,Martes,10,0,0,14.0,5512,3,Lluvia,90
+Cisneros,Alpujarra,8.4,Cable,Lunes,7,1,0,2.8,8207,3,Nublado,19
+Universidad,Industriales,13.4,Metro,Sabado,20,0,1,3.8,11323,0,Nublado,81
+Exposiciones,Niquia,10.3,Taxi,Jueves,18,1,0,3.5,11484,0,Nublado,75
+Niquia,Hospital,13.0,Taxi,Martes,23,0,0,2.6,15483,2,Nublado,81
+Caribe,Floresta,9.2,Caminando,Jueves,9,0,0,20.3,10010,0,Lluvia,39
+Parque Berrio,Aguacatala,13.4,Bus,Miercoles,7,1,0,10.3,11095,2,Nublado,26
+San Javier,Estadio,13.1,Cable,Miercoles,0,0,0,2.8,14672,3,Lluvia,58
+Santa Lucia,San Javier,11.8,Bus,Viernes,5,0,0,6.0,10561,1,Nublado,78
+Niquia,Suramericana,4.4,Metro,Sabado,6,1,1,2.0,4290,3,Lluvia,97
+Cisneros,Industriales,8.0,Cable,Martes,20,0,0,1.6,7720,1,Tormenta,44
+Floresta,Prado,5.7,Caminando,Lunes,18,1,0,14.0,5951,2,Lluvia,97
+Suramericana,Santa Lucia,13.9,Taxi,Martes,20,0,0,3.1,14942,3,Lluvia,21
+San Javier,Madera,7.0,Taxi,Sabado,12,1,1,1.7,6020,3,Tormenta,42
+San Antonio,Hospital,12.0,Taxi,Lunes,13,1,0,2.8,11508,0,Tormenta,66
+Ayura,La Estrella,13.8,Cable,Viernes,23,0,0,2.5,13510,1,Soleado,24
+Exposiciones,Cisneros,9.1,Bus,Lunes,2,0,0,4.0,8581,1,Nublado,77
+Prado,Suramericana,7.7,Caminando,Lunes,9,0,0,14.8,8632,2,Tormenta,93
+Santa Lucia,Bello,4.8,Metro,Viernes,16,0,0,1.8,4574,0,Soleado,52
+Hospital,Aguacatala,6.6,Bus,Viernes,16,0,0,3.0,6448,2,Lluvia,44
+Industriales,Niquia,13.5,Taxi,Martes,18,1,0,3.6,12636,3,Nublado,73
+Tricentenario,Bello,9.7,Taxi,Miercoles,12,1,0,2.4,10389,2,Tormenta,66
+Floresta,La Estrella,3.4,Bus,Domingo,11,1,1,1.8,3278,1,Nublado,12
+San Javier,Aguacatala,2.3,Cable,Martes,10,0,0,0.4,2146,1,Lluvia,60
+Aguacatala,San Javier,1.0,Caminando,Sabado,9,0,1,2.0,811,3,Lluvia,20
+San Javier,Cisneros,9.5,Caminando,Martes,18,1,0,24.2,8341,2,Lluvia,22
+Suramericana,Parque Berrio,10.4,Caminando,Miercoles,10,0,0,20.2,11201,1,Nublado,76
+Estadio,La Estrella,4.8,Taxi,Sabado,18,1,1,1.4,5270,0,Tormenta,12
+Alpujarra,San Antonio,9.9,Taxi,Lunes,8,1,0,3.2,10306,3,Soleado,53
+Industriales,Cisneros,12.6,Caminando,Lunes,4,0,0,22.8,10420,3,Tormenta,98
+Hospital,San Antonio,9.3,Metro,Viernes,6,1,0,5.5,7961,0,Lluvia,92
+Prado,Aguacatala,4.4,Cable,Lunes,9,0,0,0.8,4110,3,Nublado,32
+Alpujarra,Exposiciones,4.6,Cable,Domingo,10,0,1,0.9,5400,3,Lluvia,22
+Exposiciones,Itagui,4.0,Taxi,Sabado,11,1,1,1.2,4296,2,Lluvia,54
+Envigado,Niquia,12.7,Caminando,Jueves,15,0,0,24.0,14402,3,Tormenta,15
+Tricentenario,Cisneros,11.9,Caminando,Jueves,20,0,0,22.9,14030,2,Tormenta,10
+Parque Berrio,Niquia,12.3,Cable,Sabado,8,1,1,4.1,11439,3,Tormenta,98
+Hospital,San Antonio,9.0,Metro,Domingo,11,1,1,5.6,8505,2,Tormenta,14
+Acevedo,Aguacatala,2.4,Metro,Martes,19,1,0,1.0,2729,0,Soleado,66
+Floresta,Bello,9.0,Cable,Domingo,18,1,1,2.7,9630,2,Lluvia,97
+Acevedo,Industriales,9.1,Bus,Miercoles,23,0,0,4.3,10865,3,Tormenta,61
+San Javier,Hospital,15.0,Taxi,Sabado,13,1,1,4.6,16035,3,Soleado,72
+Bello,Aguacatala,4.8,Bus,Lunes,17,1,0,2.0,4099,1,Soleado,19
+Prado,Universidad,3.3,Metro,Jueves,14,1,0,2.1,3323,1,Lluvia,71
+Santa Lucia,Suramericana,14.3,Caminando,Jueves,14,1,0,46.2,17060,0,Soleado,68
+San Javier,Estadio,12.8,Bus,Domingo,20,0,1,5.3,10394,1,Lluvia,33
+San Javier,Industriales,10.9,Bus,Sabado,18,1,1,7.1,12971,3,Tormenta,84
+Acevedo,Madera,12.2,Bus,Jueves,4,0,0,3.9,13859,1,Lluvia,30
+Suramericana,Exposiciones,12.1,Metro,Martes,18,1,0,7.0,11737,2,Tormenta,50
+Poblado,Prado,3.5,Taxi,Domingo,11,1,1,1.1,2936,0,Soleado,98
+Envigado,Santa Lucia,13.9,Taxi,Jueves,6,1,0,4.2,12135,0,Nublado,80
+Cisneros,La Estrella,7.2,Caminando,Viernes,22,0,0,17.0,6869,0,Lluvia,73
+Madera,Parque Berrio,1.4,Cable,Miercoles,4,0,0,0.3,1294,1,Nublado,51
+Prado,Bello,3.4,Metro,Miercoles,5,0,0,1.0,3060,0,Tormenta,60
+Parque Berrio,Aguacatala,14.9,Cable,Viernes,23,0,0,3.1,12740,1,Tormenta,58
+Tricentenario,Estadio,6.9,Caminando,Viernes,0,0,0,13.7,7762,3,Nublado,22
+Aguacatala,Tricentenario,8.9,Metro,Domingo,17,1,1,4.3,9737,1,Soleado,38
+Cisneros,San Javier,12.1,Bus,Viernes,9,0,0,4.1,11519,0,Soleado,61
+Bello,Alpujarra,6.4,Bus,Sabado,21,0,1,3.2,6982,0,Tormenta,92
+Niquia,Prado,10.9,Taxi,Sabado,10,0,1,2.3,9407,0,Lluvia,81
+Itagui,Acevedo,9.1,Bus,Miercoles,17,1,0,4.7,7826,2,Nublado,18
+Sabaneta,Hospital,6.6,Cable,Miercoles,10,0,0,1.2,6706,0,Tormenta,56
+Suramericana,Prado,3.8,Caminando,Lunes,4,0,0,9.1,4511,2,Nublado,97
+Cisneros,Sabaneta,7.3,Metro,Viernes,13,1,0,4.1,7001,2,Lluvia,58
+Itagui,Universidad,11.3,Taxi,Martes,0,0,0,2.0,13458,0,Nublado,79
+Hospital,Universidad,8.2,Metro,Lunes,10,0,0,2.9,8930,0,Nublado,53
+Suramericana,Estadio,14.0,Caminando,Jueves,3,0,0,23.3,11382,1,Soleado,54
+Industriales,Envigado,2.0,Cable,Jueves,18,1,0,0.7,1936,0,Tormenta,42
+Envigado,Cisneros,3.9,Bus,Viernes,20,0,0,1.5,3350,3,Tormenta,68
+Poblado,Santa Lucia,4.9,Cable,Sabado,0,0,1,0.9,5562,3,Nublado,20
+La Estrella,Suramericana,4.2,Cable,Viernes,1,0,0,0.8,4969,3,Lluvia,73
+Prado,Alpujarra,13.6,Metro,Miercoles,9,0,0,5.2,15749,3,Nublado,24
+Envigado,Madera,12.8,Taxi,Viernes,0,0,0,2.1,14131,2,Lluvia,71
+Industriales,Acevedo,14.3,Metro,Martes,1,0,0,4.9,14729,2,Lluvia,96
+Floresta,Alpujarra,8.2,Cable,Martes,14,1,0,2.4,8979,1,Lluvia,74
+San Antonio,Prado,9.5,Metro,Martes,18,1,0,4.7,9291,3,Soleado,65
+Exposiciones,Estadio,1.9,Caminando,Domingo,5,0,1,3.8,2280,3,Soleado,89
+Estadio,Poblado,7.6,Cable,Viernes,14,1,0,2.2,7661,1,Tormenta,38
+Aguacatala,Poblado,2.0,Caminando,Sabado,23,0,1,4.5,2048,1,Lluvia,25
+Tricentenario,Itagui,10.2,Caminando,Domingo,5,0,1,16.6,11567,1,Lluvia,35
+Caribe,Prado,12.0,Bus,Miercoles,7,1,0,6.3,11316,3,Soleado,61
+Cisneros,Santa Lucia,10.9,Metro,Domingo,18,1,1,5.1,12372,1,Nublado,53
+Poblado,Itagui,2.3,Cable,Domingo,4,0,1,0.5,2682,0,Soleado,58
+Prado,Parque Berrio,8.4,Caminando,Domingo,10,0,1,18.7,7174,0,Soleado,42
+Caribe,Exposiciones,5.5,Taxi,Lunes,4,0,0,1.4,5247,1,Lluvia,52
+Suramericana,Niquia,8.6,Cable,Lunes,13,1,0,2.2,9477,1,Nublado,25
+Hospital,Madera,8.8,Cable,Sabado,2,0,1,1.9,9706,1,Tormenta,82
+Ayura,Suramericana,3.8,Cable,Domingo,16,0,1,0.8,3344,2,Lluvia,62
+Caribe,Sabaneta,5.3,Metro,Domingo,21,0,1,3.4,4733,0,Tormenta,10
+Niquia,Alpujarra,8.4,Metro,Viernes,1,0,0,2.6,7358,0,Nublado,97
+Caribe,Estadio,6.1,Metro,Miercoles,23,0,0,1.9,6118,2,Tormenta,89
+Tricentenario,Santa Lucia,6.8,Metro,Miercoles,8,1,0,3.8,8153,0,Lluvia,31
+Exposiciones,Santa Lucia,3.4,Caminando,Lunes,8,1,0,9.7,3556,2,Lluvia,79
+Suramericana,Universidad,8.1,Bus,Martes,18,1,0,5.7,7371,3,Soleado,64
+Bello,Cisneros,14.7,Metro,Martes,10,0,0,4.2,15406,0,Lluvia,94
+Envigado,San Antonio,1.1,Caminando,Sabado,3,0,1,2.1,1198,3,Tormenta,87
+Aguacatala,Santa Lucia,5.9,Bus,Miercoles,19,1,0,3.3,5186,2,Nublado,40
+Hospital,Floresta,12.6,Bus,Viernes,14,1,0,9.1,13847,2,Nublado,85
+Acevedo,Alpujarra,12.3,Caminando,Jueves,11,1,0,35.2,13899,3,Soleado,46
+Sabaneta,Caribe,5.2,Metro,Miercoles,10,0,0,2.0,4982,1,Lluvia,81
+Suramericana,Poblado,6.4,Bus,Domingo,13,1,1,3.1,5894,0,Nublado,48
+La Estrella,Itagui,10.9,Cable,Martes,7,1,0,3.0,10377,1,Lluvia,35
+La Estrella,San Antonio,3.3,Taxi,Sabado,14,1,1,1.2,3208,3,Lluvia,38
+Ayura,Santa Lucia,11.7,Metro,Sabado,19,1,1,6.1,13198,2,Nublado,47
+Aguacatala,Sabaneta,11.1,Cable,Domingo,20,0,1,4.7,12843,2,Tormenta,39
+Aguacatala,Industriales,6.3,Bus,Miercoles,5,0,0,2.9,5481,1,Lluvia,43
+Sabaneta,Tricentenario,1.7,Metro,Jueves,13,1,0,1.0,1907,0,Soleado,96
+San Antonio,Tricentenario,11.5,Cable,Domingo,3,0,1,2.2,11028,0,Lluvia,72
+San Antonio,Poblado,8.3,Caminando,Martes,0,0,0,14.1,7586,1,Lluvia,88
+Ayura,Estadio,3.2,Taxi,Lunes,9,0,0,0.7,3805,2,Tormenta,97
+Industriales,Floresta,4.5,Cable,Martes,2,0,0,0.9,3982,3,Nublado,48
+Poblado,Estadio,1.6,Bus,Sabado,10,0,1,0.5,1293,0,Soleado,65
+Parque Berrio,Aguacatala,5.2,Cable,Martes,20,0,0,1.0,6120,2,Lluvia,43
+San Javier,Bello,2.7,Taxi,Martes,20,0,0,0.6,3159,0,Tormenta,66
+Alpujarra,Cisneros,5.3,Taxi,Lunes,7,1,0,1.5,4987,2,Nublado,95
+Itagui,Caribe,8.8,Taxi,Lunes,16,0,0,1.5,8158,0,Nublado,41
+Niquia,Ayura,9.8,Bus,Jueves,10,0,0,4.7,8742,1,Tormenta,49
+Acevedo,Universidad,1.3,Bus,Sabado,15,0,1,0.5,1514,3,Nublado,17
+Hospital,Prado,6.6,Taxi,Jueves,10,0,0,1.1,6382,0,Soleado,72
+Santa Lucia,Madera,1.8,Taxi,Miercoles,10,0,0,0.4,2023,0,Lluvia,29
+Tricentenario,San Javier,2.0,Taxi,Martes,12,1,0,0.6,1688,1,Lluvia,39
+Ayura,Cisneros,9.2,Metro,Sabado,16,0,1,3.5,10810,2,Soleado,54
+Santa Lucia,Estadio,14.0,Bus,Viernes,9,0,0,7.2,14560,0,Lluvia,98
+Aguacatala,Suramericana,13.5,Taxi,Jueves,15,0,0,2.6,11988,1,Lluvia,62
+Hospital,Niquia,2.9,Cable,Lunes,23,0,0,0.6,3115,2,Tormenta,40
+San Antonio,Tricentenario,14.2,Metro,Miercoles,14,1,0,6.3,15762,3,Lluvia,95
+La Estrella,Industriales,5.3,Caminando,Domingo,14,1,1,18.7,5607,0,Soleado,23
+Bello,Acevedo,12.9,Taxi,Sabado,23,0,1,2.9,13519,0,Nublado,14
+Prado,Cisneros,14.1,Cable,Miercoles,3,0,0,2.9,14946,3,Lluvia,21
+Ayura,Santa Lucia,14.9,Taxi,Lunes,19,1,0,5.2,14960,1,Tormenta,71
+Caribe,Envigado,11.0,Metro,Martes,15,0,0,9.4,11913,0,Lluvia,67
+Tricentenario,San Javier,6.9,Bus,Sabado,6,1,1,3.1,8032,0,Nublado,16
+Estadio,Exposiciones,2.4,Caminando,Sabado,16,0,1,4.3,2666,1,Tormenta,69
+Madera,Parque Berrio,14.2,Cable,Jueves,8,1,0,4.3,14058,0,Lluvia,72
+Acevedo,Madera,1.6,Cable,Jueves,11,1,0,0.6,1450,2,Nublado,21
+Ayura,Bello,1.2,Cable,Viernes,18,1,0,0.3,1172,3,Lluvia,37
+Hospital,Suramericana,12.1,Cable,Sabado,15,0,1,2.2,12015,3,Tormenta,23
+Itagui,Cisneros,5.0,Bus,Viernes,3,0,0,2.0,4260,1,Lluvia,95
+Bello,Caribe,1.3,Taxi,Jueves,10,0,0,0.2,1433,0,Soleado,95
+Itagui,Sabaneta,6.6,Caminando,Jueves,18,1,0,20.3,6323,3,Soleado,60
+Universidad,Niquia,11.8,Bus,Domingo,7,1,1,4.6,10785,2,Nublado,88
+Parque Berrio,La Estrella,2.5,Bus,Viernes,15,0,0,1.3,2822,3,Lluvia,44
+Industriales,Suramericana,10.7,Cable,Jueves,16,0,0,2.1,10625,1,Nublado,53
+Tricentenario,Aguacatala,1.1,Taxi,Jueves,12,1,0,0.2,1041,0,Lluvia,58
+Floresta,Poblado,2.1,Cable,Sabado,5,0,1,0.4,1726,2,Soleado,76
+La Estrella,Caribe,6.8,Caminando,Martes,10,0,0,13.2,5834,1,Nublado,84
+Tricentenario,Ayura,7.8,Caminando,Sabado,9,0,1,16.3,7761,1,Tormenta,20
+San Antonio,Tricentenario,12.6,Cable,Domingo,19,1,1,4.6,12033,1,Soleado,28
+Caribe,Cisneros,4.5,Taxi,Lunes,17,1,0,1.4,4162,3,Nublado,69
+Madera,San Antonio,12.7,Taxi,Miercoles,7,1,0,5.3,11151,3,Tormenta,90
+Itagui,Cisneros,10.4,Metro,Jueves,3,0,0,3.3,8445,2,Tormenta,21
+Ayura,Sabaneta,11.3,Metro,Sabado,18,1,1,6.4,12498,1,Lluvia,72
+Industriales,Itagui,1.9,Caminando,Martes,6,1,0,4.4,1712,0,Soleado,24
+Envigado,San Javier,13.9,Metro,Lunes,0,0,0,5.0,13358,0,Tormenta,85
+San Javier,Niquia,8.0,Taxi,Lunes,14,1,0,2.4,6592,3,Tormenta,22
+Parque Berrio,Santa Lucia,2.0,Caminando,Sabado,16,0,1,3.5,1962,3,Lluvia,50
+Aguacatala,Tricentenario,9.4,Bus,Sabado,10,0,1,4.4,8808,0,Nublado,37
+Poblado,Prado,1.1,Taxi,Jueves,20,0,0,0.3,939,1,Tormenta,88
+Parque Berrio,Madera,2.0,Bus,Miercoles,12,1,0,1.3,2376,3,Lluvia,39
+Madera,Floresta,14.0,Caminando,Viernes,11,1,0,36.1,11774,0,Tormenta,92
+San Antonio,Parque Berrio,4.2,Cable,Martes,5,0,0,0.8,3402,0,Lluvia,66
+Parque Berrio,Envigado,13.3,Cable,Martes,19,1,0,4.2,14164,2,Lluvia,76
+Madera,Aguacatala,12.3,Metro,Sabado,7,1,1,4.4,12780,0,Soleado,66
+Aguacatala,Suramericana,9.0,Bus,Lunes,15,0,0,3.2,8127,0,Tormenta,77
+Acevedo,Tricentenario,12.7,Metro,Viernes,3,0,0,5.1,10312,1,Soleado,44
+Parque Berrio,San Antonio,7.3,Metro,Miercoles,10,0,0,2.2,8307,2,Tormenta,99
+San Antonio,Exposiciones,7.7,Bus,Lunes,18,1,0,5.8,7577,1,Soleado,17
+Parque Berrio,La Estrella,9.8,Caminando,Domingo,5,0,1,23.4,9771,0,Tormenta,92
+Cisneros,Poblado,14.5,Bus,Domingo,14,1,1,11.9,12746,2,Tormenta,29
+Universidad,Cisneros,13.0,Caminando,Sabado,16,0,1,30.9,14534,1,Tormenta,94
+Suramericana,Exposiciones,4.7,Caminando,Jueves,21,0,0,7.8,4338,2,Nublado,25
+Estadio,Aguacatala,7.0,Caminando,Sabado,14,1,1,20.9,6419,2,Tormenta,87
+Tricentenario,Acevedo,1.3,Metro,Viernes,4,0,0,0.5,1447,1,Lluvia,43
+Exposiciones,Parque Berrio,1.2,Cable,Jueves,18,1,0,0.4,1160,2,Tormenta,10
+Hospital,La Estrella,7.7,Bus,Viernes,21,0,0,3.7,8285,3,Tormenta,84
+Tricentenario,Exposiciones,5.6,Taxi,Jueves,19,1,0,1.6,4497,0,Soleado,24
+San Javier,Suramericana,2.0,Metro,Miercoles,10,0,0,0.6,1796,2,Lluvia,89
+La Estrella,Ayura,1.0,Metro,Jueves,2,0,0,0.4,871,1,Lluvia,95
+Exposiciones,Sabaneta,7.7,Caminando,Lunes,21,0,0,13.5,6445,0,Lluvia,95
+Prado,Envigado,14.3,Metro,Miercoles,21,0,0,4.3,14086,2,Tormenta,18
+Sabaneta,Tricentenario,13.3,Bus,Jueves,16,0,0,3.8,11185,3,Lluvia,25
+Aguacatala,Exposiciones,12.6,Metro,Domingo,20,0,1,3.6,15007,0,Tormenta,87
+Hospital,Poblado,6.8,Caminando,Lunes,10,0,0,13.4,6283,1,Nublado,83
+San Javier,Madera,14.7,Caminando,Domingo,21,0,1,25.2,12877,3,Tormenta,23
+Caribe,Industriales,9.5,Caminando,Domingo,14,1,1,29.1,8502,2,Nublado,88
+Industriales,Suramericana,11.6,Taxi,Martes,9,0,0,2.0,13015,3,Tormenta,74
+Acevedo,Tricentenario,1.6,Metro,Domingo,7,1,1,0.8,1542,3,Tormenta,20
+Cisneros,San Antonio,11.8,Taxi,Viernes,11,1,0,4.7,12343,3,Soleado,31
+Alpujarra,Sabaneta,11.0,Metro,Viernes,4,0,0,3.3,10120,3,Nublado,24
+Industriales,Caribe,4.0,Cable,Martes,23,0,0,0.8,3348,0,Nublado,89
+San Antonio,Exposiciones,7.6,Caminando,Miercoles,18,1,0,20.7,8299,1,Lluvia,72
+Itagui,San Antonio,4.6,Taxi,Martes,18,1,0,1.5,4807,1,Tormenta,68
+Niquia,Hospital,6.5,Caminando,Miercoles,4,0,0,13.8,5544,0,Nublado,56
+Envigado,Parque Berrio,12.2,Bus,Miercoles,6,1,0,7.4,9955,1,Nublado,90
+Prado,San Javier,4.1,Caminando,Jueves,16,0,0,9.5,3510,0,Tormenta,97
+Santa Lucia,Ayura,9.9,Caminando,Lunes,2,0,0,17.7,9702,2,Lluvia,29
+Caribe,Niquia,9.6,Cable,Lunes,0,0,0,2.1,8352,3,Lluvia,96
+Madera,Poblado,11.7,Bus,Lunes,19,1,0,5.8,13092,2,Lluvia,52
+Madera,Santa Lucia,1.5,Metro,Viernes,11,1,0,0.6,1396,1,Nublado,64
+Caribe,Hospital,1.2,Metro,Martes,6,1,0,0.5,1054,1,Soleado,100
+Universidad,Santa Lucia,3.8,Taxi,Martes,4,0,0,0.7,4157,0,Tormenta,83
+Tricentenario,Itagui,10.9,Metro,Viernes,3,0,0,3.2,11096,3,Tormenta,96
+Parque Berrio,Niquia,6.2,Bus,Miercoles,0,0,0,3.1,5016,3,Soleado,65
+Exposiciones,Prado,10.6,Caminando,Martes,0,0,0,19.4,10271,0,Soleado,52
+Floresta,La Estrella,3.0,Metro,Lunes,13,1,0,2.0,2403,1,Lluvia,22
+Acevedo,Exposiciones,9.6,Metro,Jueves,0,0,0,3.8,11270,1,Soleado,52
+Cisneros,Caribe,10.7,Taxi,Jueves,5,0,0,1.7,11577,0,Lluvia,74
+Cisneros,Envigado,9.9,Bus,Viernes,20,0,0,3.3,11662,0,Lluvia,73
+Exposiciones,Caribe,1.7,Taxi,Sabado,6,1,1,0.4,1498,2,Lluvia,74
+San Javier,Industriales,6.6,Bus,Martes,14,1,0,3.9,7260,0,Nublado,12
+Prado,Exposiciones,2.6,Caminando,Miercoles,0,0,0,5.3,2491,1,Nublado,87
+Hospital,Exposiciones,9.3,Taxi,Domingo,9,0,1,1.6,9114,3,Tormenta,51
+Poblado,Ayura,10.5,Caminando,Viernes,2,0,0,23.4,11340,1,Soleado,100
+Parque Berrio,Suramericana,7.2,Taxi,Jueves,13,1,0,2.1,6077,3,Soleado,80
+Itagui,Alpujarra,12.2,Caminando,Lunes,14,1,0,30.3,10797,1,Soleado,36
+Universidad,Industriales,1.1,Caminando,Sabado,12,1,1,3.2,1301,0,Nublado,95
+Ayura,San Javier,1.1,Caminando,Lunes,18,1,0,4.1,939,0,Nublado,83
+Sabaneta,Suramericana,7.5,Cable,Jueves,19,1,0,2.7,6180,1,Nublado,76
+San Javier,Aguacatala,13.4,Caminando,Martes,21,0,0,23.0,15129,3,Soleado,79
+Estadio,Suramericana,6.5,Taxi,Jueves,18,1,0,1.9,5226,0,Tormenta,40
+Aguacatala,Sabaneta,11.9,Taxi,Miercoles,18,1,0,3.5,11055,2,Lluvia,24
+Bello,Aguacatala,2.9,Cable,Sabado,5,0,1,0.6,2740,1,Lluvia,67
+Cisneros,Alpujarra,1.4,Caminando,Martes,22,0,0,3.1,1364,1,Lluvia,90
+La Estrella,Floresta,6.1,Caminando,Martes,14,1,0,21.3,6978,3,Lluvia,63
+San Javier,Cisneros,8.4,Caminando,Jueves,12,1,0,28.4,6880,3,Nublado,17
+Poblado,San Javier,14.4,Metro,Jueves,14,1,0,7.1,12931,2,Soleado,92
+La Estrella,Niquia,6.4,Cable,Jueves,17,1,0,1.7,6758,2,Lluvia,11
+Hospital,Universidad,2.8,Cable,Sabado,18,1,1,0.9,2506,1,Soleado,27
+Cisneros,San Javier,7.4,Cable,Miercoles,6,1,0,2.3,6364,2,Tormenta,29
+Prado,La Estrella,4.4,Metro,Lunes,4,0,0,1.5,4475,2,Soleado,84
+Hospital,Floresta,10.7,Taxi,Martes,11,1,0,3.5,8753,0,Tormenta,24
+Aguacatala,Prado,4.7,Metro,Jueves,13,1,0,2.7,4888,3,Soleado,30
+Acevedo,Itagui,14.4,Caminando,Jueves,21,0,0,24.7,17078,0,Tormenta,51
+Niquia,Aguacatala,13.2,Cable,Sabado,4,0,1,2.9,12157,0,Lluvia,59
+Parque Berrio,San Antonio,4.5,Cable,Lunes,22,0,0,0.8,4450,2,Lluvia,84
+San Antonio,Bello,7.0,Bus,Lunes,6,1,0,4.3,8008,2,Nublado,39
+La Estrella,Tricentenario,4.7,Cable,Martes,6,1,0,1.3,5428,1,Tormenta,82
+Exposiciones,Estadio,3.6,Bus,Miercoles,18,1,0,2.2,3568,2,Soleado,61
+Acevedo,Aguacatala,1.3,Caminando,Lunes,13,1,0,5.0,1154,0,Soleado,36
+Itagui,Universidad,7.4,Taxi,Domingo,19,1,1,2.7,7363,1,Soleado,80
+La Estrella,Universidad,11.4,Bus,Jueves,7,1,0,6.4,12677,1,Soleado,10
+San Antonio,Hospital,3.4,Metro,Miercoles,2,0,0,1.1,3692,1,Nublado,75
+Hospital,San Javier,3.5,Cable,Sabado,23,0,1,0.7,3910,2,Tormenta,79
+Envigado,Poblado,6.6,Bus,Miercoles,4,0,0,2.1,7029,0,Soleado,31
+Industriales,Sabaneta,6.8,Caminando,Martes,9,0,0,13.2,6562,1,Lluvia,72
+Industriales,Niquia,10.1,Caminando,Sabado,22,0,1,23.3,10352,1,Lluvia,53
+Caribe,Exposiciones,10.7,Cable,Martes,14,1,0,3.3,8635,3,Soleado,99
+Santa Lucia,Sabaneta,7.6,Taxi,Sabado,10,0,1,1.7,7767,0,Nublado,88
+Ayura,Envigado,3.2,Caminando,Jueves,4,0,0,6.5,2781,1,Tormenta,97
+Floresta,Madera,1.4,Cable,Lunes,3,0,0,0.3,1173,3,Soleado,52
+Exposiciones,Estadio,12.1,Cable,Domingo,16,0,1,2.2,13649,3,Tormenta,49
+Aguacatala,Sabaneta,7.5,Taxi,Sabado,2,0,1,1.5,6668,2,Nublado,81
+San Javier,Alpujarra,2.2,Bus,Viernes,21,0,0,2.4,1855,2,Soleado,76
+Poblado,Niquia,7.8,Metro,Sabado,0,0,1,3.0,6396,3,Tormenta,93
+Acevedo,Estadio,5.0,Metro,Sabado,9,0,1,1.5,5480,2,Tormenta,86
+Exposiciones,Aguacatala,2.2,Bus,Viernes,9,0,0,0.6,1861,0,Soleado,16
+San Javier,Aguacatala,1.4,Metro,Lunes,15,0,0,0.4,1226,2,Lluvia,82
+Aguacatala,Caribe,1.5,Bus,Sabado,21,0,1,0.4,1676,3,Lluvia,89
+Suramericana,Sabaneta,10.4,Cable,Domingo,20,0,1,2.1,10088,1,Tormenta,51
+Sabaneta,Estadio,5.9,Cable,Domingo,8,1,1,1.9,6956,2,Nublado,17
+Parque Berrio,Madera,11.9,Cable,Lunes,3,0,0,2.2,13661,2,Soleado,34
+Hospital,Aguacatala,12.1,Caminando,Lunes,14,1,0,36.8,13443,3,Tormenta,78
+Acevedo,Estadio,5.8,Cable,Viernes,16,0,0,1.2,5997,2,Soleado,56
+Ayura,Parque Berrio,4.9,Caminando,Domingo,16,0,1,10.1,4062,1,Lluvia,74
+Exposiciones,Caribe,7.2,Taxi,Viernes,21,0,0,3.7,7812,3,Nublado,33
+Prado,Exposiciones,11.3,Bus,Jueves,4,0,0,3.5,9560,0,Lluvia,98
+Madera,Itagui,13.6,Taxi,Miercoles,21,0,0,2.9,15939,2,Nublado,31
+Madera,Prado,8.0,Taxi,Jueves,13,1,0,2.3,9240,1,Lluvia,98
+Envigado,Niquia,4.7,Metro,Viernes,4,0,0,1.5,4949,1,Soleado,52
+San Antonio,Parque Berrio,13.9,Caminando,Martes,18,1,0,38.3,11565,2,Tormenta,97
+Prado,La Estrella,6.4,Caminando,Sabado,14,1,1,18.7,5459,3,Lluvia,97
+Aguacatala,Cisneros,2.1,Bus,Martes,8,1,0,1.0,1970,2,Nublado,89
+Cisneros,Caribe,9.3,Cable,Domingo,13,1,1,2.9,8835,2,Lluvia,75
+Prado,Aguacatala,1.1,Taxi,Miercoles,7,1,0,0.5,1207,1,Tormenta,10
+Santa Lucia,San Antonio,5.7,Caminando,Lunes,5,0,0,13.6,6253,1,Lluvia,58
+Hospital,Envigado,12.8,Caminando,Martes,3,0,0,29.1,12160,3,Nublado,64
+Floresta,Cisneros,14.7,Taxi,Lunes,3,0,0,2.8,12774,1,Nublado,17
+Suramericana,Poblado,9.6,Metro,Miercoles,13,1,0,5.6,8179,3,Soleado,26
+Santa Lucia,Tricentenario,4.5,Cable,Sabado,9,0,1,0.8,5152,1,Tormenta,18
+Envigado,Industriales,13.2,Bus,Lunes,9,0,0,4.8,10982,0,Nublado,90
+Madera,Hospital,8.6,Caminando,Miercoles,0,0,0,15.0,9254,0,Tormenta,63
+Madera,Alpujarra,8.2,Taxi,Viernes,19,1,0,2.3,7798,0,Soleado,31
+La Estrella,Envigado,2.1,Caminando,Martes,10,0,0,3.6,2436,3,Tormenta,84
+Bello,Alpujarra,3.5,Caminando,Martes,12,1,0,9.7,3752,2,Tormenta,14
+San Antonio,Tricentenario,12.8,Metro,Lunes,2,0,0,3.7,13875,3,Soleado,31
+Universidad,Estadio,14.2,Bus,Jueves,6,1,0,10.3,14569,3,Tormenta,27
+Industriales,Itagui,8.4,Taxi,Domingo,15,0,1,1.9,9820,1,Nublado,10
+Ayura,Aguacatala,7.1,Cable,Miercoles,7,1,0,2.2,8094,1,Nublado,44
+La Estrella,San Javier,7.7,Taxi,Sabado,22,0,1,1.4,6915,1,Tormenta,73
+La Estrella,Floresta,4.0,Metro,Miercoles,8,1,0,2.2,3324,1,Tormenta,38
+Floresta,La Estrella,12.4,Bus,Sabado,17,1,1,31.7,11532,0,Nublado,52
+San Antonio,Alpujarra,14.7,Taxi,Miercoles,16,0,0,3.4,15200,0,Lluvia,23
+Acevedo,Poblado,6.0,Cable,Lunes,17,1,0,2.0,6024,3,Nublado,77
+Exposiciones,Cisneros,5.2,Taxi,Lunes,19,1,0,2.0,4862,3,Tormenta,39
+Universidad,Caribe,5.0,Bus,Domingo,2,0,1,2.1,5190,3,Soleado,11
+San Javier,Industriales,14.2,Bus,Sabado,21,0,1,6.0,13376,1,Tormenta,45
+Bello,Ayura,3.9,Cable,Lunes,20,0,0,0.7,3214,1,Nublado,83
+Ayura,Niquia,2.3,Metro,Domingo,23,0,1,0.8,2102,1,Lluvia,64
+Envigado,La Estrella,1.5,Metro,Sabado,17,1,1,0.9,1366,1,Tormenta,45
+Cisneros,Suramericana,1.3,Bus,Lunes,12,1,0,0.9,1550,3,Soleado,50
+Exposiciones,Alpujarra,7.5,Caminando,Sabado,21,0,1,17.5,7132,2,Tormenta,53
+Itagui,San Antonio,1.4,Caminando,Domingo,11,1,1,4.6,1571,3,Nublado,82
+Santa Lucia,La Estrella,8.2,Metro,Viernes,3,0,0,3.1,7757,0,Nublado,89
+Alpujarra,Caribe,3.0,Taxi,Domingo,23,0,1,0.7,3426,1,Soleado,60
+La Estrella,San Antonio,2.3,Metro,Martes,19,1,0,1.3,2187,2,Nublado,17
+Suramericana,Universidad,9.8,Metro,Domingo,4,0,1,3.6,10163,1,Soleado,75
+Floresta,Suramericana,3.6,Caminando,Viernes,9,0,0,7.9,3323,1,Soleado,31
+Floresta,Parque Berrio,9.2,Taxi,Domingo,23,0,1,2.3,8722,0,Lluvia,21
+Caribe,Cisneros,11.1,Metro,Viernes,1,0,0,3.9,12121,2,Soleado,100
+Niquia,San Antonio,2.9,Cable,Sabado,8,1,1,0.9,2767,3,Soleado,21
+Envigado,La Estrella,11.4,Metro,Viernes,6,1,0,5.9,13258,2,Tormenta,18
+Universidad,Hospital,10.7,Caminando,Jueves,19,1,0,37.5,9576,3,Nublado,47
+Cisneros,Tricentenario,11.8,Metro,Sabado,4,0,1,4.1,13712,1,Soleado,38
+Bello,Acevedo,3.3,Taxi,Viernes,9,0,0,0.7,3577,0,Tormenta,96
+Industriales,Parque Berrio,12.5,Taxi,Sabado,6,1,1,3.2,13275,1,Soleado,95
+Universidad,Hospital,2.3,Taxi,Domingo,17,1,1,0.8,2576,3,Tormenta,16
+Parque Berrio,Floresta,13.0,Metro,Viernes,2,0,0,3.8,14144,0,Soleado,74
+Suramericana,Estadio,12.4,Cable,Jueves,1,0,0,2.2,11222,1,Soleado,41
+Prado,Cisneros,1.4,Taxi,Viernes,11,1,0,0.4,1672,3,Lluvia,17
+Cisneros,Santa Lucia,6.0,Cable,Jueves,11,1,0,2.0,5958,1,Soleado,60
+Niquia,Hospital,2.3,Cable,Martes,16,0,0,0.5,2744,0,Lluvia,98
+Estadio,Poblado,13.0,Metro,Lunes,18,1,0,5.8,10543,0,Lluvia,86
+Sabaneta,Prado,10.6,Cable,Domingo,12,1,1,3.3,9816,1,Tormenta,17
+Niquia,Ayura,11.9,Metro,Lunes,10,0,0,4.1,9913,2,Soleado,81
+Industriales,Universidad,4.0,Bus,Viernes,6,1,0,1.9,4292,3,Lluvia,46
+Santa Lucia,Envigado,4.4,Caminando,Viernes,6,1,0,13.7,4629,1,Nublado,77
+San Antonio,Itagui,11.4,Bus,Jueves,11,1,0,7.5,12734,0,Tormenta,13
+Universidad,San Antonio,7.9,Caminando,Miercoles,7,1,0,22.7,7110,3,Nublado,28
+Hospital,Itagui,6.8,Metro,Viernes,8,1,0,3.4,6392,3,Tormenta,44
+Acevedo,Industriales,1.5,Bus,Martes,2,0,0,0.5,1464,1,Tormenta,71
+Exposiciones,Bello,1.1,Metro,Miercoles,11,1,0,0.5,924,2,Tormenta,32
+Envigado,Acevedo,13.5,Taxi,Miercoles,6,1,0,3.3,12920,3,Soleado,35
+Exposiciones,Madera,6.6,Metro,Lunes,19,1,0,4.1,7676,2,Tormenta,54
+Prado,Caribe,8.1,Cable,Domingo,7,1,1,2.7,7436,3,Tormenta,21
+Prado,Cisneros,9.8,Metro,Sabado,9,0,1,3.0,10682,2,Tormenta,64
+Niquia,Bello,9.4,Bus,Sabado,2,0,1,3.6,8244,3,Nublado,38
+Ayura,Exposiciones,10.7,Caminando,Sabado,8,1,1,37.8,12626,1,Tormenta,77
+Hospital,Itagui,12.7,Taxi,Miercoles,1,0,0,8.6,11417,2,Soleado,87
+Itagui,Madera,8.6,Cable,Martes,11,1,0,2.4,8015,0,Nublado,45
+Cisneros,Ayura,13.2,Taxi,Miercoles,8,1,0,5.5,15220,3,Nublado,72
+Itagui,San Antonio,5.3,Caminando,Sabado,22,0,1,9.2,4929,2,Tormenta,64
+Itagui,San Antonio,12.8,Taxi,Miercoles,2,0,0,2.8,13082,1,Tormenta,53
+Caribe,Envigado,14.5,Metro,Martes,3,0,0,5.3,16922,0,Tormenta,36
+Prado,San Antonio,10.8,Cable,Viernes,21,0,0,2.1,10368,0,Tormenta,37
+Envigado,Hospital,11.1,Bus,Martes,8,1,0,8.1,9391,3,Soleado,69
+Envigado,Acevedo,9.9,Bus,Martes,22,0,0,3.6,8296,1,Soleado,44
+Estadio,Itagui,10.8,Taxi,Martes,9,0,0,2.5,12539,1,Lluvia,54
+Estadio,Tricentenario,7.8,Caminando,Lunes,20,0,0,16.7,9087,2,Tormenta,94
+Aguacatala,Sabaneta,1.7,Caminando,Miercoles,21,0,0,2.9,1688,2,Tormenta,70
+Acevedo,Madera,13.4,Taxi,Martes,17,1,0,4.0,13923,0,Lluvia,19
+Floresta,Niquia,14.8,Cable,Jueves,3,0,0,2.7,14874,2,Lluvia,58
+Santa Lucia,La Estrella,1.8,Metro,Sabado,18,1,1,0.9,2113,2,Tormenta,37
+Floresta,Suramericana,14.6,Caminando,Martes,20,0,0,25.5,17067,3,Lluvia,81
+San Javier,Estadio,7.6,Cable,Sabado,0,0,1,1.5,6650,2,Nublado,32
+San Antonio,Acevedo,8.7,Bus,Viernes,20,0,0,2.8,9109,0,Tormenta,95
+Exposiciones,Poblado,6.0,Metro,Lunes,17,1,0,3.0,6552,2,Tormenta,18
+Industriales,Parque Berrio,14.7,Cable,Martes,16,0,0,6.3,16890,3,Soleado,85
+Cisneros,Niquia,8.3,Cable,Viernes,7,1,0,2.4,8408,3,Nublado,31
+Bello,Ayura,4.8,Metro,Lunes,16,0,0,1.5,5544,3,Tormenta,48
+Envigado,Poblado,5.9,Cable,Miercoles,5,0,0,1.3,6750,2,Lluvia,60
+San Antonio,Aguacatala,6.0,Bus,Jueves,15,0,0,2.1,6366,1,Soleado,67
+Itagui,Prado,1.0,Cable,Martes,18,1,0,0.3,1191,1,Nublado,17
+Caribe,Poblado,1.8,Bus,Miercoles,19,1,0,0.9,1674,2,Nublado,57
+Poblado,Hospital,15.0,Bus,Lunes,19,1,0,9.9,17835,0,Tormenta,39
+San Antonio,Madera,10.1,Cable,Domingo,10,0,1,1.9,10554,2,Soleado,26
+San Antonio,Floresta,1.9,Caminando,Domingo,15,0,1,4.3,1723,3,Tormenta,86
+Universidad,Hospital,4.0,Bus,Miercoles,13,1,0,1.9,4624,3,Nublado,76
+Hospital,Aguacatala,3.6,Bus,Miercoles,15,0,0,1.7,2945,1,Nublado,70
+Cisneros,Estadio,3.0,Metro,Sabado,17,1,1,1.6,3540,3,Soleado,44
+Universidad,Hospital,9.9,Bus,Viernes,21,0,0,4.0,8979,2,Lluvia,61
+La Estrella,Suramericana,13.5,Metro,Viernes,11,1,0,6.2,13838,0,Lluvia,97
+San Javier,Acevedo,8.6,Cable,Lunes,18,1,0,3.0,8505,2,Lluvia,48
+Floresta,Santa Lucia,10.3,Bus,Miercoles,11,1,0,6.0,9064,3,Lluvia,13
+San Antonio,Universidad,10.1,Bus,Miercoles,14,1,0,8.4,9948,1,Lluvia,26
+Ayura,Itagui,4.1,Bus,Sabado,18,1,1,2.8,4699,1,Nublado,20
+Santa Lucia,Alpujarra,9.3,Metro,Viernes,5,0,0,2.9,10648,3,Lluvia,56
+Estadio,Madera,6.5,Metro,Viernes,10,0,0,2.1,7358,3,Soleado,61
+La Estrella,Poblado,7.6,Bus,Lunes,15,0,0,3.7,8322,3,Nublado,28
+Envigado,Sabaneta,4.2,Taxi,Miercoles,2,0,0,0.8,4368,3,Nublado,29
+Acevedo,Alpujarra,13.7,Taxi,Viernes,12,1,0,3.7,13864,1,Lluvia,88
+San Antonio,La Estrella,5.5,Taxi,Sabado,6,1,1,1.9,6264,2,Nublado,19
+Aguacatala,Bello,1.8,Caminando,Martes,6,1,0,5.3,2117,3,Nublado,58
+San Javier,Exposiciones,5.9,Bus,Martes,23,0,0,2.2,5334,1,Nublado,36
+Parque Berrio,Envigado,9.4,Cable,Domingo,18,1,1,6.0,8112,0,Soleado,48
+Envigado,Ayura,11.5,Cable,Martes,23,0,0,2.2,10097,3,Lluvia,48
+Estadio,Poblado,10.3,Caminando,Lunes,20,0,0,20.7,11557,2,Soleado,71
+Industriales,Cisneros,9.4,Metro,Miercoles,21,0,0,3.1,8921,2,Soleado,11
+Parque Berrio,Exposiciones,6.9,Cable,Miercoles,22,0,0,1.5,6417,3,Nublado,98
+Hospital,Itagui,2.8,Cable,Jueves,1,0,0,1.5,2864,2,Soleado,80
+Universidad,Aguacatala,7.2,Caminando,Jueves,23,0,0,14.9,7747,1,Tormenta,45
+Hospital,Parque Berrio,8.1,Taxi,Jueves,19,1,0,2.7,9574,2,Soleado,29
+Hospital,Bello,4.9,Caminando,Lunes,20,0,0,11.0,4332,2,Nublado,48
+Estadio,Hospital,9.3,Taxi,Viernes,16,0,0,1.6,7924,2,Tormenta,14
+Cisneros,Hospital,8.3,Caminando,Miercoles,2,0,0,13.6,7951,3,Lluvia,58
+Industriales,Niquia,7.7,Taxi,Martes,1,0,0,1.4,7854,0,Soleado,64
+Madera,Universidad,14.8,Bus,Sabado,10,0,1,5.0,16990,3,Lluvia,54
+Envigado,Cisneros,9.9,Cable,Martes,16,0,0,2.1,9445,0,Lluvia,76
+Sabaneta,Hospital,12.8,Bus,Lunes,11,1,0,8.1,10893,1,Lluvia,50
+Floresta,Niquia,12.0,Metro,Jueves,18,1,0,23.5,9780,0,Nublado,47
+Suramericana,Alpujarra,13.8,Cable,Martes,17,1,0,4.2,11675,2,Soleado,34
+Exposiciones,San Javier,2.7,Taxi,Domingo,11,1,1,0.7,2465,3,Tormenta,20
+Ayura,Industriales,8.5,Cable,Domingo,15,0,1,1.7,7438,1,Nublado,81
+Santa Lucia,Cisneros,9.4,Taxi,Jueves,15,0,0,1.5,8573,1,Nublado,19
+Estadio,Universidad,14.5,Taxi,Jueves,11,1,0,3.9,13558,0,Soleado,37
+Aguacatala,Santa Lucia,8.3,Metro,Sabado,15,0,1,2.6,8541,2,Soleado,59
+Exposiciones,Acevedo,12.0,Metro,Sabado,5,0,1,4.4,13584,1,Soleado,59
+Itagui,Alpujarra,10.4,Metro,Viernes,10,0,0,3.0,10608,0,Soleado,79
+Madera,Tricentenario,13.2,Bus,Martes,22,0,0,5.6,12052,1,Soleado,33
+San Antonio,Exposiciones,1.8,Caminando,Jueves,15,0,0,4.0,1701,2,Tormenta,81
+San Javier,Floresta,12.8,Caminando,Jueves,19,1,0,48.7,13978,3,Soleado,46
+Alpujarra,Niquia,3.0,Taxi,Martes,2,0,0,0.5,3048,0,Soleado,61
+Suramericana,Prado,4.5,Metro,Viernes,17,1,0,2.8,4846,0,Tormenta,23
+Prado,Bello,8.9,Caminando,Jueves,8,1,0,25.5,8953,0,Lluvia,74
+Bello,Poblado,5.8,Bus,Domingo,14,1,1,3.5,6531,2,Soleado,72
+Prado,Tricentenario,3.0,Caminando,Miercoles,2,0,0,18.4,3096,3,Tormenta,32
+San Antonio,Universidad,11.5,Caminando,Miercoles,14,1,0,41.7,10338,0,Soleado,60
+Parque Berrio,Ayura,2.7,Bus,Viernes,20,0,0,1.4,2678,2,Soleado,27
+Suramericana,San Javier,14.4,Cable,Sabado,19,1,1,4.4,17179,3,Tormenta,11
+Estadio,Universidad,4.8,Taxi,Domingo,16,0,1,1.2,5299,3,Tormenta,93
+Bello,Tricentenario,12.7,Cable,Miercoles,12,1,0,4.6,11176,0,Lluvia,73
+Tricentenario,Hospital,4.8,Metro,Lunes,10,0,0,1.9,4675,3,Soleado,10
+Ayura,San Antonio,13.3,Caminando,Viernes,9,0,0,26.1,11012,2,Nublado,11
+La Estrella,Alpujarra,3.6,Bus,Jueves,6,1,0,1.6,2909,2,Nublado,46
+San Javier,Tricentenario,1.1,Bus,Martes,4,0,0,0.3,1206,2,Lluvia,38
+Floresta,Acevedo,4.9,Taxi,Miercoles,20,0,0,0.8,5135,1,Lluvia,98
+Suramericana,Universidad,10.6,Cable,Jueves,18,1,0,3.4,9095,3,Nublado,39
+Madera,Hospital,8.0,Cable,Sabado,18,1,1,2.9,8720,3,Nublado,49
+Caribe,Poblado,12.4,Taxi,Martes,16,0,0,2.7,12921,3,Lluvia,54
+Tricentenario,Poblado,3.7,Bus,Viernes,9,0,0,1.7,4144,1,Lluvia,49
+Parque Berrio,Estadio,3.8,Bus,Viernes,20,0,0,1.2,4062,1,Soleado,52
+Bello,Prado,8.8,Taxi,Domingo,11,1,1,2.8,7066,2,Tormenta,60
+Aguacatala,Industriales,8.5,Cable,Domingo,22,0,1,1.7,8100,2,Tormenta,20
+Floresta,San Javier,5.4,Bus,Miercoles,20,0,0,1.6,4914,3,Lluvia,87
+Universidad,Acevedo,2.8,Taxi,Martes,4,0,0,0.6,2663,0,Lluvia,43
+Hospital,Niquia,4.9,Metro,Miercoles,12,1,0,2.0,5414,3,Lluvia,55
+Santa Lucia,Poblado,2.0,Taxi,Lunes,6,1,0,0.8,1724,2,Nublado,39
+Cisneros,Hospital,9.7,Taxi,Sabado,14,1,1,3.5,11485,0,Nublado,91
+Parque Berrio,Hospital,6.1,Taxi,Miercoles,19,1,0,2.2,7119,3,Soleado,77
+Ayura,Envigado,1.8,Metro,Lunes,16,0,0,0.7,1559,0,Lluvia,83
+Itagui,Tricentenario,7.4,Cable,Viernes,8,1,0,2.3,7008,0,Nublado,37
+Acevedo,Universidad,4.7,Bus,Domingo,7,1,1,6.3,5410,0,Lluvia,77
+Universidad,Cisneros,7.4,Cable,Domingo,14,1,1,4.9,7444,3,Tormenta,55
+Exposiciones,Niquia,14.5,Metro,Jueves,14,1,0,7.1,12746,0,Nublado,97
+La Estrella,Envigado,13.0,Bus,Lunes,18,1,0,9.0,13598,2,Tormenta,27
+Industriales,Prado,12.9,Bus,Lunes,6,1,0,10.7,14190,3,Nublado,94
+Estadio,Bello,1.5,Cable,Viernes,21,0,0,0.3,1377,0,Nublado,35
+Prado,San Javier,9.1,Taxi,Miercoles,10,0,0,2.3,9701,2,Tormenta,54
+Acevedo,Caribe,13.2,Taxi,Jueves,3,0,0,3.0,15167,0,Tormenta,100
+Niquia,San Antonio,12.0,Caminando,Martes,23,0,0,21.6,10176,0,Tormenta,53
+Itagui,Alpujarra,9.0,Taxi,Viernes,20,0,0,1.6,8334,3,Nublado,23
+Universidad,Suramericana,5.7,Cable,Jueves,22,0,0,1.1,5905,3,Tormenta,70
+Aguacatala,Alpujarra,2.0,Caminando,Viernes,11,1,0,6.6,2208,0,Lluvia,38
+Estadio,Envigado,3.5,Metro,Miercoles,20,0,0,1.3,3143,1,Soleado,96
+Suramericana,Aguacatala,1.5,Cable,Viernes,11,1,0,0.4,1436,0,Lluvia,46
+Caribe,Estadio,9.7,Bus,Jueves,8,1,0,6.4,7818,0,Soleado,77
+Exposiciones,Acevedo,5.4,Cable,Viernes,14,1,0,1.9,4563,2,Tormenta,38
+Ayura,Santa Lucia,7.5,Metro,Martes,14,1,0,3.4,8242,3,Soleado,15
+Suramericana,Caribe,5.3,Bus,Sabado,5,0,1,2.3,5618,3,Tormenta,30
+Prado,Exposiciones,6.1,Caminando,Viernes,3,0,0,13.1,5368,3,Tormenta,10
+Acevedo,Tricentenario,12.7,Taxi,Sabado,21,0,1,2.5,14224,1,Tormenta,10
+Cisneros,Itagui,8.1,Cable,Jueves,10,0,0,1.7,9323,3,Soleado,14
+Estadio,Ayura,3.8,Taxi,Jueves,19,1,0,1.0,4188,2,Nublado,99
+Universidad,Poblado,3.4,Taxi,Martes,15,0,0,0.6,3577,3,Lluvia,86
+Exposiciones,Cisneros,10.2,Taxi,Sabado,16,0,1,1.9,11200,2,Tormenta,20
+Alpujarra,Exposiciones,13.1,Bus,Miercoles,14,1,0,9.5,10637,2,Nublado,66
+Aguacatala,Caribe,10.5,Caminando,Viernes,0,0,0,23.1,10090,1,Lluvia,52
+Niquia,Prado,11.8,Cable,Sabado,8,1,1,3.1,10738,1,Lluvia,61
+Itagui,Universidad,6.7,Bus,Viernes,3,0,0,2.5,7156,0,Lluvia,13
+Aguacatala,Hospital,2.2,Cable,Viernes,1,0,0,0.4,2004,1,Lluvia,13
+San Antonio,Acevedo,8.2,Metro,Viernes,13,1,0,4.8,7421,1,Lluvia,60
+Poblado,Prado,13.1,Cable,Sabado,22,0,1,2.7,11384,3,Nublado,83
+Sabaneta,Aguacatala,12.0,Taxi,Jueves,10,0,0,2.7,11340,0,Soleado,21
+Niquia,Universidad,12.3,Cable,Martes,1,0,0,2.3,11894,0,Tormenta,48
+Ayura,Prado,3.8,Caminando,Lunes,15,0,0,6.7,3082,3,Soleado,43
+Prado,Universidad,4.8,Taxi,Domingo,20,0,1,1.2,4354,2,Soleado,54
+San Javier,Suramericana,11.6,Bus,Martes,1,0,0,3.3,12412,3,Lluvia,65
+Estadio,Aguacatala,14.2,Metro,Jueves,2,0,0,4.9,16586,3,Soleado,37
+Itagui,Acevedo,4.5,Bus,Lunes,15,0,0,1.9,4284,0,Nublado,41
+Aguacatala,Industriales,13.8,Caminando,Domingo,0,0,1,27.7,14490,0,Soleado,90
+Suramericana,Estadio,13.4,Cable,Martes,11,1,0,4.1,13829,1,Lluvia,66
+Ayura,Estadio,4.2,Taxi,Sabado,6,1,1,1.4,4288,2,Lluvia,98
+San Javier,Niquia,7.7,Taxi,Jueves,19,1,0,2.5,7939,1,Tormenta,42
+Hospital,Estadio,11.4,Metro,Viernes,15,0,0,3.8,10636,2,Soleado,80
+Envigado,Santa Lucia,1.3,Caminando,Miercoles,23,0,0,3.1,1062,3,Lluvia,65
+Niquia,Floresta,2.7,Taxi,Viernes,13,1,0,0.7,2211,1,Tormenta,58
+Universidad,Prado,6.0,Metro,Martes,5,0,0,2.4,4806,1,Soleado,66
+Sabaneta,San Javier,12.3,Caminando,Domingo,11,1,1,47.6,11144,1,Soleado,25
+Tricentenario,San Javier,8.8,Caminando,Miercoles,6,1,0,26.8,7938,0,Nublado,99
+Bello,Suramericana,5.2,Cable,Lunes,4,0,0,1.1,4243,1,Soleado,54
+Parque Berrio,Envigado,13.8,Taxi,Lunes,14,1,0,4.3,14186,1,Nublado,44
+Cisneros,Santa Lucia,4.3,Taxi,Domingo,21,0,1,1.0,3625,1,Tormenta,28
+San Javier,Universidad,12.9,Caminando,Miercoles,13,1,0,46.3,12578,1,Lluvia,56
+La Estrella,Poblado,5.7,Cable,Domingo,16,0,1,1.1,4714,0,Tormenta,89
+San Antonio,Parque Berrio,2.4,Taxi,Domingo,14,1,1,0.7,2280,2,Soleado,51
+Floresta,Niquia,5.0,Caminando,Lunes,4,0,0,10.8,4850,0,Tormenta,62
+Sabaneta,Alpujarra,6.2,Taxi,Lunes,19,1,0,1.8,6566,1,Nublado,67
+Poblado,Suramericana,9.8,Taxi,Martes,14,1,0,3.4,8742,2,Lluvia,100
+Acevedo,Caribe,12.9,Bus,Domingo,14,1,1,10.1,14254,3,Soleado,12
+Aguacatala,Bello,8.7,Taxi,Jueves,11,1,0,2.6,8134,0,Tormenta,64
+Tricentenario,Hospital,2.6,Caminando,Martes,13,1,0,7.7,2119,1,Tormenta,65
+Poblado,Prado,2.7,Caminando,Sabado,12,1,1,7.9,2362,3,Tormenta,56
+Universidad,Cisneros,10.7,Metro,Domingo,11,1,1,4.2,12048,0,Soleado,53
+Parque Berrio,Exposiciones,5.9,Taxi,Domingo,7,1,1,1.8,6030,1,Soleado,64
+Envigado,Santa Lucia,10.8,Bus,Martes,11,1,0,7.9,11729,2,Soleado,48
+Suramericana,Floresta,11.6,Caminando,Domingo,0,0,1,19.0,12087,0,Lluvia,52
+San Javier,Aguacatala,9.8,Caminando,Sabado,5,0,1,20.2,8957,3,Tormenta,15
+Estadio,Sabaneta,1.5,Bus,Miercoles,21,0,0,0.6,1598,2,Soleado,21
+Bello,Exposiciones,2.3,Taxi,Viernes,6,1,0,0.6,2316,2,Soleado,14
+Sabaneta,Floresta,10.9,Bus,Jueves,21,0,0,5.5,11500,0,Nublado,10
+San Javier,Santa Lucia,8.3,Bus,Lunes,17,1,0,7.6,8898,1,Lluvia,46
+Poblado,Envigado,6.7,Metro,Jueves,14,1,0,3.5,5822,0,Nublado,48
+Ayura,Floresta,11.4,Metro,Domingo,9,0,1,3.7,10739,1,Tormenta,49
+Prado,Niquia,11.7,Taxi,Martes,20,0,0,2.7,12940,3,Tormenta,40
+Poblado,La Estrella,7.2,Taxi,Martes,2,0,0,1.7,7848,1,Lluvia,59
+Ayura,Poblado,12.4,Metro,Viernes,8,1,0,6.2,12040,1,Soleado,51
+San Antonio,Cisneros,3.7,Cable,Sabado,9,0,1,0.7,4144,3,Soleado,81
+Itagui,Cisneros,6.5,Cable,Domingo,18,1,1,2.3,5603,1,Nublado,83
+Suramericana,Cisneros,4.7,Bus,Lunes,21,0,0,1.9,3882,1,Tormenta,36
+Hospital,Ayura,10.5,Caminando,Lunes,1,0,0,17.3,11036,2,Lluvia,73
+Ayura,Hospital,9.2,Metro,Viernes,10,0,0,3.3,8887,3,Tormenta,93
+Cisneros,San Javier,8.9,Taxi,Domingo,16,0,1,1.3,8651,0,Nublado,60
+La Estrella,Estadio,9.9,Cable,Domingo,13,1,1,3.1,9049,1,Tormenta,14
+Alpujarra,Poblado,3.7,Metro,Domingo,13,1,1,1.6,3511,1,Soleado,97
+Ayura,Industriales,13.1,Cable,Viernes,14,1,0,3.5,14331,0,Lluvia,95
+San Javier,Niquia,4.3,Taxi,Martes,11,1,0,1.3,4635,0,Lluvia,34
+Caribe,Universidad,6.8,Caminando,Domingo,15,0,1,16.3,7140,0,Lluvia,26
+Universidad,Hospital,1.6,Caminando,Miercoles,0,0,0,3.8,1784,0,Tormenta,15
+Bello,Exposiciones,8.4,Bus,Jueves,19,1,0,5.3,7988,3,Lluvia,89
+Sabaneta,Niquia,10.8,Taxi,Domingo,15,0,1,2.0,9158,0,Lluvia,37
+San Antonio,Envigado,9.8,Bus,Jueves,9,0,0,3.9,11446,2,Soleado,38
+Bello,Poblado,13.6,Metro,Lunes,19,1,0,7.3,14049,2,Lluvia,35
+Cisneros,Poblado,14.5,Metro,Domingo,14,1,1,6.0,12528,3,Lluvia,41
+Suramericana,Madera,5.9,Bus,Jueves,13,1,0,4.0,4980,3,Lluvia,53
+Ayura,Niquia,5.6,Cable,Domingo,8,1,1,1.6,4631,1,Tormenta,90
+Aguacatala,Estadio,2.6,Metro,Sabado,14,1,1,1.2,2990,3,Tormenta,15
+Industriales,Sabaneta,11.8,Metro,Viernes,14,1,0,6.3,11753,3,Nublado,33
+Hospital,Exposiciones,1.2,Bus,Miercoles,7,1,0,0.8,1318,2,Soleado,63
+San Antonio,Ayura,3.6,Metro,Viernes,18,1,0,2.3,3150,2,Nublado,60
+San Javier,Prado,11.3,Cable,Domingo,10,0,1,2.3,9232,2,Soleado,93
+Madera,Alpujarra,11.9,Taxi,Lunes,16,0,0,1.9,10674,2,Tormenta,56
+Floresta,Hospital,1.1,Bus,Sabado,6,1,1,0.7,989,3,Soleado,10
+Itagui,Envigado,4.3,Taxi,Lunes,12,1,0,1.4,3651,3,Soleado,44
+Poblado,Bello,8.7,Metro,Sabado,10,0,1,3.1,7900,3,Soleado,67
+La Estrella,Envigado,7.4,Taxi,Lunes,16,0,0,1.6,7259,0,Tormenta,40
+Santa Lucia,Suramericana,14.7,Caminando,Sabado,0,0,1,31.6,16185,0,Tormenta,87
+Estadio,Envigado,7.8,Bus,Miercoles,22,0,0,2.6,7387,3,Soleado,76
+Sabaneta,Floresta,5.9,Taxi,Martes,1,0,0,1.3,5788,1,Lluvia,83
+Universidad,Exposiciones,12.9,Cable,Sabado,21,0,1,2.8,10359,2,Tormenta,33
+Niquia,Ayura,3.1,Caminando,Viernes,10,0,0,7.3,2654,1,Tormenta,13
+Estadio,Tricentenario,8.2,Cable,Lunes,3,0,0,1.8,6667,1,Tormenta,10
+Itagui,San Javier,12.4,Metro,Miercoles,8,1,0,5.2,11160,1,Tormenta,98
+Exposiciones,Santa Lucia,14.0,Bus,Domingo,0,0,1,6.6,14952,3,Tormenta,72
+Aguacatala,Cisneros,2.9,Metro,Jueves,8,1,0,1.3,2474,2,Tormenta,92
+La Estrella,Suramericana,1.4,Caminando,Viernes,9,0,0,2.8,1347,2,Tormenta,99
+Suramericana,Itagui,1.5,Metro,Viernes,5,0,0,0.6,1292,1,Lluvia,61
+Hospital,Estadio,11.2,Caminando,Sabado,14,1,1,40.0,9229,3,Lluvia,23
+Industriales,Aguacatala,3.6,Taxi,Viernes,13,1,0,1.2,3780,3,Lluvia,75
+Poblado,Parque Berrio,6.2,Cable,Martes,19,1,0,2.4,6014,2,Nublado,78
+Hospital,Exposiciones,11.5,Cable,Jueves,18,1,0,3.0,9672,1,Soleado,99
+Exposiciones,Prado,3.1,Cable,Lunes,18,1,0,0.9,3146,1,Nublado,57
+Hospital,Santa Lucia,4.4,Metro,Sabado,20,0,1,1.5,3608,2,Tormenta,77
+Tricentenario,Envigado,5.6,Cable,Viernes,7,1,0,1.6,4866,2,Tormenta,42
+Aguacatala,Envigado,6.6,Metro,Viernes,5,0,0,2.5,6257,2,Soleado,67
+Hospital,Sabaneta,2.2,Bus,Viernes,4,0,0,1.0,2136,0,Nublado,82
+La Estrella,Prado,5.4,Cable,Viernes,20,0,0,1.2,5686,3,Soleado,68
+Parque Berrio,Universidad,4.0,Metro,Jueves,21,0,0,1.4,3704,0,Soleado,98
+San Antonio,Ayura,13.6,Taxi,Viernes,18,1,0,3.5,11111,1,Tormenta,85
+Santa Lucia,Alpujarra,3.6,Cable,Miercoles,11,1,0,1.0,3629,3,Tormenta,10
+Suramericana,Ayura,6.6,Caminando,Miercoles,10,0,0,14.6,7234,2,Lluvia,23
+Bello,Cisneros,13.0,Metro,Jueves,9,0,0,4.8,12129,1,Lluvia,45
+Cisneros,Itagui,12.9,Bus,Viernes,0,0,0,6.1,14538,3,Soleado,37
+Tricentenario,Suramericana,14.6,Caminando,Martes,11,1,0,42.4,16410,0,Soleado,21
+San Antonio,Floresta,7.4,Cable,Lunes,6,1,0,2.3,7474,2,Nublado,59
+Caribe,San Antonio,14.8,Taxi,Domingo,9,0,1,2.2,12772,1,Lluvia,100
+Prado,Cisneros,3.0,Cable,Sabado,22,0,1,0.6,3150,0,Tormenta,41
+San Javier,Parque Berrio,13.8,Bus,Jueves,12,1,0,11.7,12862,3,Soleado,94
+Bello,Poblado,1.7,Metro,Jueves,18,1,0,1.0,1525,2,Nublado,19
+Prado,San Javier,3.3,Metro,Martes,0,0,0,1.2,3313,0,Tormenta,75
+Bello,La Estrella,8.4,Taxi,Martes,8,1,0,3.0,7652,1,Tormenta,60
+Alpujarra,Estadio,14.7,Metro,Jueves,16,0,0,5.1,14230,3,Lluvia,80
+Acevedo,Aguacatala,11.2,Caminando,Jueves,21,0,0,22.8,12992,2,Nublado,48
+Itagui,Caribe,10.0,Bus,Jueves,18,1,0,4.4,11110,2,Soleado,47
+Acevedo,San Antonio,10.7,Metro,Jueves,6,1,0,5.4,9213,2,Nublado,62
+San Antonio,Tricentenario,2.5,Metro,Lunes,5,0,0,0.8,2065,2,Lluvia,65
+Sabaneta,Ayura,6.1,Caminando,Miercoles,12,1,0,15.0,6326,1,Soleado,41
+San Javier,Exposiciones,13.8,Cable,Martes,10,0,0,2.7,15553,0,Lluvia,34
+Suramericana,Tricentenario,13.5,Metro,Martes,20,0,0,3.8,12974,1,Nublado,23
+Alpujarra,Industriales,3.6,Caminando,Sabado,7,1,1,23.5,4216,2,Tormenta,32
+Exposiciones,Ayura,1.1,Metro,Miercoles,7,1,0,0.4,1306,2,Nublado,40
+Envigado,Industriales,6.4,Cable,Martes,14,1,0,1.7,5766,3,Tormenta,100
+Exposiciones,Ayura,7.8,Taxi,Lunes,17,1,0,1.7,6950,2,Soleado,12
+Hospital,Universidad,10.6,Metro,Miercoles,2,0,0,4.0,12349,3,Nublado,46
+Suramericana,Poblado,7.1,Bus,Jueves,8,1,0,3.3,8101,1,Nublado,72
+Industriales,Suramericana,10.8,Bus,Sabado,17,1,1,5.9,9569,1,Tormenta,92
+Universidad,Santa Lucia,8.2,Bus,Domingo,17,1,1,5.8,7708,1,Nublado,55
+Poblado,Suramericana,9.1,Bus,Lunes,16,0,0,2.7,9264,1,Soleado,93
+Universidad,Alpujarra,11.1,Bus,Lunes,22,0,0,4.0,12598,0,Tormenta,71
+Alpujarra,Niquia,10.2,Caminando,Viernes,9,0,0,21.3,10241,1,Lluvia,68
+Exposiciones,Envigado,11.8,Cable,Sabado,13,1,1,4.0,12933,2,Soleado,88
+Estadio,Prado,4.9,Caminando,Sabado,23,0,1,8.5,5380,2,Lluvia,22
+Universidad,Hospital,5.9,Metro,Martes,19,1,0,2.5,5788,0,Soleado,13
+Sabaneta,Industriales,10.4,Cable,Domingo,10,0,1,2.3,10598,1,Tormenta,55
+Floresta,Sabaneta,4.5,Metro,Sabado,23,0,1,1.5,3924,1,Nublado,43
+Tricentenario,Poblado,14.9,Cable,Lunes,14,1,0,5.0,13559,0,Nublado,76
+Madera,Aguacatala,5.9,Metro,Sabado,19,1,1,3.7,6980,2,Nublado,25
+Madera,Universidad,4.4,Cable,Jueves,18,1,0,1.6,3714,2,Nublado,40
+Acevedo,Niquia,14.6,Caminando,Lunes,12,1,0,36.4,17520,2,Soleado,13
+Hospital,Itagui,10.9,Metro,Jueves,0,0,0,3.3,12709,0,Soleado,15
+Tricentenario,Madera,10.9,Caminando,Jueves,9,0,0,17.6,8971,1,Lluvia,64
+Madera,Poblado,10.0,Caminando,Viernes,17,1,0,29.3,10900,3,Soleado,36
+San Javier,Tricentenario,10.3,Metro,Sabado,6,1,1,5.1,8920,0,Soleado,62
+Alpujarra,Madera,1.0,Metro,Sabado,9,0,1,0.3,902,0,Nublado,53
+Alpujarra,San Antonio,1.7,Cable,Lunes,9,0,0,0.3,1488,1,Nublado,86
+Alpujarra,Poblado,7.8,Cable,Sabado,21,0,1,1.7,8323,3,Tormenta,72
+Industriales,Ayura,8.0,Cable,Miercoles,2,0,0,1.6,7272,0,Nublado,88
+Poblado,San Javier,4.1,Bus,Miercoles,8,1,0,1.9,3993,3,Soleado,92
+Floresta,Cisneros,8.5,Cable,Viernes,8,1,0,2.4,9316,3,Lluvia,96
+Bello,Prado,8.1,Metro,Sabado,15,0,1,2.8,6917,2,Nublado,94
+Exposiciones,Estadio,12.6,Bus,Viernes,11,1,0,9.0,12965,0,Lluvia,42
+Niquia,Poblado,13.5,Bus,Lunes,10,0,0,3.8,15903,3,Soleado,55
+Universidad,Aguacatala,1.8,Caminando,Miercoles,8,1,0,6.2,2102,2,Nublado,96
+San Antonio,Prado,7.4,Taxi,Domingo,14,1,1,2.5,8140,1,Nublado,23
+Estadio,Bello,14.0,Metro,Viernes,4,0,0,3.8,13412,3,Soleado,25
+Suramericana,Caribe,6.1,Taxi,Sabado,3,0,1,1.2,5752,0,Soleado,98
+Parque Berrio,Itagui,8.3,Cable,Martes,15,0,0,1.6,8474,1,Lluvia,48
+Cisneros,Aguacatala,7.6,Metro,Martes,8,1,0,2.8,7881,3,Soleado,39
+Hospital,Caribe,10.2,Taxi,Martes,1,0,0,1.8,10577,1,Nublado,49
+Cisneros,Exposiciones,10.2,Cable,Lunes,18,1,0,3.3,12097,1,Soleado,43
+Suramericana,Hospital,9.7,Caminando,Viernes,14,1,0,34.6,8468,2,Tormenta,83
+Caribe,San Antonio,2.5,Cable,Domingo,9,0,1,0.5,2118,3,Lluvia,41
+Tricentenario,Prado,12.4,Metro,Viernes,11,1,0,5.9,12251,0,Tormenta,17
+Niquia,Prado,3.8,Taxi,Domingo,14,1,1,1.3,4366,3,Lluvia,13
+Cisneros,Suramericana,5.4,Taxi,Viernes,12,1,0,2.1,4520,2,Lluvia,23
+La Estrella,Madera,1.4,Metro,Viernes,0,0,0,0.4,1648,3,Nublado,16
+Suramericana,Bello,14.7,Taxi,Viernes,5,0,0,2.7,14950,3,Nublado,56
+Cisneros,Universidad,5.4,Caminando,Viernes,21,0,0,10.5,5449,0,Lluvia,95
+Estadio,Sabaneta,11.3,Caminando,Domingo,9,0,1,21.8,12125,2,Lluvia,50
+Universidad,Aguacatala,8.4,Taxi,Jueves,4,0,0,1.9,6972,0,Lluvia,88
+Itagui,Santa Lucia,2.9,Taxi,Viernes,5,0,0,0.5,2659,2,Soleado,98
+Universidad,Santa Lucia,5.7,Taxi,Jueves,5,0,0,1.4,4691,3,Soleado,84
+San Javier,La Estrella,12.0,Cable,Sabado,11,1,1,4.5,11316,3,Tormenta,72
+Aguacatala,Prado,4.7,Taxi,Miercoles,18,1,0,1.3,3887,0,Tormenta,11
+Exposiciones,Sabaneta,5.2,Caminando,Viernes,4,0,0,10.1,5944,3,Lluvia,56
+Suramericana,Universidad,12.0,Cable,Lunes,18,1,0,4.0,11376,3,Soleado,84
+Acevedo,Caribe,7.5,Metro,Domingo,8,1,1,4.1,8805,1,Tormenta,15
+Madera,Suramericana,3.0,Cable,Viernes,18,1,0,0.9,3264,1,Tormenta,27
+Alpujarra,Santa Lucia,3.8,Metro,Domingo,15,0,1,1.4,3462,1,Lluvia,17
+La Estrella,Hospital,14.3,Caminando,Lunes,7,1,0,51.4,12570,1,Tormenta,21
+Suramericana,Aguacatala,11.2,Caminando,Viernes,18,1,0,35.6,13250,2,Lluvia,68
+Floresta,Ayura,11.2,Metro,Domingo,14,1,1,6.5,12734,1,Tormenta,23
+Ayura,Hospital,13.6,Bus,Domingo,21,0,1,4.3,12322,3,Nublado,70
+Exposiciones,Acevedo,11.7,Cable,Martes,8,1,0,3.0,11688,2,Lluvia,22
+Madera,Universidad,14.4,Caminando,Domingo,7,1,1,50.4,16733,1,Nublado,14
+Aguacatala,Suramericana,9.2,Taxi,Domingo,20,0,1,1.5,9835,1,Tormenta,63
+Aguacatala,Ayura,5.5,Taxi,Viernes,6,1,0,1.7,6198,3,Nublado,27
+Santa Lucia,Poblado,11.8,Caminando,Lunes,19,1,0,32.6,10160,0,Soleado,27
+Exposiciones,Niquia,4.6,Cable,Jueves,5,0,0,1.0,5318,3,Tormenta,53
+Universidad,Ayura,4.5,Metro,Viernes,11,1,0,7.5,4046,0,Tormenta,38
+Niquia,Santa Lucia,9.7,Caminando,Sabado,1,0,1,22.0,8885,0,Nublado,88
+Aguacatala,Universidad,8.2,Taxi,Jueves,23,0,0,1.3,7224,3,Lluvia,87
+La Estrella,Floresta,8.6,Metro,Sabado,4,0,1,2.3,8953,1,Nublado,13
+Envigado,San Javier,8.3,Cable,Jueves,5,0,0,1.8,8109,1,Nublado,86
+La Estrella,Floresta,2.8,Taxi,Domingo,13,1,1,0.8,3357,3,Lluvia,24
+Poblado,Alpujarra,3.3,Cable,Viernes,0,0,0,0.6,3528,0,Tormenta,10
+Sabaneta,Parque Berrio,3.4,Metro,Miercoles,10,0,0,1.3,3104,0,Soleado,66
+Ayura,San Javier,8.2,Caminando,Martes,15,0,0,18.2,9422,2,Soleado,85
+San Antonio,Sabaneta,5.2,Metro,Jueves,10,0,0,2.0,4820,3,Tormenta,89
+Parque Berrio,Santa Lucia,8.0,Cable,Viernes,14,1,0,2.4,7576,1,Soleado,49
+Suramericana,Hospital,13.8,Caminando,Lunes,21,0,0,29.6,13869,1,Soleado,72
+Exposiciones,Prado,13.0,Bus,Domingo,19,1,1,8.7,15158,3,Tormenta,42
+Bello,Aguacatala,8.9,Caminando,Domingo,17,1,1,33.7,8758,2,Tormenta,44
+Sabaneta,Madera,7.4,Metro,Martes,12,1,0,3.2,7829,3,Nublado,93
+Itagui,Poblado,7.4,Caminando,Domingo,10,0,1,12.2,6971,1,Soleado,65
+Floresta,Prado,14.0,Taxi,Sabado,21,0,1,2.5,14336,0,Lluvia,66
+Niquia,San Antonio,6.4,Metro,Viernes,20,0,0,1.8,6579,2,Tormenta,84
+Caribe,Poblado,10.4,Caminando,Jueves,1,0,0,24.5,9422,2,Tormenta,25
+Tricentenario,Exposiciones,3.2,Cable,Viernes,5,0,0,1.9,3309,2,Soleado,57
+Hospital,Tricentenario,6.3,Taxi,Jueves,10,0,0,0.9,7371,0,Lluvia,72
+Suramericana,Envigado,10.8,Bus,Lunes,20,0,0,3.6,10120,0,Nublado,91
+Exposiciones,San Antonio,7.1,Bus,Jueves,18,1,0,5.1,7867,3,Tormenta,13
+Floresta,Aguacatala,8.0,Metro,Jueves,1,0,0,3.1,7536,1,Nublado,66
+Bello,Madera,14.9,Taxi,Jueves,2,0,0,3.6,14870,3,Soleado,94
+Floresta,La Estrella,7.1,Cable,Sabado,16,0,1,1.5,7412,3,Lluvia,10
+Floresta,San Antonio,7.0,Taxi,Viernes,16,0,0,1.4,7532,3,Lluvia,18
+Prado,Caribe,9.8,Cable,Miercoles,11,1,0,3.1,10349,3,Nublado,63
+Universidad,Floresta,2.2,Taxi,Jueves,18,1,0,0.5,2418,1,Soleado,50
+Itagui,Cisneros,4.0,Metro,Miercoles,14,1,0,8.0,4244,2,Lluvia,63
+Poblado,Cisneros,2.5,Cable,Jueves,11,1,0,0.9,2008,2,Lluvia,63
+Envigado,Sabaneta,6.6,Bus,Jueves,2,0,0,3.1,6765,3,Tormenta,95
+Poblado,Suramericana,6.4,Cable,Jueves,15,0,0,1.4,6406,0,Lluvia,26
+Niquia,Envigado,5.4,Taxi,Martes,4,0,0,1.3,4514,3,Lluvia,17
+Parque Berrio,Sabaneta,8.4,Caminando,Viernes,16,0,0,17.4,7333,3,Lluvia,48
+Floresta,Prado,2.1,Bus,Jueves,0,0,0,0.9,1722,3,Nublado,86
+Cisneros,Envigado,12.0,Cable,Domingo,7,1,1,3.1,10452,2,Tormenta,65
+Universidad,Sabaneta,4.6,Metro,Martes,5,0,0,1.3,5318,1,Nublado,40
+Cisneros,Niquia,10.4,Metro,Martes,3,0,0,3.3,11149,2,Lluvia,76
+Aguacatala,San Antonio,6.0,Taxi,Lunes,22,0,0,1.2,5028,2,Nublado,62
+Sabaneta,Poblado,5.4,Taxi,Viernes,14,1,0,2.3,4871,3,Soleado,94
+Hospital,Alpujarra,14.6,Taxi,Miercoles,13,1,0,4.6,15724,2,Tormenta,95
+Prado,Madera,5.6,Cable,Lunes,17,1,0,2.0,6199,0,Tormenta,26
+Prado,Poblado,6.9,Caminando,Viernes,20,0,0,16.3,6907,2,Nublado,65
+Ayura,Alpujarra,3.7,Metro,Sabado,18,1,1,2.0,3049,0,Soleado,26
+La Estrella,Aguacatala,13.0,Metro,Viernes,1,0,0,4.8,10452,1,Tormenta,30
+Acevedo,Caribe,9.0,Metro,Lunes,20,0,0,3.2,10566,3,Nublado,49
+Cisneros,Floresta,3.1,Taxi,Sabado,22,0,1,0.5,3125,1,Nublado,87
+Universidad,Santa Lucia,5.0,Taxi,Domingo,16,0,1,1.1,4825,1,Soleado,45
+Niquia,Prado,5.4,Metro,Miercoles,15,0,0,2.1,5103,0,Lluvia,30
+Bello,Caribe,11.5,Taxi,Domingo,9,0,1,2.1,11362,0,Nublado,41
+Caribe,Envigado,1.3,Metro,Lunes,20,0,0,1.3,1174,0,Soleado,89
+Niquia,Aguacatala,4.3,Cable,Miercoles,21,0,0,0.8,3724,3,Tormenta,90
+La Estrella,Hospital,4.6,Cable,Martes,11,1,0,1.4,4798,1,Lluvia,51
+Parque Berrio,Itagui,3.5,Metro,Miercoles,14,1,0,1.7,4022,1,Nublado,83
+Floresta,Tricentenario,10.9,Caminando,Sabado,5,0,1,24.7,10649,0,Soleado,36
+Prado,Hospital,3.2,Bus,Domingo,1,0,1,1.4,3562,2,Nublado,46
+Suramericana,Poblado,12.6,Cable,Lunes,6,1,0,4.1,12978,0,Soleado,28
+Poblado,Alpujarra,5.4,Caminando,Lunes,18,1,0,15.5,4817,0,Soleado,63
+San Javier,Caribe,13.0,Bus,Sabado,22,0,1,5.9,10985,0,Soleado,45
+Cisneros,Prado,6.5,Bus,Lunes,8,1,0,3.2,7787,3,Soleado,42
+Tricentenario,Universidad,9.8,Metro,Jueves,1,0,0,2.8,10055,3,Nublado,50
+Caribe,Aguacatala,13.9,Caminando,Sabado,20,0,1,25.8,11509,1,Nublado,79
+Estadio,Alpujarra,9.2,Bus,Martes,0,0,0,4.6,8354,1,Lluvia,75
+Floresta,Industriales,6.6,Cable,Domingo,10,0,1,1.3,5834,2,Tormenta,93
+Niquia,Prado,4.1,Taxi,Miercoles,13,1,0,1.6,4875,3,Lluvia,18
+San Antonio,Parque Berrio,7.5,Cable,Domingo,10,0,1,1.5,8902,0,Lluvia,23
+Suramericana,Floresta,6.0,Cable,Martes,18,1,0,1.9,5802,3,Soleado,15
+Suramericana,La Estrella,11.4,Bus,Domingo,7,1,1,5.7,10705,2,Nublado,21
+Niquia,Sabaneta,2.3,Bus,Sabado,4,0,1,0.8,2530,2,Nublado,68
+La Estrella,Tricentenario,1.6,Bus,Sabado,12,1,1,0.7,1454,0,Nublado,89
+Aguacatala,Bello,3.2,Caminando,Domingo,7,1,1,28.8,3152,1,Lluvia,95
+Universidad,La Estrella,1.5,Bus,Jueves,19,1,0,1.1,1434,3,Nublado,81
+Prado,Niquia,3.8,Cable,Domingo,21,0,1,0.7,4085,1,Lluvia,73
+Exposiciones,Aguacatala,8.1,Caminando,Lunes,1,0,0,15.0,8100,3,Lluvia,98
+Envigado,Hospital,3.9,Cable,Miercoles,0,0,0,0.8,4481,2,Soleado,77
+San Antonio,Alpujarra,3.3,Caminando,Jueves,10,0,0,6.5,3280,1,Nublado,28
+San Antonio,Aguacatala,11.0,Bus,Domingo,7,1,1,9.5,12210,1,Tormenta,17
+Floresta,San Javier,11.9,Taxi,Jueves,5,0,0,2.6,11043,3,Tormenta,60
+Acevedo,Bello,2.2,Taxi,Viernes,9,0,0,0.3,2336,3,Nublado,74
+Cisneros,Envigado,14.2,Cable,Miercoles,22,0,0,2.9,13178,2,Soleado,41
+San Javier,Cisneros,9.7,Caminando,Viernes,2,0,0,18.0,8895,2,Lluvia,16
+Envigado,Itagui,13.2,Bus,Martes,20,0,0,5.4,11378,3,Nublado,44
+Aguacatala,Industriales,7.9,Caminando,Martes,4,0,0,15.8,7315,0,Soleado,96
+Caribe,Universidad,2.3,Metro,Domingo,12,1,1,2.6,2521,0,Lluvia,29
+Universidad,Madera,10.5,Bus,Lunes,12,1,0,4.8,8820,1,Tormenta,15
+Caribe,Prado,7.8,Metro,Jueves,19,1,0,2.9,8650,0,Nublado,22
+San Javier,Suramericana,6.6,Cable,Sabado,20,0,1,1.3,5300,0,Soleado,93
+Itagui,San Javier,12.8,Metro,Martes,12,1,0,8.4,12160,2,Nublado,42
+Universidad,Cisneros,13.8,Caminando,Jueves,3,0,0,25.5,13179,3,Soleado,24
+Poblado,San Javier,1.2,Metro,Sabado,17,1,1,0.6,979,2,Soleado,15
+Sabaneta,Hospital,5.0,Caminando,Domingo,17,1,1,17.6,4520,1,Soleado,58
+San Javier,Santa Lucia,3.5,Metro,Lunes,11,1,0,2.0,4116,2,Nublado,67
+Exposiciones,Caribe,13.4,Taxi,Lunes,20,0,0,2.1,13708,3,Lluvia,47
+Caribe,Envigado,10.5,Bus,Jueves,12,1,0,5.4,11109,0,Soleado,65
+Poblado,Cisneros,14.3,Caminando,Miercoles,23,0,0,23.0,13871,1,Tormenta,42
+Estadio,Caribe,3.4,Cable,Viernes,7,1,0,1.0,3913,2,Nublado,92
+Niquia,San Antonio,9.5,Metro,Viernes,6,1,0,3.9,7733,3,Lluvia,50
+Niquia,Envigado,8.7,Taxi,Domingo,10,0,1,1.7,7230,1,Tormenta,74
+Prado,Poblado,11.3,Cable,Domingo,15,0,1,2.3,9176,3,Tormenta,44
+San Javier,Parque Berrio,5.5,Metro,Lunes,16,0,0,5.5,4856,3,Nublado,68
+La Estrella,Sabaneta,8.7,Cable,Lunes,23,0,0,1.8,10031,1,Nublado,11
+Alpujarra,Acevedo,4.6,Metro,Sabado,2,0,1,1.5,4582,0,Soleado,89
+Sabaneta,Bello,1.6,Taxi,Jueves,5,0,0,0.3,1664,2,Tormenta,19
+Floresta,Madera,4.8,Cable,Domingo,21,0,1,0.9,4920,3,Tormenta,34
+La Estrella,Santa Lucia,7.3,Metro,Martes,8,1,0,3.4,7869,0,Nublado,79
+San Javier,Ayura,2.4,Metro,Jueves,1,0,0,0.9,2330,3,Tormenta,98
+Exposiciones,Aguacatala,2.8,Cable,Sabado,2,0,1,0.6,2377,3,Soleado,82
+Tricentenario,Cisneros,5.6,Metro,Martes,13,1,0,3.4,6653,0,Nublado,29
+San Javier,Universidad,14.4,Caminando,Viernes,8,1,0,41.2,14904,1,Lluvia,34
+Floresta,Tricentenario,8.4,Metro,Jueves,11,1,0,4.5,8266,3,Nublado,68
+Caribe,La Estrella,10.8,Caminando,Martes,6,1,0,40.3,10044,0,Nublado,83
+Ayura,Exposiciones,11.7,Cable,Viernes,22,0,0,2.2,10167,3,Nublado,84
+Envigado,Hospital,2.8,Taxi,Lunes,21,0,0,0.5,3290,3,Tormenta,61
+Caribe,Cisneros,14.6,Bus,Domingo,7,1,1,12.2,11695,3,Nublado,17
+Acevedo,Poblado,11.9,Cable,Jueves,7,1,0,3.6,11793,3,Nublado,42
+Santa Lucia,San Antonio,3.4,Bus,Viernes,6,1,0,2.6,3097,1,Lluvia,68
+Bello,San Antonio,12.2,Taxi,Sabado,11,1,1,3.5,11663,1,Lluvia,47
+Tricentenario,Madera,4.7,Metro,Domingo,14,1,1,2.3,4907,2,Nublado,20
+La Estrella,Envigado,6.3,Caminando,Martes,5,0,0,12.6,5279,1,Soleado,25
+Industriales,Prado,13.6,Cable,Martes,19,1,0,4.1,14362,3,Nublado,42
+Poblado,Estadio,6.2,Bus,Domingo,6,1,1,4.6,4966,0,Tormenta,50
+Suramericana,Acevedo,12.2,Taxi,Martes,20,0,0,2.1,13310,1,Nublado,16
+San Antonio,Aguacatala,11.4,Caminando,Sabado,8,1,1,35.9,9929,2,Tormenta,48
+Hospital,Estadio,14.2,Cable,Miercoles,20,0,0,2.7,15975,0,Lluvia,90
+Industriales,Niquia,2.6,Cable,Lunes,23,0,0,0.5,2870,3,Nublado,67
+Parque Berrio,La Estrella,9.4,Metro,Lunes,2,0,0,3.4,9146,0,Tormenta,19
+Estadio,Prado,2.4,Cable,Miercoles,11,1,0,0.8,2153,0,Tormenta,15
+Niquia,Parque Berrio,8.8,Metro,Domingo,15,0,1,3.3,9337,1,Nublado,24
+Caribe,Bello,11.5,Caminando,Domingo,2,0,1,24.1,11385,0,Tormenta,89
+Exposiciones,Suramericana,8.1,Cable,Jueves,19,1,0,2.0,6755,2,Soleado,45
+Cisneros,Prado,10.0,Bus,Lunes,12,1,0,5.1,10730,3,Soleado,55
+Itagui,Alpujarra,11.4,Bus,Martes,22,0,0,5.1,11776,2,Tormenta,99
+Industriales,Universidad,9.3,Cable,Viernes,19,1,0,2.5,9672,1,Tormenta,66
+Industriales,Niquia,1.6,Cable,Lunes,23,0,0,0.3,1877,0,Lluvia,10
+Estadio,Prado,5.8,Bus,Domingo,1,0,1,2.7,5034,2,Tormenta,89
+La Estrella,Exposiciones,4.0,Cable,Miercoles,19,1,0,1.2,3232,3,Lluvia,20
+Suramericana,Caribe,2.8,Metro,Jueves,2,0,0,0.8,2685,2,Soleado,77
+Niquia,Cisneros,1.9,Bus,Viernes,11,1,0,1.2,1832,3,Lluvia,40
+San Antonio,Caribe,11.8,Taxi,Martes,7,1,0,4.7,12130,3,Lluvia,51
+Poblado,Hospital,11.2,Cable,Sabado,17,1,1,3.4,10853,2,Tormenta,68
+Suramericana,Itagui,12.3,Metro,Miercoles,21,0,0,4.5,12854,1,Lluvia,82
+San Javier,Suramericana,12.0,Cable,Martes,5,0,0,2.4,13188,0,Nublado,17
+Cisneros,Hospital,7.1,Caminando,Lunes,8,1,0,16.7,7753,0,Nublado,46
+Tricentenario,Poblado,4.1,Caminando,Viernes,15,0,0,8.8,4764,1,Tormenta,58
+Santa Lucia,Hospital,6.8,Taxi,Lunes,19,1,0,2.0,5515,2,Soleado,75
+Alpujarra,Tricentenario,4.7,Metro,Miercoles,7,1,0,2.0,5024,3,Nublado,67
+Tricentenario,Envigado,15.0,Bus,Domingo,12,1,1,10.3,15885,0,Lluvia,23
+Santa Lucia,Sabaneta,1.7,Metro,Jueves,2,0,0,0.5,2001,1,Soleado,74
+Cisneros,Alpujarra,4.5,Taxi,Domingo,2,0,1,1.0,3722,1,Soleado,90
+Sabaneta,Universidad,11.2,Metro,Jueves,15,0,0,4.0,12286,1,Tormenta,72
+Floresta,Estadio,7.4,Cable,Sabado,14,1,1,2.3,7348,2,Lluvia,54
+Parque Berrio,Alpujarra,13.6,Caminando,Jueves,6,1,0,43.8,15722,2,Nublado,55
+Estadio,Floresta,6.3,Metro,Martes,1,0,0,1.9,5702,1,Soleado,78
+Sabaneta,Estadio,3.6,Bus,Miercoles,22,0,0,1.8,3550,0,Lluvia,93
+Ayura,San Antonio,3.0,Taxi,Miercoles,14,1,0,0.8,3048,0,Tormenta,66
+Parque Berrio,Floresta,11.4,Metro,Viernes,20,0,0,3.5,11902,3,Nublado,23
+Industriales,Parque Berrio,10.3,Caminando,Martes,23,0,0,20.2,11289,3,Nublado,16
+Caribe,Sabaneta,12.6,Taxi,Martes,13,1,0,4.5,11088,1,Lluvia,74
+Sabaneta,Universidad,6.2,Cable,Lunes,3,0,0,1.2,7390,0,Lluvia,87
+Alpujarra,Madera,9.7,Cable,Domingo,23,0,1,1.8,10651,2,Lluvia,60
+San Javier,Parque Berrio,3.0,Taxi,Domingo,8,1,1,0.9,2967,1,Lluvia,29
+Floresta,Ayura,5.6,Cable,Jueves,17,1,0,1.5,6166,3,Tormenta,86
+San Javier,Alpujarra,6.3,Metro,Miercoles,21,0,0,2.5,7024,1,Tormenta,72
+Tricentenario,Suramericana,13.7,Taxi,Jueves,23,0,0,3.0,15796,2,Soleado,69
+Aguacatala,Floresta,4.8,Metro,Sabado,15,0,1,1.8,4450,0,Tormenta,22
+Hospital,Santa Lucia,9.2,Taxi,Martes,23,0,0,1.5,7765,3,Lluvia,54
+Aguacatala,San Antonio,10.1,Bus,Domingo,11,1,1,7.6,9120,1,Tormenta,72
+San Javier,Ayura,6.9,Taxi,Domingo,11,1,1,2.6,6741,2,Tormenta,24
+Santa Lucia,San Antonio,2.1,Taxi,Viernes,21,0,0,0.4,2306,2,Soleado,82
+Hospital,Poblado,9.9,Bus,Viernes,8,1,0,6.2,11444,3,Soleado,19
+Hospital,Universidad,3.6,Caminando,Sabado,13,1,1,9.7,3154,2,Tormenta,87
+Exposiciones,Madera,10.0,Caminando,Viernes,2,0,0,19.4,11780,2,Tormenta,84
+Aguacatala,Itagui,11.4,Taxi,Sabado,15,0,1,1.8,10420,0,Lluvia,30
+Aguacatala,San Javier,6.4,Metro,Miercoles,22,0,0,2.5,5709,2,Soleado,64
+Prado,Tricentenario,7.8,Bus,Viernes,3,0,0,2.9,9298,0,Soleado,72
+Exposiciones,Universidad,4.4,Metro,Viernes,2,0,0,1.8,4699,2,Lluvia,38
+Suramericana,Exposiciones,3.7,Metro,Lunes,4,0,0,1.2,3848,1,Lluvia,72
+Poblado,Alpujarra,3.3,Cable,Viernes,23,0,0,0.7,2749,0,Lluvia,11
+Cisneros,Santa Lucia,7.6,Metro,Martes,23,0,0,2.0,7273,1,Tormenta,48
+Santa Lucia,Exposiciones,12.0,Bus,Lunes,4,0,0,5.8,13020,1,Soleado,41
+Cisneros,Envigado,8.1,Metro,Jueves,13,1,0,5.7,8805,2,Nublado,93
+San Javier,Madera,8.0,Metro,Martes,20,0,0,2.2,8864,0,Nublado,91
+Exposiciones,Poblado,10.1,Cable,Lunes,7,1,0,3.2,8454,1,Nublado,63
+San Antonio,Sabaneta,3.7,Caminando,Sabado,10,0,1,8.8,3052,1,Lluvia,13
+Cisneros,Hospital,9.9,Cable,Viernes,6,1,0,3.1,8702,2,Lluvia,26
+Santa Lucia,Poblado,9.1,Taxi,Viernes,14,1,0,2.9,10683,1,Soleado,57
+Exposiciones,Envigado,12.1,Cable,Domingo,1,0,1,2.2,12136,2,Nublado,46
+Sabaneta,Parque Berrio,3.2,Caminando,Jueves,2,0,0,7.0,2947,1,Soleado,19
+San Antonio,Acevedo,8.0,Taxi,Martes,14,1,0,1.9,6744,3,Lluvia,66
+Industriales,Alpujarra,10.8,Bus,Jueves,5,0,0,5.1,11772,2,Lluvia,100
+Itagui,Santa Lucia,8.9,Metro,Domingo,18,1,1,4.5,10511,2,Lluvia,68
+Aguacatala,Cisneros,13.9,Cable,Martes,2,0,0,2.8,15568,2,Soleado,14
+Santa Lucia,Itagui,11.1,Metro,Miercoles,11,1,0,6.3,10057,2,Nublado,59
+Suramericana,Niquia,3.2,Metro,Viernes,9,0,0,1.0,2733,2,Nublado,62
+Bello,Floresta,14.9,Caminando,Miercoles,17,1,0,37.8,13619,1,Soleado,18
+Caribe,Niquia,12.9,Caminando,Jueves,13,1,0,35.3,10423,1,Tormenta,38
+Parque Berrio,Suramericana,6.1,Taxi,Lunes,7,1,0,1.9,6844,0,Lluvia,61
+San Javier,San Antonio,7.8,Cable,Martes,6,1,0,2.0,7043,1,Soleado,60
+Prado,Estadio,4.8,Caminando,Viernes,18,1,0,14.7,5674,1,Soleado,55
+Ayura,Envigado,12.9,Cable,Miercoles,3,0,0,2.5,11210,1,Tormenta,63
+Tricentenario,Alpujarra,10.6,Taxi,Jueves,16,0,0,2.2,10134,0,Soleado,47
+Exposiciones,Acevedo,1.6,Taxi,Sabado,14,1,1,0.4,1307,3,Nublado,76
+Ayura,San Antonio,9.8,Taxi,Domingo,14,1,1,3.1,11613,1,Soleado,80
+Sabaneta,Prado,14.2,Metro,Viernes,3,0,0,4.5,12950,1,Soleado,35
+Niquia,Exposiciones,10.2,Taxi,Jueves,21,0,0,2.3,8507,0,Soleado,84
+La Estrella,Bello,13.0,Bus,Lunes,19,1,0,5.3,12272,0,Nublado,50
+Itagui,Poblado,11.2,Caminando,Domingo,23,0,1,20.0,10371,3,Tormenta,69
+Exposiciones,Poblado,12.8,Metro,Jueves,12,1,0,7.6,10701,1,Lluvia,12
+La Estrella,Universidad,8.5,Caminando,Lunes,15,0,0,15.6,9639,1,Soleado,77
+Acevedo,Envigado,10.7,Bus,Lunes,7,1,0,6.2,12305,3,Soleado,33
+Exposiciones,Suramericana,13.3,Cable,Lunes,16,0,0,2.6,12741,0,Lluvia,25
+Hospital,Prado,1.8,Metro,Domingo,15,0,1,0.6,1856,3,Soleado,85
+Tricentenario,Floresta,11.7,Caminando,Viernes,19,1,0,35.8,12016,2,Tormenta,44
+Bello,Exposiciones,10.5,Caminando,Domingo,5,0,1,16.9,10426,3,Tormenta,77
+Aguacatala,Acevedo,11.6,Caminando,Miercoles,5,0,0,22.9,11519,2,Lluvia,69
+Madera,Hospital,7.7,Cable,Domingo,18,1,1,2.2,7377,2,Nublado,67
+Alpujarra,Suramericana,14.6,Bus,Martes,14,1,0,8.7,15651,1,Lluvia,27
+Floresta,Industriales,12.4,Caminando,Martes,1,0,0,23.5,10565,0,Lluvia,65
+Aguacatala,Hospital,5.5,Bus,Lunes,11,1,0,3.5,4499,2,Soleado,94
+Industriales,Suramericana,8.1,Caminando,Domingo,19,1,1,19.1,7549,3,Lluvia,99
+Bello,Universidad,1.7,Cable,Viernes,16,0,0,0.4,2008,2,Tormenta,35
+Santa Lucia,Hospital,4.4,Bus,Sabado,18,1,1,3.3,5249,2,Tormenta,16
+San Antonio,Madera,12.9,Taxi,Domingo,23,0,1,3.1,12977,1,Soleado,91
+Universidad,Cisneros,7.5,Bus,Domingo,21,0,1,2.8,8865,3,Nublado,98
+Ayura,San Javier,7.7,Cable,Viernes,14,1,0,2.2,7007,3,Soleado,36
+San Javier,Envigado,8.8,Taxi,Domingo,8,1,1,3.0,9407,0,Nublado,25
+Suramericana,Sabaneta,2.3,Bus,Miercoles,23,0,0,1.1,2666,1,Nublado,75
+Estadio,Santa Lucia,4.4,Metro,Domingo,5,0,1,1.5,3731,2,Lluvia,53
+Alpujarra,Prado,5.5,Metro,Sabado,19,1,1,3.7,4636,2,Soleado,16
+Hospital,Exposiciones,13.7,Cable,Sabado,0,0,1,2.6,14289,1,Lluvia,95
+Parque Berrio,La Estrella,6.0,Metro,Sabado,14,1,1,2.9,6990,3,Nublado,21
+Universidad,Tricentenario,3.4,Taxi,Viernes,16,0,0,0.7,3264,3,Lluvia,90
+Universidad,San Antonio,4.0,Cable,Jueves,1,0,0,0.8,4312,3,Nublado,76
+Sabaneta,Cisneros,6.5,Taxi,Martes,14,1,0,4.1,6487,0,Soleado,70
+Caribe,Estadio,4.3,Cable,Miercoles,16,0,0,0.8,4124,0,Lluvia,95
+Aguacatala,Parque Berrio,7.1,Caminando,Martes,20,0,0,17.0,8044,1,Soleado,39
+Acevedo,Bello,11.8,Metro,Viernes,13,1,0,6.9,12602,2,Lluvia,50
+Parque Berrio,Madera,7.4,Taxi,Jueves,17,1,0,3.1,6534,2,Soleado,23
+La Estrella,Niquia,2.1,Caminando,Lunes,16,0,0,4.0,2125,0,Soleado,33
+Exposiciones,Niquia,9.9,Taxi,Domingo,18,1,1,3.1,10504,0,Tormenta,27
+Parque Berrio,Prado,9.8,Metro,Lunes,13,1,0,4.8,8947,1,Soleado,65
+Alpujarra,Bello,13.6,Bus,Martes,8,1,0,10.0,16048,2,Soleado,68
+Madera,Cisneros,11.6,Metro,Martes,0,0,0,4.0,10278,1,Soleado,54
+La Estrella,Estadio,2.3,Metro,Miercoles,13,1,0,1.1,2072,0,Tormenta,20
+Prado,Aguacatala,11.3,Caminando,Jueves,11,1,0,29.5,12227,1,Lluvia,84

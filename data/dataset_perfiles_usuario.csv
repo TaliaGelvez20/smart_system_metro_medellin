@@ -1,0 +1,1501 @@
+perfil,viajes_mes,presupuesto,pref_horario,origen_frecuente,destino_frecuente,usa_metro,usa_taxi,distancia_promedio,tolerancia_transbordos,usa_horario_pico,eventos_mes
+Frecuente,30,bajo,Hora Pico,Cisneros,Suramericana,1,0,5.2,0,1,2
+Ocasional,6,bajo,Mañana,Poblado,Exposiciones,0,0,9.6,0,1,2
+Turista,12,medio,Tarde,Industriales,Caribe,1,0,7.0,0,1,0
+Turista,14,medio,Tarde,Hospital,Floresta,1,0,4.6,0,0,4
+Frecuente,23,bajo,Hora Pico,Cisneros,Santa Lucia,1,0,12.0,2,0,2
+Turista,7,medio,Tarde,Sabaneta,Exposiciones,1,0,12.8,1,1,8
+Premium,14,alto,Flexible,Aguacatala,San Javier,0,1,7.7,2,0,4
+Frecuente,55,bajo,Fuera de Hora Pico,Floresta,Ayura,1,0,3.2,1,1,8
+Turista,13,medio,Tarde,Prado,Acevedo,1,0,6.4,3,1,2
+Ocasional,6,bajo,Mañana,Bello,Suramericana,1,0,13.0,3,1,5
+Ocasional,6,bajo,Mañana,Universidad,Aguacatala,0,0,8.9,0,0,0
+Turista,7,medio,Tarde,Parque Berrio,Prado,1,0,8.6,1,1,1
+Turista,4,medio,Tarde,Aguacatala,Prado,1,0,13.2,0,0,4
+Premium,17,alto,Flexible,San Antonio,Santa Lucia,1,1,14.2,1,1,4
+Turista,9,medio,Tarde,Exposiciones,Niquia,1,0,8.3,1,1,0
+Premium,20,alto,Flexible,Tricentenario,Niquia,0,1,9.7,0,0,8
+Frecuente,52,bajo,Hora Pico,Alpujarra,Tricentenario,1,0,12.5,2,0,3
+Frecuente,43,bajo,Hora Pico,Exposiciones,Niquia,1,0,4.6,2,1,7
+Premium,9,alto,Flexible,Envigado,Parque Berrio,1,1,14.4,0,0,1
+Turista,6,medio,Tarde,Exposiciones,Ayura,1,0,9.3,3,1,4
+Ocasional,4,bajo,Tarde,Aguacatala,Exposiciones,0,0,13.6,1,1,8
+Frecuente,59,bajo,Hora Pico,Niquia,Hospital,1,0,14.5,2,0,5
+Frecuente,45,bajo,Hora Pico,Ayura,San Javier,1,0,9.4,2,0,8
+Turista,6,medio,Tarde,Parque Berrio,Floresta,1,0,13.4,0,0,7
+Premium,19,alto,Flexible,Floresta,Aguacatala,1,1,5.4,3,1,0
+Premium,23,alto,Flexible,Poblado,Itagui,1,1,3.8,2,1,6
+Premium,23,alto,Flexible,Hospital,La Estrella,1,1,7.6,0,1,4
+Ocasional,6,bajo,Tarde,Exposiciones,Itagui,0,0,13.8,0,1,8
+Ocasional,5,bajo,Mañana,San Antonio,Poblado,1,0,10.5,2,1,0
+Turista,14,medio,Tarde,Caribe,Cisneros,1,0,4.2,3,1,1
+Turista,12,medio,Tarde,Itagui,Acevedo,1,0,7.6,3,0,6
+Frecuente,39,bajo,Hora Pico,Acevedo,Bello,1,0,6.2,2,1,8
+Turista,10,medio,Tarde,Acevedo,Caribe,1,0,7.6,3,1,8
+Ocasional,3,bajo,Noche,Caribe,Ayura,0,0,12.1,2,1,2
+Premium,23,alto,Flexible,Niquia,San Javier,1,1,9.4,0,1,5
+Premium,16,alto,Flexible,Santa Lucia,Hospital,1,1,3.7,2,0,6
+Frecuente,27,bajo,Fuera de Hora Pico,Alpujarra,Sabaneta,1,0,7.8,3,0,1
+Turista,15,medio,Tarde,Sabaneta,Prado,1,0,6.1,0,0,4
+Ocasional,1,bajo,Mañana,Bello,Cisneros,1,0,8.3,3,0,3
+Ocasional,1,bajo,Noche,Parque Berrio,Suramericana,1,0,3.5,3,0,6
+Frecuente,31,bajo,Fuera de Hora Pico,Floresta,Cisneros,1,0,6.7,3,1,4
+Premium,23,alto,Flexible,Alpujarra,Acevedo,0,1,12.6,3,1,6
+Turista,13,medio,Tarde,Cisneros,San Antonio,1,0,14.9,3,1,5
+Turista,11,medio,Tarde,Santa Lucia,San Javier,1,0,14.6,1,1,7
+Ocasional,1,bajo,Noche,Universidad,Sabaneta,1,0,11.9,1,1,0
+Turista,14,medio,Tarde,Suramericana,Aguacatala,1,0,8.5,2,0,6
+Ocasional,2,bajo,Tarde,Hospital,Floresta,1,0,3.2,0,1,2
+Premium,17,alto,Flexible,Parque Berrio,Acevedo,0,1,5.4,0,1,6
+Turista,10,medio,Tarde,Alpujarra,Tricentenario,1,0,8.8,0,1,2
+Turista,12,medio,Tarde,Santa Lucia,Estadio,1,0,11.3,0,1,3
+Premium,5,alto,Flexible,Caribe,Floresta,1,1,8.5,0,1,3
+Ocasional,8,bajo,Noche,Poblado,Exposiciones,1,0,4.6,1,1,7
+Ocasional,3,bajo,Noche,Parque Berrio,Hospital,1,0,14.4,3,1,3
+Ocasional,6,bajo,Noche,Industriales,Prado,1,0,13.6,1,1,0
+Premium,17,alto,Flexible,La Estrella,Bello,0,1,11.2,3,1,6
+Ocasional,6,bajo,Noche,Bello,Santa Lucia,1,0,12.8,3,1,3
+Premium,5,alto,Flexible,Madera,Caribe,0,1,4.9,0,1,6
+Turista,10,medio,Tarde,Industriales,Exposiciones,1,0,14.6,2,1,5
+Frecuente,60,bajo,Hora Pico,Prado,Caribe,1,0,10.5,0,1,6
+Premium,12,alto,Flexible,Santa Lucia,Caribe,0,1,14.3,3,1,7
+Ocasional,6,bajo,Noche,Hospital,Envigado,0,0,3.4,2,1,2
+Ocasional,4,bajo,Tarde,Envigado,Suramericana,1,0,14.2,3,0,5
+Premium,9,alto,Flexible,San Antonio,Acevedo,0,1,3.4,0,1,5
+Premium,20,alto,Flexible,Caribe,La Estrella,1,1,14.4,0,1,8
+Turista,15,medio,Tarde,Prado,San Antonio,1,0,4.1,1,1,8
+Turista,13,medio,Tarde,Caribe,Alpujarra,1,0,9.7,1,1,3
+Premium,18,alto,Flexible,Exposiciones,San Javier,0,1,5.2,2,0,1
+Turista,15,medio,Tarde,Estadio,Itagui,1,0,13.5,3,1,5
+Ocasional,4,bajo,Tarde,Itagui,San Antonio,1,0,5.6,1,1,3
+Premium,13,alto,Flexible,San Javier,Madera,0,1,10.5,3,1,2
+Ocasional,4,bajo,Tarde,Estadio,Madera,1,0,7.8,3,0,2
+Turista,15,medio,Tarde,San Antonio,Hospital,1,0,4.8,1,0,4
+Turista,3,medio,Tarde,Floresta,San Javier,1,0,9.1,0,0,8
+Ocasional,3,bajo,Noche,Madera,La Estrella,1,0,9.7,2,0,8
+Premium,12,alto,Flexible,Envigado,Santa Lucia,1,1,12.2,0,1,6
+Ocasional,8,bajo,Noche,Niquia,Estadio,0,0,3.2,0,1,8
+Ocasional,6,bajo,Noche,Envigado,Acevedo,0,0,6.2,1,0,0
+Premium,6,alto,Flexible,San Antonio,Industriales,0,1,14.8,1,1,8
+Turista,15,medio,Tarde,Suramericana,Itagui,1,0,10.1,1,1,3
+Ocasional,2,bajo,Tarde,Itagui,Parque Berrio,1,0,8.0,1,1,1
+Frecuente,38,bajo,Fuera de Hora Pico,Poblado,Industriales,1,0,12.3,1,1,2
+Premium,23,alto,Flexible,Estadio,Caribe,1,1,3.6,2,1,8
+Premium,23,alto,Flexible,Caribe,Industriales,0,1,3.1,1,0,3
+Ocasional,5,bajo,Noche,Alpujarra,Poblado,1,0,14.6,2,1,1
+Turista,9,medio,Tarde,Alpujarra,Ayura,1,0,13.2,0,0,4
+Premium,6,alto,Flexible,Ayura,Sabaneta,0,1,11.1,3,0,1
+Turista,7,medio,Tarde,Alpujarra,Bello,1,0,9.3,1,1,5
+Frecuente,28,bajo,Hora Pico,Hospital,Niquia,1,0,8.7,1,1,8
+Turista,9,medio,Tarde,Prado,Acevedo,1,0,14.0,3,0,3
+Premium,16,alto,Flexible,San Antonio,Itagui,1,1,7.8,0,1,8
+Frecuente,56,bajo,Hora Pico,Parque Berrio,Bello,1,0,9.2,2,0,4
+Frecuente,60,bajo,Fuera de Hora Pico,Ayura,Envigado,1,0,7.2,0,1,0
+Turista,12,medio,Tarde,Exposiciones,Alpujarra,1,0,7.6,1,0,6
+Frecuente,49,bajo,Fuera de Hora Pico,Santa Lucia,Caribe,1,0,4.7,3,1,1
+Frecuente,50,bajo,Fuera de Hora Pico,Hospital,Parque Berrio,1,0,4.5,1,1,5
+Premium,25,alto,Flexible,Caribe,Cisneros,0,1,14.1,1,1,0
+Ocasional,8,bajo,Tarde,San Javier,Niquia,0,0,8.0,2,1,0
+Frecuente,44,bajo,Fuera de Hora Pico,Prado,Aguacatala,1,0,5.7,2,1,4
+Ocasional,5,bajo,Noche,Sabaneta,Madera,0,0,3.4,1,0,3
+Ocasional,7,bajo,Noche,Poblado,Sabaneta,1,0,10.6,3,1,7
+Premium,20,alto,Flexible,Estadio,Bello,0,1,11.5,0,0,0
+Premium,5,alto,Flexible,Hospital,Estadio,1,1,8.6,1,1,1
+Turista,10,medio,Tarde,Santa Lucia,Aguacatala,1,0,12.4,2,1,3
+Premium,9,alto,Flexible,Universidad,Sabaneta,1,1,5.7,1,0,2
+Premium,20,alto,Flexible,Estadio,Caribe,1,1,8.5,2,1,5
+Ocasional,3,bajo,Mañana,Caribe,Madera,1,0,4.2,2,1,6
+Ocasional,4,bajo,Noche,Universidad,Envigado,1,0,5.8,3,1,8
+Turista,11,medio,Tarde,Cisneros,Ayura,1,0,13.5,1,1,0
+Premium,19,alto,Flexible,Alpujarra,Santa Lucia,0,1,9.0,2,1,7
+Ocasional,7,bajo,Noche,San Javier,Itagui,0,0,5.1,2,0,0
+Frecuente,40,bajo,Fuera de Hora Pico,Industriales,Madera,1,0,13.2,3,1,4
+Turista,14,medio,Tarde,Poblado,San Javier,1,0,8.4,0,1,8
+Turista,6,medio,Tarde,Santa Lucia,Industriales,1,0,12.0,0,1,5
+Premium,25,alto,Flexible,Santa Lucia,Madera,0,1,4.4,2,1,2
+Frecuente,60,bajo,Fuera de Hora Pico,La Estrella,Bello,1,0,4.0,2,1,7
+Turista,12,medio,Tarde,Industriales,Tricentenario,1,0,7.8,1,1,6
+Premium,14,alto,Flexible,Itagui,Madera,1,1,11.5,1,1,2
+Ocasional,1,bajo,Noche,Niquia,Cisneros,0,0,3.4,2,0,6
+Turista,12,medio,Tarde,Bello,Industriales,1,0,5.2,0,1,5
+Premium,8,alto,Flexible,Itagui,Floresta,0,1,7.8,0,1,0
+Ocasional,1,bajo,Noche,La Estrella,Alpujarra,1,0,9.2,3,1,4
+Frecuente,31,bajo,Fuera de Hora Pico,San Javier,La Estrella,1,0,6.5,3,1,2
+Premium,21,alto,Flexible,Alpujarra,Acevedo,0,1,8.5,3,0,5
+Ocasional,3,bajo,Noche,Prado,Universidad,0,0,12.1,1,1,6
+Turista,8,medio,Tarde,San Javier,Poblado,1,0,11.2,3,1,4
+Frecuente,44,bajo,Fuera de Hora Pico,Envigado,Aguacatala,1,0,6.9,1,1,0
+Premium,25,alto,Flexible,Prado,Niquia,0,1,8.6,3,0,2
+Ocasional,7,bajo,Mañana,Aguacatala,Prado,0,0,15.0,3,1,6
+Turista,13,medio,Tarde,Prado,Ayura,1,0,4.8,0,1,2
+Premium,12,alto,Flexible,Industriales,Envigado,1,1,10.9,1,1,0
+Frecuente,29,bajo,Fuera de Hora Pico,Estadio,Universidad,1,0,7.6,2,1,5
+Premium,22,alto,Flexible,Aguacatala,Universidad,1,1,6.8,0,1,8
+Ocasional,1,bajo,Noche,Caribe,Envigado,1,0,11.3,2,1,6
+Premium,18,alto,Flexible,San Javier,Exposiciones,0,1,4.1,1,1,3
+Ocasional,7,bajo,Mañana,San Antonio,Industriales,1,0,11.4,2,0,0
+Premium,7,alto,Flexible,Exposiciones,Universidad,1,1,15.0,0,1,3
+Turista,5,medio,Tarde,Santa Lucia,Acevedo,1,0,12.5,0,1,1
+Turista,7,medio,Tarde,Bello,Aguacatala,1,0,9.1,0,1,8
+Ocasional,2,bajo,Mañana,Estadio,Suramericana,1,0,5.3,3,1,3
+Turista,8,medio,Tarde,Caribe,Ayura,1,0,14.1,1,1,5
+Turista,10,medio,Tarde,Poblado,Ayura,1,0,11.4,2,1,8
+Ocasional,8,bajo,Mañana,Santa Lucia,Itagui,0,0,14.0,3,1,1
+Premium,14,alto,Flexible,Niquia,Madera,1,1,10.9,1,0,1
+Frecuente,28,bajo,Fuera de Hora Pico,Ayura,Sabaneta,1,0,5.3,2,1,2
+Ocasional,4,bajo,Tarde,Madera,Exposiciones,1,0,9.0,0,1,1
+Premium,10,alto,Flexible,Floresta,Itagui,0,1,7.2,3,1,7
+Turista,13,medio,Tarde,Alpujarra,San Antonio,1,0,9.7,1,0,5
+Premium,9,alto,Flexible,San Javier,Niquia,1,1,13.4,3,0,2
+Frecuente,55,bajo,Hora Pico,Sabaneta,Hospital,1,0,12.6,2,1,8
+Turista,11,medio,Tarde,Sabaneta,Aguacatala,1,0,4.2,1,1,6
+Premium,20,alto,Flexible,Ayura,Santa Lucia,1,1,6.7,3,0,4
+Premium,15,alto,Flexible,San Javier,Tricentenario,1,1,13.8,1,0,0
+Ocasional,6,bajo,Noche,Ayura,Itagui,0,0,3.6,3,1,4
+Premium,5,alto,Flexible,La Estrella,Niquia,0,1,6.8,0,0,8
+Turista,10,medio,Tarde,Sabaneta,Aguacatala,1,0,12.6,2,0,6
+Ocasional,4,bajo,Tarde,Exposiciones,Universidad,1,0,13.0,2,1,5
+Frecuente,34,bajo,Hora Pico,Parque Berrio,Aguacatala,1,0,8.3,3,1,3
+Turista,12,medio,Tarde,Tricentenario,Caribe,1,0,12.5,3,1,2
+Ocasional,2,bajo,Tarde,Caribe,Hospital,0,0,8.8,1,1,7
+Frecuente,38,bajo,Fuera de Hora Pico,Bello,Alpujarra,1,0,14.6,0,1,0
+Premium,25,alto,Flexible,Aguacatala,Tricentenario,1,1,12.0,0,1,6
+Frecuente,58,bajo,Hora Pico,Prado,Exposiciones,1,0,14.4,3,1,6
+Turista,3,medio,Tarde,Itagui,Envigado,1,0,12.0,2,1,8
+Ocasional,8,bajo,Tarde,Floresta,Hospital,1,0,7.7,2,0,7
+Premium,21,alto,Flexible,Ayura,Estadio,1,1,10.1,2,1,5
+Turista,4,medio,Tarde,Hospital,Acevedo,1,0,12.6,2,1,4
+Turista,4,medio,Tarde,Industriales,Hospital,1,0,13.1,2,0,7
+Premium,20,alto,Flexible,Prado,Hospital,1,1,8.3,1,0,3
+Premium,21,alto,Flexible,Alpujarra,Industriales,1,1,13.8,0,1,1
+Turista,8,medio,Tarde,Alpujarra,Ayura,1,0,10.1,1,0,2
+Ocasional,1,bajo,Mañana,Itagui,Niquia,1,0,6.8,2,1,7
+Frecuente,44,bajo,Fuera de Hora Pico,Envigado,Alpujarra,1,0,6.4,2,1,1
+Frecuente,37,bajo,Fuera de Hora Pico,Caribe,San Antonio,1,0,7.9,3,0,2
+Frecuente,59,bajo,Hora Pico,Hospital,Bello,1,0,12.3,3,1,3
+Premium,11,alto,Flexible,San Antonio,Sabaneta,1,1,11.0,0,1,2
+Frecuente,27,bajo,Fuera de Hora Pico,Niquia,Envigado,1,0,8.9,3,1,5
+Turista,11,medio,Tarde,La Estrella,Envigado,1,0,4.8,3,1,7
+Turista,6,medio,Tarde,Bello,Sabaneta,1,0,14.2,3,0,8
+Frecuente,47,bajo,Fuera de Hora Pico,Industriales,Niquia,1,0,9.8,3,1,5
+Premium,5,alto,Flexible,Prado,Exposiciones,1,1,10.9,3,1,6
+Frecuente,59,bajo,Hora Pico,San Javier,Madera,1,0,3.2,3,1,2
+Frecuente,45,bajo,Fuera de Hora Pico,Tricentenario,Aguacatala,1,0,9.2,2,0,3
+Ocasional,6,bajo,Noche,San Javier,Madera,1,0,11.9,3,1,1
+Turista,10,medio,Tarde,San Antonio,Universidad,1,0,10.0,3,0,5
+Ocasional,8,bajo,Noche,Ayura,Santa Lucia,0,0,9.0,0,1,5
+Frecuente,55,bajo,Hora Pico,Alpujarra,Universidad,1,0,11.9,2,1,7
+Frecuente,47,bajo,Hora Pico,Sabaneta,Alpujarra,1,0,3.4,3,1,0
+Premium,7,alto,Flexible,Industriales,La Estrella,0,1,8.0,1,0,2
+Ocasional,6,bajo,Tarde,Envigado,Poblado,0,0,12.4,1,1,8
+Premium,12,alto,Flexible,Acevedo,San Antonio,0,1,14.7,1,1,3
+Turista,4,medio,Tarde,Aguacatala,Hospital,1,0,3.0,3,1,0
+Premium,21,alto,Flexible,Industriales,Itagui,0,1,6.1,1,1,6
+Ocasional,7,bajo,Tarde,Universidad,Itagui,0,0,7.7,2,1,0
+Turista,10,medio,Tarde,Aguacatala,Alpujarra,1,0,14.9,2,1,7
+Frecuente,40,bajo,Fuera de Hora Pico,Acevedo,Cisneros,1,0,3.0,3,1,2
+Premium,5,alto,Flexible,Caribe,Alpujarra,0,1,11.3,0,0,8
+Premium,15,alto,Flexible,Universidad,Alpujarra,0,1,8.8,2,1,7
+Frecuente,22,bajo,Hora Pico,Tricentenario,San Antonio,1,0,14.3,0,1,1
+Premium,6,alto,Flexible,Itagui,Hospital,1,1,4.4,3,0,1
+Turista,15,medio,Tarde,San Javier,Acevedo,1,0,4.0,2,1,6
+Ocasional,4,bajo,Noche,Niquia,Floresta,1,0,6.3,2,0,0
+Premium,15,alto,Flexible,La Estrella,Envigado,0,1,10.0,1,1,0
+Turista,12,medio,Tarde,Sabaneta,Santa Lucia,1,0,3.4,3,1,4
+Frecuente,41,bajo,Fuera de Hora Pico,La Estrella,Alpujarra,1,0,11.9,0,1,3
+Turista,6,medio,Tarde,Envigado,Universidad,1,0,7.8,3,0,2
+Premium,16,alto,Flexible,Aguacatala,Bello,0,1,9.3,1,0,1
+Premium,25,alto,Flexible,Prado,San Javier,1,1,10.6,3,1,3
+Ocasional,1,bajo,Noche,Prado,Exposiciones,0,0,5.5,0,0,8
+Turista,10,medio,Tarde,La Estrella,Caribe,1,0,13.1,0,1,6
+Ocasional,8,bajo,Mañana,Universidad,Madera,1,0,9.0,0,1,8
+Ocasional,7,bajo,Tarde,Hospital,Niquia,0,0,5.8,2,1,1
+Frecuente,55,bajo,Hora Pico,Alpujarra,Bello,1,0,4.2,2,1,6
+Turista,5,medio,Tarde,Alpujarra,Aguacatala,1,0,5.8,1,1,3
+Turista,4,medio,Tarde,Tricentenario,Aguacatala,1,0,7.8,3,1,2
+Premium,20,alto,Flexible,Prado,Exposiciones,1,1,3.4,0,1,8
+Turista,4,medio,Tarde,Poblado,Hospital,1,0,10.8,0,1,7
+Ocasional,7,bajo,Mañana,Caribe,Industriales,1,0,14.3,0,0,4
+Turista,4,medio,Tarde,Industriales,San Antonio,1,0,3.4,2,0,1
+Premium,10,alto,Flexible,Parque Berrio,Exposiciones,1,1,11.2,1,1,6
+Premium,16,alto,Flexible,San Javier,Santa Lucia,0,1,13.1,0,1,7
+Ocasional,5,bajo,Noche,Cisneros,Industriales,1,0,4.6,1,1,3
+Turista,6,medio,Tarde,Sabaneta,Exposiciones,1,0,14.2,1,1,2
+Turista,13,medio,Tarde,Industriales,Niquia,1,0,11.5,3,0,1
+Premium,18,alto,Flexible,Niquia,Cisneros,1,1,5.0,0,0,3
+Premium,9,alto,Flexible,San Antonio,Industriales,1,1,4.0,1,0,6
+Frecuente,25,bajo,Hora Pico,Envigado,Prado,1,0,14.3,2,1,0
+Premium,13,alto,Flexible,Estadio,Tricentenario,1,1,13.4,2,0,6
+Ocasional,5,bajo,Noche,Santa Lucia,Niquia,0,0,8.3,3,0,6
+Frecuente,33,bajo,Fuera de Hora Pico,Bello,Floresta,1,0,11.0,1,1,1
+Frecuente,29,bajo,Fuera de Hora Pico,Aguacatala,Caribe,1,0,8.4,1,0,6
+Frecuente,48,bajo,Fuera de Hora Pico,Floresta,Industriales,1,0,8.3,3,1,5
+Ocasional,5,bajo,Tarde,La Estrella,Floresta,1,0,8.5,2,1,2
+Premium,13,alto,Flexible,Universidad,Poblado,0,1,8.9,3,0,6
+Turista,11,medio,Tarde,Prado,Floresta,1,0,12.8,0,1,5
+Frecuente,45,bajo,Fuera de Hora Pico,Poblado,San Javier,1,0,9.0,1,0,1
+Turista,4,medio,Tarde,Santa Lucia,Floresta,1,0,12.3,0,1,0
+Premium,12,alto,Flexible,Universidad,Itagui,0,1,11.2,1,0,1
+Premium,8,alto,Flexible,Exposiciones,Industriales,0,1,6.4,0,0,6
+Frecuente,54,bajo,Hora Pico,Acevedo,La Estrella,1,0,5.7,2,1,1
+Ocasional,6,bajo,Tarde,Itagui,Aguacatala,0,0,9.5,0,1,3
+Premium,7,alto,Flexible,Niquia,Santa Lucia,0,1,7.5,3,0,6
+Frecuente,35,bajo,Fuera de Hora Pico,Alpujarra,Bello,1,0,6.5,0,1,6
+Frecuente,29,bajo,Fuera de Hora Pico,Aguacatala,Itagui,1,0,10.7,1,0,5
+Ocasional,3,bajo,Tarde,Suramericana,Estadio,0,0,5.9,0,1,2
+Ocasional,1,bajo,Noche,Bello,Acevedo,1,0,6.9,3,1,7
+Ocasional,7,bajo,Mañana,Bello,Sabaneta,0,0,15.0,3,1,2
+Turista,11,medio,Tarde,Exposiciones,Poblado,1,0,14.2,0,1,3
+Turista,11,medio,Tarde,Madera,Suramericana,1,0,7.7,1,0,0
+Turista,6,medio,Tarde,Aguacatala,Universidad,1,0,3.6,3,0,4
+Frecuente,57,bajo,Hora Pico,Universidad,La Estrella,1,0,3.1,1,0,0
+Premium,17,alto,Flexible,Suramericana,Bello,1,1,8.8,1,1,4
+Turista,7,medio,Tarde,Ayura,San Antonio,1,0,13.7,3,1,8
+Frecuente,24,bajo,Hora Pico,Caribe,Aguacatala,1,0,5.7,0,1,2
+Frecuente,58,bajo,Hora Pico,Caribe,Tricentenario,1,0,9.9,1,1,5
+Premium,6,alto,Flexible,Itagui,Santa Lucia,1,1,13.2,1,1,4
+Turista,15,medio,Tarde,Alpujarra,Parque Berrio,1,0,5.8,0,1,6
+Premium,16,alto,Flexible,Envigado,Bello,1,1,3.7,1,1,4
+Turista,6,medio,Tarde,Exposiciones,Poblado,1,0,14.8,1,1,5
+Premium,25,alto,Flexible,Prado,Alpujarra,0,1,9.5,3,1,0
+Turista,14,medio,Tarde,Poblado,Bello,1,0,10.4,0,1,1
+Turista,15,medio,Tarde,Tricentenario,Acevedo,1,0,10.6,0,1,5
+Ocasional,5,bajo,Mañana,Hospital,Acevedo,0,0,12.7,2,1,6
+Premium,5,alto,Flexible,Madera,San Antonio,0,1,7.9,0,1,3
+Frecuente,40,bajo,Hora Pico,Niquia,Poblado,1,0,5.0,1,1,6
+Ocasional,4,bajo,Mañana,Floresta,Prado,1,0,4.6,3,1,3
+Frecuente,27,bajo,Fuera de Hora Pico,Acevedo,San Antonio,1,0,3.6,1,0,0
+Ocasional,8,bajo,Mañana,Acevedo,La Estrella,1,0,12.5,2,1,4
+Ocasional,6,bajo,Mañana,Niquia,Itagui,1,0,3.9,0,0,5
+Turista,15,medio,Tarde,Poblado,Cisneros,1,0,12.7,2,0,6
+Frecuente,43,bajo,Fuera de Hora Pico,Madera,Ayura,1,0,12.6,1,1,4
+Ocasional,4,bajo,Noche,Tricentenario,Floresta,0,0,5.2,3,1,1
+Ocasional,7,bajo,Tarde,Floresta,Industriales,1,0,3.3,2,1,3
+Premium,19,alto,Flexible,Parque Berrio,Madera,1,1,11.0,0,1,1
+Turista,8,medio,Tarde,Universidad,Tricentenario,1,0,4.5,3,1,7
+Premium,10,alto,Flexible,San Antonio,Envigado,0,1,8.6,0,1,8
+Frecuente,26,bajo,Fuera de Hora Pico,Acevedo,Alpujarra,1,0,13.4,0,0,4
+Frecuente,36,bajo,Hora Pico,Caribe,San Antonio,1,0,11.4,2,1,4
+Turista,10,medio,Tarde,Universidad,Madera,1,0,14.0,1,1,7
+Premium,7,alto,Flexible,Exposiciones,La Estrella,1,1,6.9,2,1,8
+Premium,20,alto,Flexible,Prado,Niquia,0,1,13.7,0,1,6
+Ocasional,8,bajo,Mañana,Acevedo,Hospital,1,0,10.8,0,0,2
+Turista,6,medio,Tarde,Envigado,Hospital,1,0,13.3,0,1,0
+Frecuente,40,bajo,Fuera de Hora Pico,Itagui,Exposiciones,1,0,7.3,3,0,0
+Ocasional,2,bajo,Noche,Parque Berrio,Tricentenario,1,0,12.4,0,1,7
+Frecuente,38,bajo,Hora Pico,Acevedo,Poblado,1,0,13.4,1,0,2
+Premium,7,alto,Flexible,Aguacatala,San Antonio,1,1,13.5,3,1,2
+Premium,21,alto,Flexible,Hospital,Bello,0,1,10.7,2,0,1
+Ocasional,7,bajo,Noche,Exposiciones,Bello,1,0,5.7,2,0,5
+Frecuente,35,bajo,Fuera de Hora Pico,Santa Lucia,Industriales,1,0,7.7,1,0,7
+Premium,18,alto,Flexible,Universidad,Suramericana,1,1,14.1,0,1,4
+Premium,5,alto,Flexible,Estadio,San Antonio,0,1,10.7,2,0,3
+Turista,13,medio,Tarde,Acevedo,Prado,1,0,10.7,2,1,3
+Ocasional,1,bajo,Tarde,La Estrella,Aguacatala,0,0,9.4,2,1,6
+Ocasional,2,bajo,Noche,Niquia,Parque Berrio,0,0,4.3,2,1,4
+Premium,20,alto,Flexible,Hospital,Prado,1,1,6.2,1,1,7
+Frecuente,47,bajo,Fuera de Hora Pico,Bello,Tricentenario,1,0,11.0,2,0,5
+Frecuente,24,bajo,Fuera de Hora Pico,Suramericana,San Antonio,1,0,3.6,0,1,3
+Turista,3,medio,Tarde,Madera,Estadio,1,0,4.4,2,1,8
+Turista,7,medio,Tarde,La Estrella,Niquia,1,0,11.9,2,0,0
+Premium,16,alto,Flexible,Aguacatala,Sabaneta,1,1,4.8,0,1,7
+Frecuente,44,bajo,Fuera de Hora Pico,Ayura,Bello,1,0,7.8,1,1,2
+Premium,7,alto,Flexible,Madera,La Estrella,0,1,7.2,2,0,6
+Frecuente,51,bajo,Hora Pico,Ayura,Itagui,1,0,15.0,0,1,3
+Ocasional,2,bajo,Mañana,Poblado,Sabaneta,0,0,7.0,1,1,2
+Frecuente,33,bajo,Hora Pico,Madera,Universidad,1,0,7.0,3,1,5
+Ocasional,4,bajo,Noche,Estadio,Industriales,1,0,4.5,1,1,1
+Premium,7,alto,Flexible,Suramericana,Caribe,1,1,9.0,3,0,3
+Premium,25,alto,Flexible,Santa Lucia,Aguacatala,0,1,13.4,1,1,1
+Premium,9,alto,Flexible,Caribe,Bello,1,1,8.3,1,1,4
+Ocasional,6,bajo,Noche,Madera,La Estrella,1,0,11.5,2,0,0
+Premium,23,alto,Flexible,Hospital,San Javier,1,1,12.7,0,1,5
+Premium,22,alto,Flexible,Sabaneta,Cisneros,1,1,14.6,1,1,2
+Turista,6,medio,Tarde,Poblado,Sabaneta,1,0,7.2,1,0,1
+Turista,13,medio,Tarde,Suramericana,Madera,1,0,4.5,1,0,5
+Ocasional,2,bajo,Noche,Hospital,San Javier,0,0,5.5,0,0,5
+Frecuente,43,bajo,Hora Pico,Caribe,Parque Berrio,1,0,7.9,2,1,4
+Ocasional,3,bajo,Mañana,Cisneros,Floresta,0,0,4.5,1,1,0
+Turista,15,medio,Tarde,Hospital,Envigado,1,0,12.0,3,0,4
+Frecuente,57,bajo,Hora Pico,Hospital,Ayura,1,0,3.1,2,1,7
+Frecuente,50,bajo,Hora Pico,Acevedo,Prado,1,0,14.4,0,1,8
+Frecuente,28,bajo,Fuera de Hora Pico,La Estrella,Bello,1,0,9.2,1,1,5
+Ocasional,4,bajo,Mañana,Cisneros,Envigado,1,0,6.6,1,1,3
+Turista,13,medio,Tarde,Prado,San Javier,1,0,8.3,1,1,1
+Frecuente,33,bajo,Fuera de Hora Pico,Bello,Santa Lucia,1,0,6.0,2,1,4
+Premium,15,alto,Flexible,Poblado,Ayura,0,1,13.6,0,0,3
+Premium,15,alto,Flexible,Prado,Itagui,0,1,11.7,0,1,0
+Frecuente,56,bajo,Hora Pico,Ayura,San Antonio,1,0,3.7,1,1,8
+Premium,20,alto,Flexible,San Antonio,Envigado,0,1,8.8,2,0,1
+Premium,18,alto,Flexible,San Antonio,Cisneros,0,1,14.4,1,1,7
+Ocasional,7,bajo,Tarde,San Javier,Aguacatala,1,0,3.7,3,0,3
+Ocasional,2,bajo,Noche,Santa Lucia,Industriales,0,0,11.4,0,1,5
+Premium,12,alto,Flexible,Aguacatala,Universidad,0,1,11.7,1,0,0
+Frecuente,51,bajo,Fuera de Hora Pico,Sabaneta,Madera,1,0,14.7,0,1,3
+Turista,12,medio,Tarde,La Estrella,San Javier,1,0,5.5,3,0,8
+Frecuente,23,bajo,Hora Pico,Parque Berrio,Exposiciones,1,0,9.2,0,1,1
+Turista,5,medio,Tarde,Cisneros,Prado,1,0,8.4,2,0,6
+Premium,20,alto,Flexible,Alpujarra,Cisneros,0,1,14.1,0,1,5
+Frecuente,56,bajo,Hora Pico,San Antonio,Floresta,1,0,13.7,3,1,7
+Ocasional,3,bajo,Mañana,Caribe,Estadio,1,0,11.7,2,1,0
+Frecuente,40,bajo,Fuera de Hora Pico,Niquia,Itagui,1,0,4.2,3,1,4
+Premium,15,alto,Flexible,Santa Lucia,Poblado,1,1,15.0,0,1,7
+Premium,14,alto,Flexible,San Antonio,Prado,0,1,3.7,2,1,5
+Premium,18,alto,Flexible,Niquia,Sabaneta,1,1,12.4,0,0,6
+Turista,15,medio,Tarde,San Antonio,La Estrella,1,0,11.8,1,0,0
+Ocasional,4,bajo,Tarde,Parque Berrio,Bello,0,0,7.2,0,1,7
+Ocasional,2,bajo,Tarde,Industriales,Alpujarra,1,0,6.7,2,0,0
+Ocasional,1,bajo,Tarde,Niquia,San Antonio,0,0,11.6,2,1,4
+Turista,9,medio,Tarde,Ayura,Cisneros,1,0,5.5,3,1,5
+Turista,3,medio,Tarde,Parque Berrio,Itagui,1,0,10.0,1,1,6
+Turista,5,medio,Tarde,San Antonio,Aguacatala,1,0,8.1,0,1,8
+Ocasional,8,bajo,Noche,Floresta,Madera,1,0,4.1,0,0,1
+Turista,8,medio,Tarde,Caribe,Santa Lucia,1,0,10.9,0,1,1
+Premium,23,alto,Flexible,Parque Berrio,Hospital,0,1,4.3,0,1,1
+Turista,7,medio,Tarde,Madera,San Javier,1,0,8.2,2,1,7
+Turista,6,medio,Tarde,Cisneros,Estadio,1,0,13.0,0,1,3
+Frecuente,35,bajo,Hora Pico,Itagui,Poblado,1,0,7.8,0,0,4
+Turista,4,medio,Tarde,Industriales,Envigado,1,0,6.0,2,0,6
+Premium,16,alto,Flexible,San Javier,Parque Berrio,1,1,4.0,1,0,1
+Ocasional,4,bajo,Tarde,Prado,Estadio,0,0,11.2,2,1,2
+Turista,14,medio,Tarde,Santa Lucia,San Antonio,1,0,14.7,0,1,4
+Premium,21,alto,Flexible,Niquia,Sabaneta,0,1,10.9,3,1,8
+Premium,17,alto,Flexible,La Estrella,Estadio,0,1,6.5,3,1,7
+Frecuente,50,bajo,Fuera de Hora Pico,San Javier,La Estrella,1,0,11.1,3,1,4
+Turista,6,medio,Tarde,Poblado,Envigado,1,0,3.5,1,0,2
+Premium,8,alto,Flexible,Acevedo,Poblado,1,1,4.5,3,1,6
+Turista,9,medio,Tarde,Industriales,Floresta,1,0,14.4,0,1,1
+Ocasional,4,bajo,Tarde,Exposiciones,Prado,0,0,4.5,1,0,6
+Turista,3,medio,Tarde,Ayura,Cisneros,1,0,7.3,3,1,1
+Ocasional,6,bajo,Noche,Floresta,Cisneros,1,0,5.6,3,1,4
+Premium,19,alto,Flexible,Cisneros,Acevedo,1,1,6.3,2,1,7
+Ocasional,3,bajo,Tarde,Santa Lucia,Madera,0,0,7.3,2,0,4
+Ocasional,6,bajo,Tarde,Tricentenario,Exposiciones,1,0,7.7,1,1,4
+Premium,16,alto,Flexible,Santa Lucia,San Javier,1,1,10.9,3,1,6
+Frecuente,35,bajo,Fuera de Hora Pico,Santa Lucia,Prado,1,0,14.7,0,1,5
+Ocasional,6,bajo,Mañana,San Javier,Poblado,0,0,4.9,3,0,2
+Turista,9,medio,Tarde,Itagui,San Antonio,1,0,11.1,3,0,8
+Premium,10,alto,Flexible,Niquia,Prado,1,1,7.9,3,1,8
+Ocasional,3,bajo,Tarde,San Javier,Parque Berrio,1,0,6.2,1,1,4
+Frecuente,43,bajo,Hora Pico,Bello,Ayura,1,0,10.2,3,1,6
+Premium,12,alto,Flexible,Estadio,Poblado,1,1,11.2,2,0,7
+Ocasional,7,bajo,Tarde,Itagui,Acevedo,0,0,7.7,3,1,0
+Turista,15,medio,Tarde,Caribe,Alpujarra,1,0,10.3,2,0,6
+Ocasional,6,bajo,Tarde,Ayura,Bello,1,0,8.8,1,0,7
+Ocasional,1,bajo,Noche,Universidad,Hospital,0,0,12.1,2,1,0
+Frecuente,33,bajo,Fuera de Hora Pico,Parque Berrio,Hospital,1,0,5.1,3,1,2
+Premium,24,alto,Flexible,Envigado,Niquia,0,1,4.1,3,1,5
+Ocasional,2,bajo,Noche,Itagui,Parque Berrio,0,0,8.0,2,0,1
+Ocasional,3,bajo,Noche,Sabaneta,Acevedo,1,0,6.2,2,1,1
+Ocasional,3,bajo,Mañana,Cisneros,Hospital,0,0,9.8,0,1,6
+Turista,13,medio,Tarde,Industriales,San Javier,1,0,10.0,1,0,4
+Frecuente,55,bajo,Hora Pico,Floresta,Aguacatala,1,0,7.3,2,1,8
+Premium,17,alto,Flexible,Floresta,Aguacatala,1,1,5.9,2,0,3
+Ocasional,3,bajo,Tarde,Suramericana,Tricentenario,1,0,11.2,0,1,3
+Ocasional,7,bajo,Mañana,Bello,Alpujarra,1,0,7.2,1,1,2
+Premium,25,alto,Flexible,Santa Lucia,Poblado,0,1,4.7,3,1,7
+Frecuente,52,bajo,Fuera de Hora Pico,Sabaneta,Madera,1,0,12.6,3,1,8
+Turista,10,medio,Tarde,Prado,Ayura,1,0,12.5,3,1,1
+Ocasional,5,bajo,Mañana,Exposiciones,Floresta,1,0,13.5,1,1,6
+Premium,10,alto,Flexible,Floresta,San Antonio,0,1,8.8,0,1,0
+Frecuente,21,bajo,Fuera de Hora Pico,Niquia,Parque Berrio,1,0,3.9,0,1,1
+Ocasional,3,bajo,Noche,Hospital,Cisneros,1,0,11.3,3,0,2
+Turista,8,medio,Tarde,Poblado,Envigado,1,0,14.1,2,1,3
+Premium,15,alto,Flexible,Itagui,Universidad,0,1,7.4,0,1,0
+Ocasional,6,bajo,Noche,Alpujarra,Industriales,1,0,8.3,1,1,1
+Frecuente,50,bajo,Hora Pico,Santa Lucia,Bello,1,0,11.7,0,1,7
+Premium,23,alto,Flexible,Poblado,Alpujarra,0,1,8.0,0,1,3
+Ocasional,3,bajo,Mañana,Universidad,Aguacatala,1,0,5.6,3,1,0
+Ocasional,1,bajo,Mañana,Itagui,Caribe,1,0,8.0,0,1,8
+Frecuente,30,bajo,Fuera de Hora Pico,Niquia,Bello,1,0,8.0,1,1,5
+Premium,23,alto,Flexible,Bello,Universidad,1,1,14.0,2,1,4
+Frecuente,41,bajo,Hora Pico,Cisneros,Prado,1,0,12.9,0,0,8
+Ocasional,1,bajo,Tarde,Bello,Acevedo,1,0,13.7,1,1,1
+Premium,24,alto,Flexible,Cisneros,Tricentenario,0,1,8.8,1,1,4
+Turista,10,medio,Tarde,Sabaneta,Industriales,1,0,8.0,2,0,8
+Premium,17,alto,Flexible,Aguacatala,Alpujarra,1,1,3.1,2,0,4
+Turista,7,medio,Tarde,Estadio,Bello,1,0,7.6,2,1,8
+Turista,15,medio,Tarde,Acevedo,Suramericana,1,0,11.7,3,1,4
+Ocasional,3,bajo,Tarde,Acevedo,Cisneros,1,0,4.4,0,1,5
+Ocasional,2,bajo,Noche,San Javier,Cisneros,1,0,13.4,2,1,0
+Frecuente,45,bajo,Fuera de Hora Pico,Floresta,Envigado,1,0,7.6,2,1,4
+Premium,14,alto,Flexible,Prado,Estadio,1,1,4.6,2,1,6
+Turista,15,medio,Tarde,La Estrella,Niquia,1,0,9.4,0,1,0
+Ocasional,6,bajo,Mañana,Poblado,Santa Lucia,0,0,9.1,3,1,2
+Turista,11,medio,Tarde,Prado,La Estrella,1,0,14.4,3,0,2
+Premium,7,alto,Flexible,Parque Berrio,Tricentenario,0,1,13.5,0,1,6
+Ocasional,8,bajo,Noche,Bello,Poblado,0,0,9.4,2,0,5
+Turista,5,medio,Tarde,San Javier,Hospital,1,0,10.2,3,1,1
+Ocasional,6,bajo,Tarde,Poblado,Cisneros,0,0,4.0,0,0,7
+Turista,3,medio,Tarde,Madera,Floresta,1,0,13.0,3,1,1
+Ocasional,1,bajo,Tarde,Envigado,Prado,1,0,5.1,2,1,5
+Turista,9,medio,Tarde,Acevedo,Envigado,1,0,10.5,3,1,0
+Turista,9,medio,Tarde,Aguacatala,Tricentenario,1,0,11.3,1,1,2
+Frecuente,39,bajo,Hora Pico,Prado,Universidad,1,0,3.1,1,0,2
+Turista,5,medio,Tarde,Floresta,Alpujarra,1,0,10.5,1,0,7
+Premium,6,alto,Flexible,San Javier,Suramericana,0,1,3.5,2,1,7
+Turista,12,medio,Tarde,Floresta,Envigado,1,0,14.9,0,0,2
+Premium,17,alto,Flexible,Envigado,Universidad,0,1,8.0,0,1,8
+Ocasional,3,bajo,Tarde,Cisneros,San Javier,1,0,3.5,0,1,2
+Ocasional,7,bajo,Noche,Poblado,Bello,0,0,5.7,2,1,5
+Ocasional,6,bajo,Mañana,Poblado,Exposiciones,1,0,12.0,3,1,2
+Turista,15,medio,Tarde,Alpujarra,Itagui,1,0,13.3,1,1,0
+Frecuente,43,bajo,Hora Pico,Exposiciones,Envigado,1,0,8.9,1,1,2
+Frecuente,40,bajo,Fuera de Hora Pico,Alpujarra,Bello,1,0,12.7,0,1,4
+Ocasional,8,bajo,Noche,Cisneros,Universidad,1,0,12.9,3,1,8
+Frecuente,60,bajo,Fuera de Hora Pico,Acevedo,Suramericana,1,0,3.7,0,1,6
+Turista,8,medio,Tarde,Envigado,Parque Berrio,1,0,9.2,1,1,3
+Ocasional,1,bajo,Tarde,Bello,Prado,1,0,11.4,2,1,6
+Ocasional,8,bajo,Mañana,Prado,Sabaneta,1,0,13.3,1,1,0
+Premium,14,alto,Flexible,La Estrella,San Antonio,0,1,12.0,1,0,7
+Ocasional,3,bajo,Tarde,Caribe,Aguacatala,0,0,8.1,2,0,3
+Ocasional,1,bajo,Tarde,Acevedo,La Estrella,0,0,9.5,2,1,5
+Premium,20,alto,Flexible,Envigado,Parque Berrio,0,1,5.2,2,0,2
+Frecuente,52,bajo,Fuera de Hora Pico,Suramericana,Niquia,1,0,8.3,2,1,2
+Ocasional,6,bajo,Noche,Envigado,Alpujarra,0,0,3.9,2,1,1
+Frecuente,41,bajo,Hora Pico,Prado,Aguacatala,1,0,4.0,3,1,7
+Premium,5,alto,Flexible,Universidad,La Estrella,0,1,12.0,0,1,4
+Ocasional,1,bajo,Tarde,Cisneros,Parque Berrio,0,0,4.2,0,1,0
+Turista,7,medio,Tarde,La Estrella,Bello,1,0,14.7,2,0,6
+Frecuente,33,bajo,Hora Pico,Aguacatala,Industriales,1,0,11.4,1,1,6
+Premium,19,alto,Flexible,Cisneros,Sabaneta,1,1,5.4,1,1,2
+Frecuente,58,bajo,Hora Pico,Exposiciones,Bello,1,0,7.4,1,1,0
+Turista,4,medio,Tarde,Tricentenario,San Antonio,1,0,13.0,0,0,3
+Premium,24,alto,Flexible,La Estrella,San Antonio,0,1,9.4,0,1,6
+Turista,12,medio,Tarde,Parque Berrio,Universidad,1,0,8.2,1,1,5
+Frecuente,25,bajo,Fuera de Hora Pico,Floresta,San Antonio,1,0,11.3,2,1,6
+Ocasional,6,bajo,Mañana,Acevedo,San Antonio,1,0,7.6,1,1,1
+Turista,12,medio,Tarde,Envigado,Sabaneta,1,0,8.7,3,1,3
+Ocasional,3,bajo,Mañana,Prado,Tricentenario,0,0,12.7,1,0,3
+Frecuente,26,bajo,Fuera de Hora Pico,Niquia,Suramericana,1,0,4.7,0,1,2
+Turista,3,medio,Tarde,Prado,Niquia,1,0,3.3,2,0,8
+Turista,9,medio,Tarde,Industriales,Envigado,1,0,6.6,0,1,2
+Turista,3,medio,Tarde,Floresta,Caribe,1,0,8.6,3,1,6
+Turista,6,medio,Tarde,Industriales,Envigado,1,0,3.3,1,1,7
+Frecuente,53,bajo,Hora Pico,Cisneros,Envigado,1,0,12.3,1,0,0
+Turista,3,medio,Tarde,Madera,La Estrella,1,0,12.6,1,0,7
+Ocasional,8,bajo,Tarde,Ayura,Floresta,0,0,14.1,1,0,8
+Turista,6,medio,Tarde,Exposiciones,Aguacatala,1,0,9.3,1,1,1
+Turista,11,medio,Tarde,Itagui,Exposiciones,1,0,3.1,3,1,6
+Ocasional,3,bajo,Tarde,Parque Berrio,Estadio,0,0,13.4,2,0,4
+Turista,8,medio,Tarde,Ayura,Niquia,1,0,8.1,0,1,2
+Frecuente,60,bajo,Fuera de Hora Pico,Acevedo,Santa Lucia,1,0,10.3,3,1,7
+Ocasional,4,bajo,Mañana,Envigado,Bello,0,0,9.4,2,1,0
+Premium,13,alto,Flexible,Envigado,Sabaneta,1,1,3.5,2,1,8
+Frecuente,32,bajo,Fuera de Hora Pico,Industriales,Cisneros,1,0,6.8,3,1,7
+Frecuente,44,bajo,Hora Pico,Caribe,Acevedo,1,0,5.6,0,1,6
+Turista,7,medio,Tarde,Bello,Alpujarra,1,0,14.1,3,1,4
+Frecuente,60,bajo,Hora Pico,Ayura,Aguacatala,1,0,11.7,0,1,3
+Turista,11,medio,Tarde,Caribe,San Javier,1,0,12.3,1,1,2
+Turista,14,medio,Tarde,Ayura,Envigado,1,0,9.0,2,1,1
+Premium,15,alto,Flexible,Hospital,San Javier,0,1,11.8,1,1,4
+Frecuente,27,bajo,Fuera de Hora Pico,San Javier,San Antonio,1,0,7.7,1,0,4
+Premium,12,alto,Flexible,Aguacatala,Itagui,0,1,4.9,1,1,0
+Premium,25,alto,Flexible,Industriales,Tricentenario,1,1,3.4,2,1,7
+Premium,17,alto,Flexible,Estadio,Acevedo,0,1,7.0,3,0,6
+Frecuente,27,bajo,Fuera de Hora Pico,Ayura,Santa Lucia,1,0,6.8,3,1,2
+Premium,15,alto,Flexible,Prado,Alpujarra,0,1,9.7,3,1,2
+Frecuente,56,bajo,Hora Pico,Poblado,Caribe,1,0,4.6,3,1,4
+Ocasional,7,bajo,Noche,Acevedo,Alpujarra,0,0,14.9,2,0,8
+Frecuente,48,bajo,Hora Pico,Envigado,Industriales,1,0,11.1,1,1,2
+Frecuente,54,bajo,Fuera de Hora Pico,Tricentenario,Caribe,1,0,7.3,2,1,8
+Turista,5,medio,Tarde,Itagui,Industriales,1,0,13.7,0,0,5
+Turista,8,medio,Tarde,Aguacatala,Prado,1,0,10.7,0,1,4
+Frecuente,51,bajo,Hora Pico,Santa Lucia,Parque Berrio,1,0,13.0,1,1,7
+Frecuente,60,bajo,Fuera de Hora Pico,Niquia,San Javier,1,0,7.8,0,1,2
+Turista,9,medio,Tarde,Parque Berrio,Industriales,1,0,10.6,0,1,6
+Ocasional,5,bajo,Noche,Itagui,Madera,0,0,3.1,0,1,5
+Premium,14,alto,Flexible,Floresta,Hospital,1,1,3.5,0,1,8
+Premium,17,alto,Flexible,Floresta,Parque Berrio,1,1,13.3,1,1,0
+Premium,10,alto,Flexible,San Javier,Santa Lucia,1,1,9.6,3,1,3
+Ocasional,8,bajo,Mañana,Acevedo,Poblado,0,0,14.9,2,1,6
+Ocasional,1,bajo,Noche,Bello,San Javier,1,0,9.4,3,1,1
+Ocasional,8,bajo,Mañana,San Javier,Prado,0,0,3.0,1,1,0
+Turista,7,medio,Tarde,Caribe,Tricentenario,1,0,14.7,3,1,4
+Frecuente,39,bajo,Fuera de Hora Pico,Estadio,San Javier,1,0,8.0,1,1,5
+Ocasional,6,bajo,Mañana,Aguacatala,Ayura,1,0,11.1,2,0,6
+Ocasional,3,bajo,Noche,Santa Lucia,Itagui,1,0,13.5,1,1,8
+Turista,8,medio,Tarde,Alpujarra,La Estrella,1,0,10.7,3,1,2
+Ocasional,5,bajo,Noche,San Javier,Alpujarra,0,0,13.6,1,1,8
+Frecuente,34,bajo,Hora Pico,Suramericana,Acevedo,1,0,7.8,2,1,0
+Frecuente,60,bajo,Hora Pico,Sabaneta,Aguacatala,1,0,8.5,2,0,4
+Frecuente,34,bajo,Hora Pico,Itagui,Floresta,1,0,6.7,3,1,7
+Premium,6,alto,Flexible,Poblado,Tricentenario,1,1,6.1,3,1,7
+Frecuente,52,bajo,Hora Pico,San Javier,Suramericana,1,0,6.5,0,1,1
+Ocasional,1,bajo,Noche,Envigado,Parque Berrio,1,0,6.5,1,1,2
+Frecuente,24,bajo,Fuera de Hora Pico,La Estrella,Prado,1,0,4.6,1,1,6
+Premium,21,alto,Flexible,Estadio,Bello,1,1,14.6,1,0,1
+Ocasional,6,bajo,Noche,Aguacatala,Sabaneta,1,0,9.9,0,1,8
+Premium,12,alto,Flexible,Exposiciones,Alpujarra,1,1,14.5,1,1,3
+Premium,11,alto,Flexible,Bello,Floresta,1,1,13.4,0,1,0
+Turista,13,medio,Tarde,Universidad,Madera,1,0,14.3,1,1,4
+Frecuente,40,bajo,Fuera de Hora Pico,Envigado,Estadio,1,0,12.4,2,1,0
+Turista,6,medio,Tarde,Santa Lucia,Estadio,1,0,13.0,1,1,1
+Ocasional,2,bajo,Mañana,Parque Berrio,San Javier,1,0,4.8,0,1,4
+Turista,11,medio,Tarde,Ayura,Sabaneta,1,0,5.6,3,1,7
+Ocasional,8,bajo,Mañana,Niquia,Aguacatala,1,0,3.3,2,1,0
+Turista,5,medio,Tarde,Exposiciones,Santa Lucia,1,0,5.6,3,1,4
+Frecuente,28,bajo,Fuera de Hora Pico,San Antonio,Aguacatala,1,0,4.8,3,1,0
+Premium,20,alto,Flexible,Ayura,La Estrella,1,1,15.0,1,1,8
+Turista,10,medio,Tarde,San Javier,San Antonio,1,0,5.0,1,1,6
+Frecuente,44,bajo,Hora Pico,Suramericana,Ayura,1,0,6.6,2,0,8
+Frecuente,52,bajo,Fuera de Hora Pico,Poblado,Floresta,1,0,13.7,1,1,6
+Frecuente,58,bajo,Hora Pico,Acevedo,Poblado,1,0,12.6,2,0,5
+Frecuente,50,bajo,Fuera de Hora Pico,Poblado,Cisneros,1,0,9.5,3,1,5
+Premium,12,alto,Flexible,Madera,San Javier,0,1,8.4,1,0,3
+Premium,20,alto,Flexible,Madera,La Estrella,1,1,13.0,0,1,6
+Premium,25,alto,Flexible,Acevedo,Cisneros,0,1,3.2,0,1,2
+Turista,11,medio,Tarde,Industriales,Parque Berrio,1,0,11.0,2,1,8
+Turista,3,medio,Tarde,Estadio,Niquia,1,0,7.2,1,1,3
+Ocasional,7,bajo,Mañana,Sabaneta,Floresta,0,0,3.0,1,1,6
+Frecuente,30,bajo,Fuera de Hora Pico,La Estrella,Itagui,1,0,13.9,1,1,7
+Premium,17,alto,Flexible,Exposiciones,Envigado,0,1,11.1,3,1,1
+Ocasional,6,bajo,Mañana,Estadio,Cisneros,1,0,5.5,3,0,0
+Turista,8,medio,Tarde,Poblado,La Estrella,1,0,5.3,0,1,4
+Premium,25,alto,Flexible,Itagui,Floresta,0,1,9.8,2,1,6
+Frecuente,60,bajo,Fuera de Hora Pico,San Javier,Universidad,1,0,9.6,0,1,2
+Turista,10,medio,Tarde,San Javier,Madera,1,0,13.1,3,1,3
+Turista,11,medio,Tarde,San Antonio,Niquia,1,0,10.8,0,1,1
+Frecuente,42,bajo,Hora Pico,La Estrella,Acevedo,1,0,12.5,1,0,8
+Turista,10,medio,Tarde,Tricentenario,Niquia,1,0,8.7,0,0,5
+Turista,9,medio,Tarde,Madera,La Estrella,1,0,7.9,3,1,6
+Ocasional,2,bajo,Noche,Bello,Floresta,1,0,6.2,2,1,1
+Ocasional,3,bajo,Tarde,San Antonio,Aguacatala,1,0,7.5,2,1,6
+Turista,8,medio,Tarde,Floresta,Poblado,1,0,13.6,1,1,7
+Turista,7,medio,Tarde,Madera,Suramericana,1,0,3.7,0,1,5
+Ocasional,3,bajo,Mañana,Bello,La Estrella,0,0,12.4,3,1,2
+Ocasional,5,bajo,Noche,La Estrella,Niquia,1,0,13.4,0,1,5
+Frecuente,49,bajo,Hora Pico,Cisneros,Suramericana,1,0,3.2,1,1,4
+Frecuente,54,bajo,Hora Pico,Aguacatala,Floresta,1,0,9.3,3,0,3
+Ocasional,7,bajo,Mañana,Bello,Ayura,1,0,4.3,0,1,1
+Turista,12,medio,Tarde,Bello,Prado,1,0,8.2,3,0,0
+Premium,8,alto,Flexible,San Javier,Itagui,1,1,10.7,3,1,6
+Frecuente,26,bajo,Fuera de Hora Pico,Industriales,Aguacatala,1,0,3.4,3,1,8
+Turista,7,medio,Tarde,Sabaneta,Industriales,1,0,12.9,1,0,8
+Frecuente,21,bajo,Fuera de Hora Pico,Envigado,Ayura,1,0,6.7,3,1,8
+Frecuente,36,bajo,Hora Pico,Poblado,Alpujarra,1,0,10.5,3,1,6
+Frecuente,48,bajo,Fuera de Hora Pico,Ayura,Caribe,1,0,14.3,1,0,0
+Turista,4,medio,Tarde,San Antonio,Prado,1,0,8.9,2,1,5
+Ocasional,2,bajo,Mañana,Exposiciones,Aguacatala,0,0,13.3,0,0,5
+Turista,10,medio,Tarde,Estadio,Floresta,1,0,9.3,0,0,8
+Frecuente,54,bajo,Hora Pico,Parque Berrio,Suramericana,1,0,13.0,2,1,1
+Frecuente,48,bajo,Hora Pico,Industriales,Cisneros,1,0,6.9,2,1,2
+Frecuente,26,bajo,Fuera de Hora Pico,Itagui,Industriales,1,0,10.7,3,1,1
+Frecuente,27,bajo,Hora Pico,Alpujarra,Acevedo,1,0,9.2,0,1,6
+Ocasional,1,bajo,Tarde,Sabaneta,Bello,1,0,6.6,2,0,4
+Ocasional,6,bajo,Noche,San Antonio,Acevedo,0,0,10.3,1,1,2
+Turista,11,medio,Tarde,Itagui,Madera,1,0,15.0,0,1,2
+Turista,15,medio,Tarde,Cisneros,Envigado,1,0,10.2,0,1,6
+Ocasional,7,bajo,Noche,Cisneros,Parque Berrio,0,0,6.7,0,1,6
+Turista,4,medio,Tarde,Acevedo,Ayura,1,0,12.1,1,1,4
+Frecuente,20,bajo,Fuera de Hora Pico,Aguacatala,Bello,1,0,9.7,0,1,8
+Premium,22,alto,Flexible,San Javier,Niquia,1,1,6.1,3,1,5
+Turista,5,medio,Tarde,Parque Berrio,Niquia,1,0,3.4,0,0,5
+Ocasional,7,bajo,Mañana,Alpujarra,Sabaneta,1,0,9.7,3,0,2
+Premium,24,alto,Flexible,Industriales,Prado,1,1,10.7,0,1,5
+Frecuente,31,bajo,Fuera de Hora Pico,Madera,La Estrella,1,0,9.9,0,0,6
+Frecuente,33,bajo,Fuera de Hora Pico,Sabaneta,Tricentenario,1,0,14.8,3,1,7
+Turista,3,medio,Tarde,Envigado,San Antonio,1,0,9.9,1,1,2
+Frecuente,59,bajo,Fuera de Hora Pico,Floresta,Alpujarra,1,0,6.2,2,0,2
+Ocasional,4,bajo,Noche,Acevedo,Tricentenario,0,0,6.8,2,1,4
+Ocasional,6,bajo,Mañana,Sabaneta,Envigado,0,0,12.2,2,1,3
+Frecuente,33,bajo,Fuera de Hora Pico,Alpujarra,Niquia,1,0,9.1,1,1,3
+Ocasional,8,bajo,Tarde,Cisneros,San Antonio,0,0,4.8,1,0,3
+Premium,9,alto,Flexible,Itagui,Alpujarra,0,1,12.6,3,1,6
+Premium,18,alto,Flexible,Aguacatala,Universidad,0,1,13.6,2,0,6
+Premium,15,alto,Flexible,Parque Berrio,Cisneros,0,1,9.2,2,0,8
+Frecuente,53,bajo,Fuera de Hora Pico,Caribe,Exposiciones,1,0,11.8,3,1,3
+Turista,3,medio,Tarde,Estadio,Industriales,1,0,13.5,1,1,5
+Turista,14,medio,Tarde,Universidad,Industriales,1,0,3.2,0,1,8
+Frecuente,28,bajo,Fuera de Hora Pico,Tricentenario,Suramericana,1,0,5.4,0,1,7
+Premium,5,alto,Flexible,Alpujarra,Universidad,0,1,13.2,3,1,3
+Premium,8,alto,Flexible,Aguacatala,San Antonio,1,1,12.1,3,0,7
+Ocasional,4,bajo,Tarde,Niquia,Envigado,1,0,3.4,2,0,2
+Ocasional,3,bajo,Noche,La Estrella,Cisneros,0,0,12.3,3,1,5
+Turista,14,medio,Tarde,Floresta,Alpujarra,1,0,13.1,3,1,6
+Premium,14,alto,Flexible,Caribe,San Javier,0,1,6.9,3,0,2
+Frecuente,20,bajo,Hora Pico,Suramericana,Prado,1,0,12.3,2,1,2
+Turista,4,medio,Tarde,Universidad,Envigado,1,0,3.7,0,1,6
+Ocasional,7,bajo,Noche,Sabaneta,La Estrella,0,0,6.2,0,0,6
+Frecuente,53,bajo,Hora Pico,Sabaneta,Tricentenario,1,0,3.8,1,1,8
+Turista,3,medio,Tarde,Parque Berrio,Floresta,1,0,5.2,2,1,1
+Ocasional,4,bajo,Tarde,La Estrella,Niquia,0,0,7.3,2,1,6
+Frecuente,40,bajo,Hora Pico,San Javier,Itagui,1,0,7.6,2,0,3
+Premium,10,alto,Flexible,Estadio,Niquia,1,1,9.3,0,1,0
+Turista,4,medio,Tarde,Parque Berrio,La Estrella,1,0,11.9,1,1,0
+Frecuente,46,bajo,Hora Pico,Ayura,San Javier,1,0,7.0,2,0,4
+Frecuente,51,bajo,Hora Pico,Estadio,Acevedo,1,0,13.1,1,1,7
+Turista,9,medio,Tarde,Universidad,Itagui,1,0,12.4,1,1,1
+Ocasional,1,bajo,Tarde,Ayura,Parque Berrio,0,0,11.4,0,1,7
+Turista,8,medio,Tarde,Estadio,Exposiciones,1,0,9.2,2,0,8
+Ocasional,1,bajo,Mañana,Prado,Aguacatala,1,0,5.0,0,1,3
+Ocasional,2,bajo,Mañana,Alpujarra,La Estrella,1,0,11.3,2,1,3
+Ocasional,3,bajo,Noche,Acevedo,Caribe,0,0,3.9,0,1,0
+Premium,10,alto,Flexible,Aguacatala,San Antonio,0,1,9.3,0,1,8
+Premium,24,alto,Flexible,Industriales,Universidad,0,1,3.3,2,0,5
+Frecuente,49,bajo,Hora Pico,Exposiciones,Madera,1,0,9.6,0,0,5
+Frecuente,26,bajo,Hora Pico,Niquia,Acevedo,1,0,8.5,1,1,1
+Frecuente,45,bajo,Hora Pico,Tricentenario,Hospital,1,0,9.5,0,0,7
+Ocasional,3,bajo,Mañana,Cisneros,Sabaneta,0,0,6.7,0,1,4
+Turista,12,medio,Tarde,Exposiciones,Madera,1,0,13.4,1,1,0
+Turista,10,medio,Tarde,Tricentenario,Ayura,1,0,4.9,2,1,8
+Ocasional,7,bajo,Noche,Santa Lucia,San Javier,0,0,13.6,2,0,3
+Premium,5,alto,Flexible,Santa Lucia,Caribe,1,1,8.1,2,1,0
+Premium,23,alto,Flexible,Acevedo,Ayura,1,1,5.9,2,1,5
+Ocasional,4,bajo,Mañana,Niquia,Sabaneta,0,0,7.7,1,0,2
+Premium,5,alto,Flexible,Madera,San Javier,1,1,13.1,2,1,6
+Turista,8,medio,Tarde,Hospital,Prado,1,0,9.8,1,1,3
+Premium,20,alto,Flexible,Hospital,La Estrella,0,1,4.2,2,1,0
+Ocasional,1,bajo,Noche,Acevedo,Industriales,1,0,4.7,3,1,0
+Ocasional,5,bajo,Tarde,La Estrella,Acevedo,0,0,6.2,2,0,0
+Frecuente,56,bajo,Fuera de Hora Pico,Estadio,La Estrella,1,0,13.8,2,1,5
+Premium,17,alto,Flexible,Bello,Tricentenario,0,1,9.0,0,0,2
+Ocasional,2,bajo,Tarde,Acevedo,La Estrella,1,0,9.3,0,1,0
+Ocasional,8,bajo,Tarde,Poblado,San Antonio,0,0,4.4,1,1,7
+Turista,13,medio,Tarde,Alpujarra,Cisneros,1,0,3.3,3,0,6
+Frecuente,29,bajo,Fuera de Hora Pico,Universidad,Estadio,1,0,10.2,3,1,8
+Turista,15,medio,Tarde,Caribe,Niquia,1,0,4.7,0,0,8
+Turista,4,medio,Tarde,Niquia,Prado,1,0,7.6,2,0,7
+Turista,15,medio,Tarde,Parque Berrio,Madera,1,0,6.0,1,1,7
+Ocasional,8,bajo,Tarde,Universidad,Madera,1,0,13.4,2,1,5
+Ocasional,1,bajo,Mañana,La Estrella,Sabaneta,0,0,13.8,3,1,5
+Premium,20,alto,Flexible,Industriales,Prado,1,1,4.6,3,1,4
+Frecuente,46,bajo,Hora Pico,Bello,Cisneros,1,0,10.3,1,0,0
+Ocasional,5,bajo,Noche,San Javier,Parque Berrio,1,0,8.3,1,1,6
+Ocasional,8,bajo,Tarde,Aguacatala,Bello,0,0,12.4,0,0,5
+Frecuente,41,bajo,Fuera de Hora Pico,Universidad,Santa Lucia,1,0,10.9,1,0,1
+Turista,9,medio,Tarde,Caribe,Universidad,1,0,9.6,2,0,1
+Turista,8,medio,Tarde,Prado,Santa Lucia,1,0,3.4,3,0,7
+Ocasional,6,bajo,Noche,Envigado,Caribe,1,0,9.6,3,0,3
+Frecuente,59,bajo,Fuera de Hora Pico,Sabaneta,San Javier,1,0,13.8,0,1,8
+Frecuente,57,bajo,Fuera de Hora Pico,La Estrella,Santa Lucia,1,0,14.7,3,1,2
+Ocasional,7,bajo,Tarde,Prado,Estadio,1,0,7.9,3,1,7
+Premium,17,alto,Flexible,Bello,Itagui,1,1,6.1,2,0,1
+Premium,12,alto,Flexible,Poblado,Niquia,1,1,13.6,1,1,1
+Ocasional,3,bajo,Noche,La Estrella,San Antonio,1,0,12.2,0,0,8
+Frecuente,40,bajo,Fuera de Hora Pico,Tricentenario,Niquia,1,0,6.0,3,1,1
+Ocasional,1,bajo,Tarde,Ayura,Universidad,0,0,12.7,0,1,5
+Frecuente,20,bajo,Fuera de Hora Pico,Aguacatala,Hospital,1,0,13.7,1,1,3
+Premium,5,alto,Flexible,La Estrella,Aguacatala,1,1,8.6,3,1,1
+Ocasional,1,bajo,Tarde,Aguacatala,Acevedo,0,0,9.9,0,1,7
+Premium,14,alto,Flexible,Niquia,Poblado,1,1,10.1,0,1,3
+Turista,15,medio,Tarde,Industriales,Ayura,1,0,5.5,2,0,5
+Premium,18,alto,Flexible,Sabaneta,San Antonio,1,1,10.2,3,1,6
+Frecuente,46,bajo,Hora Pico,Caribe,Floresta,1,0,8.7,1,1,3
+Turista,15,medio,Tarde,Bello,Hospital,1,0,11.1,0,1,0
+Premium,18,alto,Flexible,San Javier,Cisneros,1,1,14.7,2,0,3
+Premium,11,alto,Flexible,Exposiciones,Envigado,1,1,10.8,1,0,8
+Turista,9,medio,Tarde,Suramericana,Santa Lucia,1,0,9.6,3,0,5
+Ocasional,2,bajo,Tarde,Caribe,Santa Lucia,0,0,6.2,1,1,3
+Turista,7,medio,Tarde,Floresta,San Javier,1,0,5.6,1,1,1
+Frecuente,24,bajo,Fuera de Hora Pico,Universidad,San Antonio,1,0,3.9,2,1,7
+Ocasional,7,bajo,Noche,Industriales,Acevedo,0,0,3.8,2,1,2
+Ocasional,8,bajo,Mañana,Poblado,Itagui,1,0,8.8,1,1,4
+Ocasional,5,bajo,Tarde,Suramericana,Industriales,1,0,13.4,3,1,3
+Ocasional,2,bajo,Tarde,Itagui,Caribe,1,0,7.9,1,1,0
+Ocasional,5,bajo,Mañana,Bello,Tricentenario,0,0,6.6,2,1,1
+Turista,8,medio,Tarde,Industriales,Niquia,1,0,9.2,0,1,4
+Ocasional,1,bajo,Noche,Parque Berrio,San Antonio,0,0,14.4,1,1,2
+Turista,4,medio,Tarde,Poblado,Universidad,1,0,6.1,3,0,8
+Turista,6,medio,Tarde,Estadio,Cisneros,1,0,8.2,1,0,3
+Ocasional,2,bajo,Mañana,Tricentenario,Suramericana,1,0,4.8,1,1,0
+Premium,15,alto,Flexible,Niquia,Suramericana,0,1,13.8,1,0,1
+Ocasional,7,bajo,Tarde,Industriales,Prado,1,0,10.0,3,0,6
+Ocasional,4,bajo,Mañana,La Estrella,Tricentenario,1,0,13.7,1,1,8
+Ocasional,2,bajo,Tarde,Universidad,Santa Lucia,1,0,10.0,2,1,8
+Frecuente,22,bajo,Hora Pico,Madera,Hospital,1,0,7.8,0,1,3
+Frecuente,52,bajo,Fuera de Hora Pico,Madera,Estadio,1,0,8.7,3,1,2
+Turista,7,medio,Tarde,Sabaneta,Niquia,1,0,8.7,3,1,4
+Ocasional,1,bajo,Tarde,Hospital,Sabaneta,0,0,4.1,3,1,2
+Frecuente,48,bajo,Hora Pico,Sabaneta,San Javier,1,0,9.5,1,1,0
+Frecuente,31,bajo,Fuera de Hora Pico,La Estrella,Ayura,1,0,4.2,3,1,3
+Premium,12,alto,Flexible,Hospital,Suramericana,0,1,5.1,3,0,4
+Turista,4,medio,Tarde,San Javier,Madera,1,0,7.1,1,0,0
+Turista,10,medio,Tarde,Envigado,Niquia,1,0,3.8,2,1,0
+Ocasional,5,bajo,Noche,Tricentenario,Itagui,0,0,13.6,0,0,7
+Ocasional,3,bajo,Mañana,Estadio,Industriales,0,0,4.5,3,1,5
+Turista,5,medio,Tarde,Universidad,Aguacatala,1,0,9.5,3,1,7
+Frecuente,28,bajo,Fuera de Hora Pico,Poblado,Industriales,1,0,3.3,3,1,3
+Premium,25,alto,Flexible,Industriales,Itagui,0,1,9.8,0,1,7
+Premium,7,alto,Flexible,La Estrella,Hospital,1,1,14.5,3,1,3
+Frecuente,50,bajo,Fuera de Hora Pico,Industriales,Suramericana,1,0,4.0,2,1,5
+Turista,10,medio,Tarde,Aguacatala,Floresta,1,0,9.0,2,1,4
+Premium,21,alto,Flexible,Madera,Itagui,1,1,14.7,1,1,4
+Frecuente,32,bajo,Fuera de Hora Pico,Bello,San Antonio,1,0,4.6,2,1,2
+Premium,17,alto,Flexible,Tricentenario,Acevedo,0,1,14.8,1,1,8
+Ocasional,7,bajo,Mañana,Hospital,Aguacatala,0,0,11.6,1,1,4
+Ocasional,4,bajo,Noche,Parque Berrio,Universidad,0,0,8.9,0,1,6
+Ocasional,7,bajo,Tarde,Acevedo,Niquia,1,0,9.3,0,1,7
+Ocasional,8,bajo,Noche,Sabaneta,Cisneros,0,0,5.5,0,0,4
+Ocasional,3,bajo,Noche,Suramericana,Alpujarra,1,0,10.1,1,1,0
+Ocasional,7,bajo,Tarde,Alpujarra,Exposiciones,1,0,6.8,2,1,3
+Frecuente,55,bajo,Hora Pico,Niquia,Santa Lucia,1,0,13.9,3,1,0
+Premium,17,alto,Flexible,San Antonio,Ayura,1,1,5.5,2,0,6
+Ocasional,1,bajo,Noche,Exposiciones,Acevedo,1,0,7.9,0,1,3
+Ocasional,8,bajo,Tarde,Niquia,Cisneros,1,0,11.3,2,0,5
+Turista,12,medio,Tarde,Poblado,Floresta,1,0,10.1,0,0,3
+Turista,12,medio,Tarde,Poblado,San Antonio,1,0,8.5,2,0,0
+Turista,11,medio,Tarde,Universidad,Parque Berrio,1,0,12.3,1,1,5
+Frecuente,35,bajo,Hora Pico,Cisneros,La Estrella,1,0,6.7,3,1,6
+Ocasional,2,bajo,Noche,Estadio,San Antonio,1,0,9.2,0,0,4
+Ocasional,4,bajo,Tarde,Parque Berrio,Envigado,0,0,8.3,2,0,6
+Ocasional,4,bajo,Tarde,Caribe,Universidad,0,0,10.9,1,1,4
+Premium,11,alto,Flexible,Madera,Cisneros,0,1,5.4,2,1,7
+Ocasional,1,bajo,Tarde,San Antonio,Industriales,0,0,7.6,3,0,3
+Ocasional,7,bajo,Noche,Industriales,Alpujarra,0,0,8.4,1,1,1
+Premium,8,alto,Flexible,Acevedo,Prado,1,1,7.8,3,1,6
+Turista,12,medio,Tarde,Alpujarra,Cisneros,1,0,10.0,1,1,2
+Premium,24,alto,Flexible,Universidad,Aguacatala,1,1,4.0,3,1,5
+Turista,12,medio,Tarde,Acevedo,Cisneros,1,0,4.6,2,1,0
+Frecuente,54,bajo,Fuera de Hora Pico,Parque Berrio,Universidad,1,0,9.7,1,1,7
+Turista,12,medio,Tarde,Prado,Acevedo,1,0,5.8,3,1,4
+Turista,11,medio,Tarde,Sabaneta,Itagui,1,0,7.7,0,1,7
+Turista,6,medio,Tarde,Itagui,Madera,1,0,14.8,2,0,3
+Premium,23,alto,Flexible,Sabaneta,Bello,1,1,11.2,2,0,4
+Frecuente,49,bajo,Hora Pico,Poblado,Tricentenario,1,0,7.3,2,1,2
+Turista,11,medio,Tarde,Industriales,Madera,1,0,3.7,2,0,2
+Turista,7,medio,Tarde,Bello,Aguacatala,1,0,6.8,0,1,3
+Ocasional,5,bajo,Tarde,Hospital,Aguacatala,0,0,9.6,0,0,6
+Ocasional,1,bajo,Noche,Envigado,Aguacatala,1,0,8.8,0,1,7
+Premium,5,alto,Flexible,Itagui,San Javier,0,1,11.1,1,1,2
+Premium,17,alto,Flexible,Santa Lucia,Suramericana,1,1,6.7,3,1,1
+Turista,15,medio,Tarde,Aguacatala,Madera,1,0,9.2,1,1,7
+Turista,4,medio,Tarde,Exposiciones,Hospital,1,0,12.5,3,0,8
+Ocasional,4,bajo,Mañana,Tricentenario,Estadio,0,0,12.6,1,1,8
+Turista,7,medio,Tarde,Niquia,La Estrella,1,0,6.0,3,1,4
+Turista,10,medio,Tarde,Niquia,Suramericana,1,0,6.8,3,0,3
+Premium,23,alto,Flexible,Acevedo,Caribe,1,1,4.3,3,1,0
+Ocasional,2,bajo,Noche,Ayura,La Estrella,0,0,6.0,2,1,2
+Ocasional,1,bajo,Noche,Cisneros,Niquia,0,0,7.3,3,1,4
+Premium,17,alto,Flexible,Sabaneta,Bello,1,1,3.5,0,1,3
+Frecuente,25,bajo,Fuera de Hora Pico,Tricentenario,Cisneros,1,0,6.6,2,1,1
+Premium,25,alto,Flexible,Ayura,Floresta,1,1,6.2,1,1,8
+Turista,4,medio,Tarde,La Estrella,Cisneros,1,0,5.1,3,1,3
+Frecuente,34,bajo,Hora Pico,Cisneros,San Antonio,1,0,8.2,2,1,0
+Ocasional,5,bajo,Tarde,Poblado,Exposiciones,1,0,14.6,0,1,2
+Premium,6,alto,Flexible,Madera,Niquia,1,1,5.6,2,0,7
+Frecuente,31,bajo,Fuera de Hora Pico,Alpujarra,Tricentenario,1,0,5.5,3,1,5
+Premium,18,alto,Flexible,Cisneros,San Javier,0,1,12.6,1,1,8
+Premium,18,alto,Flexible,Industriales,Prado,0,1,6.6,0,0,8
+Frecuente,52,bajo,Hora Pico,Parque Berrio,Santa Lucia,1,0,5.5,2,1,5
+Premium,10,alto,Flexible,Tricentenario,Itagui,1,1,11.0,3,1,0
+Turista,14,medio,Tarde,Ayura,Madera,1,0,13.0,1,1,8
+Premium,19,alto,Flexible,Hospital,Estadio,0,1,12.2,0,1,4
+Ocasional,6,bajo,Mañana,Santa Lucia,Envigado,1,0,13.6,1,1,0
+Premium,15,alto,Flexible,Santa Lucia,Alpujarra,1,1,3.9,0,1,0
+Turista,4,medio,Tarde,Acevedo,La Estrella,1,0,14.4,2,1,7
+Frecuente,60,bajo,Fuera de Hora Pico,Tricentenario,Alpujarra,1,0,5.9,0,0,5
+Premium,17,alto,Flexible,Estadio,Sabaneta,0,1,12.4,2,1,2
+Ocasional,6,bajo,Tarde,Bello,Sabaneta,0,0,14.9,1,0,5
+Ocasional,8,bajo,Noche,Hospital,Niquia,1,0,13.6,2,1,0
+Ocasional,4,bajo,Tarde,Caribe,Estadio,0,0,10.5,3,0,5
+Premium,16,alto,Flexible,Cisneros,Tricentenario,1,1,13.7,2,1,5
+Turista,15,medio,Tarde,Alpujarra,Estadio,1,0,14.1,1,1,3
+Frecuente,58,bajo,Fuera de Hora Pico,Universidad,Madera,1,0,3.4,2,0,8
+Premium,19,alto,Flexible,Suramericana,Ayura,0,1,14.3,0,1,5
+Turista,5,medio,Tarde,Floresta,Ayura,1,0,5.9,3,1,0
+Ocasional,7,bajo,Tarde,Exposiciones,Suramericana,1,0,12.5,0,1,4
+Premium,18,alto,Flexible,San Javier,Estadio,1,1,7.5,3,0,3
+Frecuente,48,bajo,Hora Pico,Envigado,Cisneros,1,0,10.7,3,1,7
+Premium,6,alto,Flexible,Bello,Ayura,0,1,7.1,1,0,6
+Ocasional,8,bajo,Tarde,Itagui,Niquia,0,0,10.6,2,1,4
+Turista,10,medio,Tarde,Universidad,La Estrella,1,0,5.0,1,0,4
+Premium,5,alto,Flexible,La Estrella,Acevedo,0,1,9.9,0,1,0
+Ocasional,2,bajo,Mañana,Estadio,Universidad,0,0,12.1,3,1,1
+Turista,12,medio,Tarde,Suramericana,La Estrella,1,0,6.0,1,1,1
+Turista,9,medio,Tarde,San Javier,Industriales,1,0,6.3,0,1,7
+Frecuente,42,bajo,Hora Pico,Poblado,San Antonio,1,0,8.0,1,1,0
+Frecuente,26,bajo,Hora Pico,Niquia,San Javier,1,0,3.1,3,0,8
+Frecuente,31,bajo,Hora Pico,San Antonio,Caribe,1,0,14.9,0,0,7
+Premium,7,alto,Flexible,Santa Lucia,Floresta,1,1,6.2,0,1,0
+Premium,9,alto,Flexible,Exposiciones,Ayura,0,1,4.7,1,1,4
+Turista,14,medio,Tarde,Prado,Parque Berrio,1,0,8.7,0,1,6
+Ocasional,7,bajo,Tarde,Aguacatala,Poblado,0,0,9.3,1,0,1
+Ocasional,1,bajo,Mañana,Caribe,Cisneros,1,0,10.3,2,1,8
+Ocasional,2,bajo,Noche,Poblado,Bello,0,0,11.8,3,0,6
+Premium,22,alto,Flexible,Estadio,Alpujarra,1,1,8.4,0,1,3
+Turista,13,medio,Tarde,Poblado,Estadio,1,0,6.8,2,1,1
+Ocasional,4,bajo,Noche,Ayura,Parque Berrio,1,0,9.5,3,1,3
+Ocasional,1,bajo,Tarde,Cisneros,Universidad,1,0,5.3,1,0,8
+Frecuente,21,bajo,Fuera de Hora Pico,Bello,Niquia,1,0,3.3,3,1,7
+Premium,15,alto,Flexible,Alpujarra,Universidad,1,1,12.7,3,1,1
+Turista,6,medio,Tarde,Ayura,Tricentenario,1,0,7.1,0,1,2
+Frecuente,23,bajo,Hora Pico,Cisneros,Suramericana,1,0,7.2,1,0,2
+Turista,6,medio,Tarde,San Javier,Hospital,1,0,13.4,0,1,4
+Ocasional,7,bajo,Noche,Acevedo,Universidad,0,0,12.3,0,1,3
+Ocasional,7,bajo,Tarde,Aguacatala,Tricentenario,1,0,4.1,1,1,6
+Ocasional,1,bajo,Noche,San Javier,Poblado,0,0,15.0,3,1,5
+Frecuente,25,bajo,Fuera de Hora Pico,Tricentenario,Poblado,1,0,8.8,3,0,0
+Turista,15,medio,Tarde,Niquia,Industriales,1,0,9.4,3,0,4
+Ocasional,5,bajo,Tarde,Alpujarra,La Estrella,0,0,13.1,3,1,5
+Frecuente,60,bajo,Fuera de Hora Pico,Parque Berrio,Caribe,1,0,7.1,2,1,6
+Turista,14,medio,Tarde,Aguacatala,Cisneros,1,0,12.0,2,0,6
+Ocasional,4,bajo,Noche,San Javier,La Estrella,0,0,6.0,3,1,0
+Ocasional,5,bajo,Noche,Sabaneta,Alpujarra,0,0,11.5,0,1,1
+Premium,25,alto,Flexible,Floresta,San Javier,1,1,10.6,1,0,0
+Premium,20,alto,Flexible,San Antonio,Floresta,0,1,10.1,0,1,5
+Premium,25,alto,Flexible,Suramericana,Estadio,0,1,9.1,2,0,2
+Ocasional,7,bajo,Mañana,San Antonio,Estadio,0,0,11.3,3,1,3
+Ocasional,1,bajo,Tarde,La Estrella,Ayura,0,0,5.6,1,0,3
+Turista,6,medio,Tarde,San Antonio,Poblado,1,0,9.3,3,1,3
+Premium,20,alto,Flexible,Santa Lucia,Prado,1,1,4.1,3,1,2
+Ocasional,8,bajo,Noche,Hospital,Niquia,1,0,10.4,2,1,2
+Frecuente,28,bajo,Fuera de Hora Pico,Ayura,Hospital,1,0,11.8,3,0,2
+Premium,8,alto,Flexible,Envigado,Floresta,0,1,10.1,2,1,8
+Frecuente,44,bajo,Hora Pico,Poblado,Ayura,1,0,13.9,1,0,2
+Premium,21,alto,Flexible,San Javier,Suramericana,0,1,14.4,3,1,6
+Frecuente,37,bajo,Hora Pico,Prado,Cisneros,1,0,4.3,3,1,4
+Premium,19,alto,Flexible,Santa Lucia,Caribe,1,1,13.2,1,1,6
+Premium,8,alto,Flexible,Madera,Ayura,0,1,7.4,3,0,5
+Frecuente,60,bajo,Fuera de Hora Pico,San Antonio,Prado,1,0,10.7,0,1,5
+Ocasional,1,bajo,Tarde,Prado,Santa Lucia,1,0,7.0,0,1,6
+Premium,22,alto,Flexible,Acevedo,Prado,1,1,9.5,1,0,7
+Turista,3,medio,Tarde,Aguacatala,Itagui,1,0,12.3,1,1,4
+Frecuente,60,bajo,Hora Pico,Prado,Exposiciones,1,0,4.5,0,1,0
+Frecuente,43,bajo,Hora Pico,Parque Berrio,Acevedo,1,0,8.8,2,1,1
+Premium,8,alto,Flexible,Bello,San Javier,0,1,4.2,3,1,1
+Frecuente,56,bajo,Hora Pico,Suramericana,San Antonio,1,0,9.2,2,1,0
+Ocasional,3,bajo,Tarde,Madera,Caribe,1,0,13.6,3,1,5
+Turista,13,medio,Tarde,Ayura,San Antonio,1,0,5.3,0,1,1
+Turista,7,medio,Tarde,Prado,Ayura,1,0,9.8,2,0,8
+Ocasional,4,bajo,Mañana,Caribe,Sabaneta,0,0,10.6,3,0,1
+Turista,8,medio,Tarde,Envigado,Estadio,1,0,6.5,1,1,3
+Turista,9,medio,Tarde,Prado,Alpujarra,1,0,4.5,3,1,8
+Turista,5,medio,Tarde,Ayura,Niquia,1,0,14.1,1,1,6
+Premium,18,alto,Flexible,Bello,Niquia,1,1,9.7,2,1,0
+Ocasional,1,bajo,Mañana,Niquia,Bello,0,0,7.0,1,1,2
+Turista,11,medio,Tarde,Floresta,Aguacatala,1,0,10.6,1,0,3
+Ocasional,8,bajo,Mañana,Envigado,Madera,0,0,13.8,3,1,2
+Frecuente,33,bajo,Fuera de Hora Pico,Exposiciones,San Javier,1,0,7.7,0,1,1
+Premium,7,alto,Flexible,Niquia,Suramericana,1,1,11.1,1,1,2
+Frecuente,58,bajo,Fuera de Hora Pico,Cisneros,Tricentenario,1,0,10.9,3,0,8
+Frecuente,39,bajo,Hora Pico,Santa Lucia,Exposiciones,1,0,5.4,3,1,4
+Premium,16,alto,Flexible,Sabaneta,Tricentenario,0,1,12.3,1,1,5
+Premium,21,alto,Flexible,Tricentenario,Envigado,1,1,10.8,2,1,3
+Ocasional,7,bajo,Mañana,Alpujarra,San Antonio,0,0,14.5,3,1,0
+Frecuente,57,bajo,Fuera de Hora Pico,Madera,Parque Berrio,1,0,11.6,0,1,4
+Ocasional,7,bajo,Tarde,La Estrella,Santa Lucia,1,0,4.9,0,0,8
+Ocasional,5,bajo,Tarde,Envigado,Madera,1,0,12.7,0,1,2
+Premium,15,alto,Flexible,Prado,Sabaneta,1,1,6.1,0,1,2
+Turista,5,medio,Tarde,Envigado,Suramericana,1,0,9.2,3,1,8
+Ocasional,8,bajo,Noche,Niquia,Madera,0,0,9.7,0,1,0
+Ocasional,8,bajo,Tarde,Estadio,San Javier,0,0,11.0,2,1,2
+Frecuente,41,bajo,Fuera de Hora Pico,Cisneros,Santa Lucia,1,0,12.1,3,1,8
+Premium,18,alto,Flexible,Acevedo,Alpujarra,0,1,11.3,0,0,3
+Turista,5,medio,Tarde,Prado,Floresta,1,0,5.2,2,1,0
+Ocasional,3,bajo,Tarde,Itagui,Floresta,0,0,3.5,3,1,4
+Premium,18,alto,Flexible,Suramericana,Aguacatala,1,1,11.3,1,1,8
+Turista,10,medio,Tarde,Parque Berrio,Aguacatala,1,0,7.6,0,1,8
+Frecuente,41,bajo,Fuera de Hora Pico,Tricentenario,Santa Lucia,1,0,9.4,0,1,1
+Ocasional,1,bajo,Noche,Hospital,Parque Berrio,1,0,10.7,2,1,1
+Ocasional,5,bajo,Mañana,San Javier,Tricentenario,0,0,4.9,0,1,7
+Premium,19,alto,Flexible,Estadio,Industriales,0,1,14.9,1,1,7
+Turista,8,medio,Tarde,Poblado,Alpujarra,1,0,11.7,2,0,8
+Turista,11,medio,Tarde,San Antonio,Industriales,1,0,13.5,2,0,6
+Turista,7,medio,Tarde,Ayura,Aguacatala,1,0,9.3,3,1,8
+Turista,4,medio,Tarde,Hospital,Bello,1,0,3.6,1,1,4
+Turista,13,medio,Tarde,Prado,Alpujarra,1,0,13.2,1,0,8
+Premium,9,alto,Flexible,Parque Berrio,Aguacatala,1,1,3.1,0,1,4
+Premium,6,alto,Flexible,Universidad,Suramericana,1,1,5.3,0,1,5
+Ocasional,2,bajo,Noche,Itagui,Exposiciones,0,0,10.8,1,1,7
+Premium,25,alto,Flexible,Itagui,Prado,1,1,5.0,0,1,3
+Frecuente,38,bajo,Hora Pico,Sabaneta,Santa Lucia,1,0,10.4,3,1,1
+Ocasional,2,bajo,Noche,Poblado,Floresta,1,0,12.4,2,1,3
+Turista,3,medio,Tarde,Cisneros,Prado,1,0,9.5,0,1,8
+Premium,24,alto,Flexible,Acevedo,Parque Berrio,1,1,5.7,3,1,4
+Turista,7,medio,Tarde,Sabaneta,Universidad,1,0,14.6,2,1,6
+Frecuente,52,bajo,Fuera de Hora Pico,Madera,Industriales,1,0,10.6,0,1,8
+Turista,15,medio,Tarde,Poblado,Exposiciones,1,0,6.7,2,1,0
+Premium,11,alto,Flexible,La Estrella,San Antonio,1,1,5.0,0,1,7
+Ocasional,1,bajo,Tarde,San Javier,Madera,0,0,4.6,3,0,5
+Turista,7,medio,Tarde,Bello,Caribe,1,0,13.9,2,1,5
+Turista,9,medio,Tarde,Itagui,San Antonio,1,0,7.5,0,1,6
+Ocasional,4,bajo,Mañana,Ayura,Hospital,1,0,8.4,1,0,8
+Frecuente,42,bajo,Fuera de Hora Pico,Acevedo,Universidad,1,0,11.8,2,1,2
+Frecuente,31,bajo,Fuera de Hora Pico,Santa Lucia,Ayura,1,0,3.7,1,0,5
+Turista,4,medio,Tarde,Acevedo,Suramericana,1,0,7.6,1,1,7
+Premium,11,alto,Flexible,Suramericana,Parque Berrio,0,1,10.2,3,0,7
+Ocasional,3,bajo,Mañana,Poblado,Prado,0,0,10.6,0,0,1
+Ocasional,7,bajo,Mañana,Exposiciones,Hospital,1,0,13.0,2,0,4
+Turista,3,medio,Tarde,Caribe,San Javier,1,0,15.0,3,1,3
+Frecuente,43,bajo,Fuera de Hora Pico,Prado,Madera,1,0,11.5,1,1,8
+Turista,3,medio,Tarde,Suramericana,Caribe,1,0,7.0,0,1,1
+Premium,25,alto,Flexible,Acevedo,Ayura,1,1,4.6,1,1,8
+Premium,6,alto,Flexible,Envigado,Alpujarra,1,1,5.0,0,1,2
+Frecuente,41,bajo,Fuera de Hora Pico,La Estrella,Aguacatala,1,0,4.8,1,0,5
+Premium,12,alto,Flexible,Madera,Tricentenario,1,1,14.9,0,0,5
+Frecuente,50,bajo,Fuera de Hora Pico,La Estrella,Caribe,1,0,5.4,0,1,0
+Premium,18,alto,Flexible,San Antonio,Exposiciones,0,1,14.4,3,0,5
+Ocasional,3,bajo,Noche,Universidad,La Estrella,1,0,9.8,3,0,6
+Ocasional,1,bajo,Tarde,Aguacatala,Floresta,1,0,14.5,1,1,0
+Turista,12,medio,Tarde,Floresta,Tricentenario,1,0,7.9,3,0,4
+Ocasional,5,bajo,Tarde,Alpujarra,Niquia,1,0,4.2,2,0,6
+Turista,8,medio,Tarde,Suramericana,San Antonio,1,0,9.2,0,1,5
+Turista,12,medio,Tarde,Aguacatala,Cisneros,1,0,12.0,1,0,2
+Premium,10,alto,Flexible,Hospital,Niquia,1,1,3.7,1,1,1
+Ocasional,7,bajo,Noche,Cisneros,Acevedo,1,0,11.9,1,1,3
+Premium,23,alto,Flexible,Parque Berrio,Floresta,0,1,4.8,0,1,2
+Turista,4,medio,Tarde,Tricentenario,Caribe,1,0,5.6,3,1,1
+Premium,5,alto,Flexible,San Antonio,Parque Berrio,1,1,4.6,2,1,2
+Frecuente,38,bajo,Hora Pico,Niquia,Caribe,1,0,5.8,1,1,0
+Ocasional,1,bajo,Mañana,Tricentenario,Aguacatala,0,0,9.3,1,1,2
+Premium,12,alto,Flexible,La Estrella,Itagui,0,1,13.0,0,1,3
+Premium,12,alto,Flexible,Exposiciones,Acevedo,1,1,10.6,3,1,2
+Premium,21,alto,Flexible,Floresta,Aguacatala,1,1,12.6,2,0,8
+Turista,10,medio,Tarde,Itagui,Alpujarra,1,0,5.6,0,1,0
+Frecuente,20,bajo,Fuera de Hora Pico,Bello,La Estrella,1,0,3.6,1,1,3
+Turista,3,medio,Tarde,Tricentenario,Ayura,1,0,14.4,0,1,5
+Turista,10,medio,Tarde,Cisneros,Floresta,1,0,5.0,0,1,3
+Turista,5,medio,Tarde,Itagui,Tricentenario,1,0,6.5,3,1,7
+Frecuente,54,bajo,Hora Pico,Santa Lucia,Parque Berrio,1,0,5.3,1,0,6
+Frecuente,58,bajo,Hora Pico,Caribe,Universidad,1,0,14.9,1,0,1
+Frecuente,52,bajo,Fuera de Hora Pico,Caribe,Estadio,1,0,5.0,2,1,0
+Turista,5,medio,Tarde,Aguacatala,Santa Lucia,1,0,3.3,2,1,0
+Ocasional,5,bajo,Tarde,Caribe,San Antonio,0,0,7.1,1,0,2
+Premium,16,alto,Flexible,San Javier,Niquia,1,1,9.3,1,1,3
+Premium,6,alto,Flexible,Caribe,Floresta,1,1,14.6,1,0,7
+Premium,8,alto,Flexible,San Antonio,Itagui,0,1,12.8,1,0,8
+Turista,11,medio,Tarde,La Estrella,Itagui,1,0,7.4,0,1,0
+Premium,12,alto,Flexible,San Antonio,Itagui,1,1,8.8,2,0,2
+Premium,20,alto,Flexible,Caribe,Estadio,0,1,11.4,1,0,7
+Ocasional,7,bajo,Mañana,Sabaneta,Parque Berrio,1,0,9.0,2,1,7
+Premium,19,alto,Flexible,Floresta,Sabaneta,0,1,4.2,1,1,6
+Premium,6,alto,Flexible,San Javier,Tricentenario,0,1,8.5,0,1,5
+Frecuente,43,bajo,Fuera de Hora Pico,La Estrella,Acevedo,1,0,12.6,0,1,5
+Premium,18,alto,Flexible,Madera,Caribe,1,1,8.1,3,1,8
+Ocasional,5,bajo,Mañana,Itagui,Exposiciones,1,0,6.6,0,0,6
+Premium,10,alto,Flexible,Estadio,Universidad,1,1,14.7,1,0,5
+Premium,12,alto,Flexible,La Estrella,Madera,1,1,6.5,1,0,0
+Frecuente,50,bajo,Hora Pico,Alpujarra,Tricentenario,1,0,13.7,2,0,1
+Ocasional,2,bajo,Tarde,Envigado,Hospital,1,0,10.8,0,1,5
+Frecuente,24,bajo,Hora Pico,Caribe,Exposiciones,1,0,5.0,3,0,7
+Premium,19,alto,Flexible,Industriales,Aguacatala,0,1,10.8,3,0,2
+Turista,13,medio,Tarde,Hospital,Bello,1,0,8.6,0,1,1
+Ocasional,2,bajo,Noche,Acevedo,Caribe,0,0,6.5,2,1,0
+Premium,17,alto,Flexible,Acevedo,Tricentenario,0,1,11.9,3,1,0
+Ocasional,5,bajo,Tarde,Cisneros,Bello,0,0,10.9,0,1,3
+Ocasional,5,bajo,Noche,Niquia,San Antonio,0,0,9.8,1,0,6
+Premium,6,alto,Flexible,Tricentenario,Madera,0,1,3.7,0,1,4
+Frecuente,24,bajo,Hora Pico,Suramericana,Alpujarra,1,0,7.4,0,0,5
+Turista,11,medio,Tarde,San Antonio,Bello,1,0,7.6,0,1,7
+Premium,25,alto,Flexible,Acevedo,Parque Berrio,1,1,9.3,2,1,5
+Turista,3,medio,Tarde,Itagui,Alpujarra,1,0,4.4,1,1,7
+Ocasional,3,bajo,Mañana,Estadio,Hospital,1,0,9.5,0,0,5
+Ocasional,2,bajo,Mañana,Caribe,Estadio,1,0,8.7,0,0,5
+Frecuente,36,bajo,Hora Pico,Bello,Industriales,1,0,4.3,3,1,0
+Premium,20,alto,Flexible,Alpujarra,Universidad,1,1,4.5,0,1,7
+Ocasional,3,bajo,Mañana,Poblado,Tricentenario,0,0,6.9,0,1,4
+Premium,10,alto,Flexible,Envigado,Ayura,0,1,8.2,0,1,6
+Frecuente,40,bajo,Hora Pico,Cisneros,Hospital,1,0,7.9,0,1,3
+Ocasional,2,bajo,Noche,Estadio,Bello,1,0,3.3,0,0,7
+Ocasional,3,bajo,Noche,Ayura,Envigado,0,0,8.4,2,1,5
+Premium,24,alto,Flexible,Prado,San Javier,1,1,5.3,2,1,2
+Turista,9,medio,Tarde,Prado,San Javier,1,0,5.1,1,1,6
+Turista,9,medio,Tarde,Prado,Itagui,1,0,3.8,0,0,1
+Frecuente,56,bajo,Hora Pico,Santa Lucia,Poblado,1,0,4.8,2,0,6
+Turista,10,medio,Tarde,Aguacatala,La Estrella,1,0,9.2,3,1,8
+Ocasional,1,bajo,Tarde,Ayura,Floresta,0,0,13.7,2,1,8
+Frecuente,60,bajo,Fuera de Hora Pico,Madera,Floresta,1,0,11.3,1,0,1
+Premium,19,alto,Flexible,Envigado,Caribe,0,1,11.1,3,1,6
+Frecuente,21,bajo,Hora Pico,Poblado,Tricentenario,1,0,10.1,2,1,2
+Turista,13,medio,Tarde,Cisneros,Exposiciones,1,0,3.7,3,1,6
+Ocasional,2,bajo,Mañana,Niquia,Santa Lucia,1,0,5.9,0,1,2
+Turista,9,medio,Tarde,Aguacatala,Universidad,1,0,12.1,0,1,6
+Frecuente,33,bajo,Hora Pico,Cisneros,Itagui,1,0,10.1,2,0,6
+Turista,13,medio,Tarde,Aguacatala,Industriales,1,0,3.1,2,1,8
+Ocasional,1,bajo,Tarde,San Javier,Sabaneta,0,0,3.6,1,0,2
+Premium,6,alto,Flexible,Alpujarra,Poblado,1,1,14.1,2,1,4
+Ocasional,3,bajo,Tarde,Industriales,Madera,0,0,7.7,2,0,2
+Ocasional,8,bajo,Tarde,Itagui,Acevedo,0,0,12.1,0,1,4
+Frecuente,46,bajo,Fuera de Hora Pico,Ayura,Prado,1,0,10.3,1,0,1
+Turista,10,medio,Tarde,Prado,Sabaneta,1,0,13.0,0,1,7
+Turista,10,medio,Tarde,San Antonio,Exposiciones,1,0,3.3,0,0,7
+Premium,25,alto,Flexible,San Antonio,Aguacatala,0,1,7.3,1,1,5
+Ocasional,4,bajo,Noche,Bello,Hospital,1,0,14.4,0,0,7
+Premium,22,alto,Flexible,Alpujarra,Industriales,1,1,8.7,2,1,5
+Ocasional,6,bajo,Mañana,San Javier,Floresta,1,0,14.8,3,0,2
+Turista,3,medio,Tarde,Ayura,Acevedo,1,0,5.0,3,1,0
+Frecuente,51,bajo,Hora Pico,Niquia,Tricentenario,1,0,3.0,1,1,0
+Frecuente,35,bajo,Fuera de Hora Pico,Acevedo,Suramericana,1,0,7.9,0,1,5
+Turista,14,medio,Tarde,Ayura,Itagui,1,0,12.7,2,0,6
+Turista,4,medio,Tarde,Itagui,Niquia,1,0,9.0,3,0,4
+Ocasional,5,bajo,Mañana,Floresta,San Javier,1,0,11.5,3,1,6
+Frecuente,28,bajo,Hora Pico,Poblado,Floresta,1,0,13.1,3,0,1
+Ocasional,6,bajo,Tarde,Caribe,Estadio,0,0,7.6,1,1,4
+Turista,8,medio,Tarde,Floresta,San Antonio,1,0,10.0,0,1,5
+Turista,11,medio,Tarde,Ayura,Cisneros,1,0,7.8,2,1,3
+Frecuente,57,bajo,Fuera de Hora Pico,Prado,Exposiciones,1,0,5.3,0,1,2
+Frecuente,54,bajo,Fuera de Hora Pico,Envigado,Poblado,1,0,7.9,2,1,3
+Frecuente,48,bajo,Hora Pico,Exposiciones,Suramericana,1,0,10.7,0,1,0
+Premium,19,alto,Flexible,Estadio,Floresta,0,1,8.6,2,1,3
+Ocasional,4,bajo,Noche,Caribe,Floresta,1,0,9.9,0,0,2
+Turista,11,medio,Tarde,Suramericana,San Antonio,1,0,4.9,1,0,1
+Premium,7,alto,Flexible,Estadio,Industriales,0,1,8.9,0,1,6
+Ocasional,2,bajo,Mañana,Industriales,San Antonio,1,0,9.1,3,1,2
+Premium,9,alto,Flexible,Alpujarra,Itagui,1,1,4.6,1,1,5
+Premium,25,alto,Flexible,Floresta,Parque Berrio,1,1,10.5,0,1,8
+Turista,6,medio,Tarde,Ayura,Universidad,1,0,12.0,3,1,6
+Ocasional,2,bajo,Tarde,Sabaneta,Ayura,1,0,7.7,0,0,6
+Premium,12,alto,Flexible,Madera,Exposiciones,0,1,11.0,1,0,0
+Turista,12,medio,Tarde,Suramericana,Acevedo,1,0,10.4,2,1,7
+Turista,3,medio,Tarde,Madera,Exposiciones,1,0,3.7,1,1,3
+Premium,15,alto,Flexible,Sabaneta,Ayura,0,1,4.8,2,1,1
+Frecuente,32,bajo,Fuera de Hora Pico,Envigado,Ayura,1,0,4.3,3,1,4
+Frecuente,42,bajo,Hora Pico,Poblado,Cisneros,1,0,14.0,1,1,2
+Ocasional,4,bajo,Noche,Cisneros,San Javier,1,0,3.7,0,1,6
+Turista,10,medio,Tarde,San Antonio,Alpujarra,1,0,3.0,2,0,5
+Turista,15,medio,Tarde,La Estrella,San Javier,1,0,13.7,3,1,3
+Turista,10,medio,Tarde,Universidad,Hospital,1,0,15.0,0,0,4
+Turista,7,medio,Tarde,Madera,Exposiciones,1,0,12.2,0,1,3
+Frecuente,59,bajo,Fuera de Hora Pico,Industriales,Poblado,1,0,11.5,2,1,2
+Premium,25,alto,Flexible,Parque Berrio,Itagui,1,1,7.1,3,1,7
+Premium,20,alto,Flexible,Bello,Suramericana,0,1,7.6,2,1,6
+Ocasional,2,bajo,Tarde,Estadio,Madera,1,0,10.1,2,0,0
+Ocasional,3,bajo,Tarde,San Javier,Ayura,1,0,12.5,2,1,6
+Frecuente,48,bajo,Hora Pico,La Estrella,Cisneros,1,0,14.6,3,1,6
+Premium,13,alto,Flexible,Hospital,San Antonio,0,1,14.3,3,1,4
+Premium,8,alto,Flexible,Prado,Santa Lucia,1,1,13.5,1,1,2
+Turista,8,medio,Tarde,Suramericana,La Estrella,1,0,12.3,2,0,3
+Turista,10,medio,Tarde,Alpujarra,Industriales,1,0,5.1,2,1,5
+Premium,5,alto,Flexible,Itagui,San Javier,1,1,14.6,1,1,5
+Premium,15,alto,Flexible,San Javier,Parque Berrio,1,1,10.5,1,0,0
+Premium,19,alto,Flexible,Prado,Parque Berrio,1,1,8.9,3,1,3
+Ocasional,2,bajo,Noche,Exposiciones,Suramericana,1,0,11.3,1,1,0
+Premium,12,alto,Flexible,Ayura,Poblado,0,1,3.8,2,1,8
+Frecuente,37,bajo,Fuera de Hora Pico,Hospital,Niquia,1,0,4.6,3,1,3
+Premium,14,alto,Flexible,Suramericana,Prado,0,1,3.7,2,1,8
+Ocasional,5,bajo,Noche,Ayura,Envigado,1,0,7.6,0,1,7
+Turista,6,medio,Tarde,Cisneros,Prado,1,0,14.3,1,1,4
+Turista,15,medio,Tarde,Poblado,Acevedo,1,0,4.3,3,1,3
+Turista,15,medio,Tarde,Envigado,Madera,1,0,7.1,3,0,6
+Frecuente,24,bajo,Fuera de Hora Pico,Universidad,Industriales,1,0,14.2,0,0,8
+Turista,6,medio,Tarde,Madera,San Antonio,1,0,3.2,1,1,1
+Turista,9,medio,Tarde,Industriales,Suramericana,1,0,11.6,3,0,6
+Turista,10,medio,Tarde,Exposiciones,Caribe,1,0,14.2,0,1,2
+Premium,19,alto,Flexible,Prado,Ayura,0,1,7.9,3,1,7
+Ocasional,7,bajo,Tarde,La Estrella,Prado,0,0,9.2,2,1,2
+Premium,19,alto,Flexible,Universidad,Alpujarra,0,1,15.0,0,1,0
+Frecuente,38,bajo,Hora Pico,Hospital,Suramericana,1,0,8.3,2,1,2
+Premium,20,alto,Flexible,Alpujarra,San Antonio,0,1,9.2,1,1,1
+Ocasional,6,bajo,Mañana,Madera,Cisneros,1,0,10.2,0,1,0
+Turista,10,medio,Tarde,Aguacatala,San Javier,1,0,8.1,1,1,1
+Frecuente,26,bajo,Fuera de Hora Pico,Parque Berrio,Alpujarra,1,0,5.9,1,0,4
+Frecuente,42,bajo,Fuera de Hora Pico,Niquia,Prado,1,0,14.5,1,0,2
+Ocasional,1,bajo,Mañana,San Antonio,Parque Berrio,0,0,11.4,3,1,1
+Premium,23,alto,Flexible,Aguacatala,Bello,1,1,5.8,3,0,6
+Frecuente,43,bajo,Hora Pico,Caribe,Bello,1,0,3.8,2,1,3
+Premium,14,alto,Flexible,Suramericana,Universidad,1,1,12.4,3,1,8
+Frecuente,47,bajo,Fuera de Hora Pico,Hospital,Poblado,1,0,10.6,2,1,4
+Premium,23,alto,Flexible,San Javier,Exposiciones,0,1,14.2,1,1,6
+Turista,15,medio,Tarde,Universidad,Sabaneta,1,0,4.7,0,1,0
+Premium,9,alto,Flexible,Sabaneta,La Estrella,0,1,13.4,0,0,2
+Premium,19,alto,Flexible,La Estrella,Suramericana,0,1,12.5,2,0,7
+Frecuente,23,bajo,Hora Pico,Ayura,Aguacatala,1,0,4.6,0,0,0
+Frecuente,52,bajo,Hora Pico,Floresta,Itagui,1,0,10.4,1,1,0
+Ocasional,6,bajo,Mañana,Sabaneta,Alpujarra,1,0,14.3,3,1,1
+Turista,11,medio,Tarde,Estadio,Bello,1,0,11.7,3,1,3
+Ocasional,5,bajo,Noche,Niquia,Alpujarra,0,0,11.2,2,1,8
+Ocasional,2,bajo,Noche,Acevedo,Parque Berrio,0,0,5.5,1,1,5
+Turista,7,medio,Tarde,Universidad,Caribe,1,0,4.2,0,0,5
+Premium,23,alto,Flexible,Itagui,Madera,0,1,12.1,3,1,1
+Turista,12,medio,Tarde,Suramericana,San Javier,1,0,3.6,0,0,4
+Ocasional,8,bajo,Noche,San Antonio,Floresta,1,0,9.8,0,1,5
+Premium,22,alto,Flexible,Niquia,Sabaneta,1,1,14.9,0,1,8
+Ocasional,2,bajo,Mañana,Cisneros,San Javier,1,0,5.6,3,0,6
+Premium,11,alto,Flexible,La Estrella,Universidad,1,1,10.9,3,0,0
+Ocasional,7,bajo,Mañana,Alpujarra,Universidad,0,0,7.0,0,1,2
+Premium,18,alto,Flexible,San Javier,Envigado,1,1,9.6,0,1,4
+Turista,3,medio,Tarde,Prado,Poblado,1,0,6.3,2,1,1
+Turista,12,medio,Tarde,Floresta,Universidad,1,0,5.0,2,0,5
+Turista,15,medio,Tarde,Suramericana,San Javier,1,0,14.4,2,0,3
+Premium,11,alto,Flexible,Hospital,Envigado,0,1,10.7,0,1,6
+Turista,10,medio,Tarde,San Javier,Niquia,1,0,10.5,2,0,8
+Premium,21,alto,Flexible,Prado,Floresta,0,1,14.9,2,0,0
+Ocasional,3,bajo,Tarde,Aguacatala,Envigado,1,0,12.5,0,0,0
+Frecuente,48,bajo,Fuera de Hora Pico,Universidad,Suramericana,1,0,4.0,0,1,8
+Turista,12,medio,Tarde,La Estrella,Floresta,1,0,6.7,2,0,0
+Turista,7,medio,Tarde,Ayura,Poblado,1,0,14.4,0,1,4
+Ocasional,6,bajo,Noche,Prado,Niquia,0,0,6.8,0,1,3
+Turista,4,medio,Tarde,Aguacatala,Bello,1,0,3.0,2,1,5
+Premium,8,alto,Flexible,San Javier,Prado,0,1,9.1,0,0,4
+Premium,10,alto,Flexible,Hospital,Floresta,1,1,9.9,1,1,5
+Turista,4,medio,Tarde,Prado,Parque Berrio,1,0,4.2,1,1,8
+Turista,3,medio,Tarde,Madera,Bello,1,0,10.3,1,0,2
+Premium,8,alto,Flexible,Acevedo,Tricentenario,1,1,4.2,2,1,3
+Frecuente,36,bajo,Hora Pico,Sabaneta,Exposiciones,1,0,12.0,1,1,6
+Ocasional,3,bajo,Mañana,Cisneros,Suramericana,1,0,8.0,2,1,0
+Ocasional,2,bajo,Mañana,Santa Lucia,Universidad,0,0,5.6,0,0,7
+Turista,8,medio,Tarde,Alpujarra,San Javier,1,0,14.8,3,1,2
+Frecuente,55,bajo,Hora Pico,Exposiciones,Envigado,1,0,6.7,2,0,4
+Turista,5,medio,Tarde,Caribe,Cisneros,1,0,9.1,3,0,0
+Premium,11,alto,Flexible,Floresta,Sabaneta,1,1,7.4,2,0,1
+Turista,11,medio,Tarde,Hospital,Industriales,1,0,4.8,3,1,1
+Ocasional,8,bajo,Mañana,Parque Berrio,Acevedo,1,0,14.4,2,1,5
+Turista,12,medio,Tarde,Ayura,Estadio,1,0,13.0,0,1,5
+Ocasional,5,bajo,Noche,Santa Lucia,Cisneros,1,0,7.4,3,0,5
+Frecuente,28,bajo,Hora Pico,Aguacatala,Universidad,1,0,4.5,2,0,8
+Turista,13,medio,Tarde,San Javier,Caribe,1,0,9.8,0,1,0
+Frecuente,59,bajo,Hora Pico,La Estrella,Poblado,1,0,14.9,3,1,1
+Frecuente,36,bajo,Hora Pico,Bello,San Antonio,1,0,10.5,3,1,1
+Frecuente,26,bajo,Fuera de Hora Pico,Alpujarra,Suramericana,1,0,13.4,1,1,3
+Ocasional,4,bajo,Mañana,Prado,Madera,0,0,5.6,0,0,3
+Ocasional,5,bajo,Tarde,Cisneros,Parque Berrio,1,0,5.2,2,0,7
+Ocasional,6,bajo,Tarde,Floresta,Tricentenario,0,0,13.7,3,0,2
+Turista,3,medio,Tarde,Floresta,Parque Berrio,1,0,9.8,3,1,7
+Turista,14,medio,Tarde,Caribe,Exposiciones,1,0,7.8,3,1,4
+Ocasional,2,bajo,Mañana,Niquia,Aguacatala,1,0,11.3,2,1,6
+Turista,5,medio,Tarde,Santa Lucia,Poblado,1,0,11.5,1,0,6
+Ocasional,1,bajo,Tarde,Acevedo,La Estrella,0,0,13.4,3,1,5
+Frecuente,28,bajo,Hora Pico,Acevedo,Madera,1,0,4.7,3,1,0
+Premium,9,alto,Flexible,Itagui,Estadio,1,1,5.7,1,0,8
+Ocasional,5,bajo,Mañana,Acevedo,Poblado,0,0,13.7,0,1,6
+Turista,7,medio,Tarde,San Javier,Parque Berrio,1,0,13.9,3,1,0
+Turista,4,medio,Tarde,Acevedo,La Estrella,1,0,15.0,2,1,1
+Ocasional,6,bajo,Tarde,Tricentenario,Prado,1,0,10.0,1,1,5
+Premium,21,alto,Flexible,Caribe,Industriales,0,1,6.6,1,1,2
+Premium,15,alto,Flexible,Floresta,Itagui,1,1,13.2,3,0,4
+Turista,13,medio,Tarde,Envigado,Aguacatala,1,0,7.2,0,1,0
+Premium,25,alto,Flexible,Madera,Ayura,0,1,9.3,2,0,0
+Frecuente,51,bajo,Fuera de Hora Pico,Estadio,Ayura,1,0,10.2,1,0,3
+Turista,12,medio,Tarde,Cisneros,Universidad,1,0,7.9,3,1,4
+Premium,22,alto,Flexible,Acevedo,Tricentenario,1,1,9.5,0,1,8
+Frecuente,51,bajo,Fuera de Hora Pico,La Estrella,Hospital,1,0,6.6,3,1,6
+Turista,11,medio,Tarde,Floresta,Parque Berrio,1,0,7.5,1,1,3
+Frecuente,60,bajo,Hora Pico,La Estrella,Ayura,1,0,13.0,0,1,7
+Premium,14,alto,Flexible,Suramericana,San Antonio,0,1,6.3,2,1,7
+Turista,13,medio,Tarde,Suramericana,Niquia,1,0,11.7,0,1,7
+Ocasional,5,bajo,Noche,San Antonio,Universidad,1,0,3.3,0,0,3
+Ocasional,5,bajo,Mañana,Aguacatala,Caribe,0,0,14.5,1,0,2
+Premium,17,alto,Flexible,Prado,Bello,0,1,7.4,2,1,2
+Premium,8,alto,Flexible,Parque Berrio,San Javier,1,1,9.4,3,1,6
+Premium,9,alto,Flexible,Poblado,Parque Berrio,0,1,4.9,1,1,0
+Frecuente,28,bajo,Hora Pico,Prado,Madera,1,0,3.0,2,1,6
+Ocasional,8,bajo,Mañana,San Antonio,Caribe,1,0,11.6,0,1,8
+Turista,9,medio,Tarde,Bello,La Estrella,1,0,7.9,1,1,5
+Ocasional,1,bajo,Noche,Caribe,Acevedo,0,0,11.8,2,1,3
+Frecuente,23,bajo,Fuera de Hora Pico,Floresta,Niquia,1,0,8.1,2,0,6
+Ocasional,6,bajo,Noche,Prado,Santa Lucia,1,0,7.2,1,1,4
+Ocasional,2,bajo,Noche,Suramericana,Bello,0,0,12.5,1,0,6
+Turista,9,medio,Tarde,Floresta,Bello,1,0,6.6,3,0,2
+Ocasional,6,bajo,Mañana,San Antonio,Acevedo,1,0,10.2,3,1,2
+Turista,3,medio,Tarde,San Antonio,Envigado,1,0,8.2,1,0,4
+Frecuente,37,bajo,Hora Pico,Caribe,Bello,1,0,8.9,0,1,3
+Ocasional,1,bajo,Tarde,Caribe,Universidad,1,0,4.7,3,0,5
+Frecuente,45,bajo,Fuera de Hora Pico,Parque Berrio,Caribe,1,0,9.5,3,0,7
+Turista,14,medio,Tarde,La Estrella,Aguacatala,1,0,11.0,3,1,8
+Ocasional,2,bajo,Mañana,Suramericana,Universidad,0,0,3.4,2,0,2
+Frecuente,53,bajo,Hora Pico,Alpujarra,Caribe,1,0,4.8,3,1,0
+Premium,14,alto,Flexible,La Estrella,Hospital,1,1,10.6,2,0,6
+Premium,18,alto,Flexible,Acevedo,Floresta,1,1,5.0,0,1,5
+Premium,25,alto,Flexible,Poblado,Sabaneta,0,1,6.0,3,0,1
+Premium,17,alto,Flexible,Sabaneta,Estadio,1,1,12.1,2,1,6
+Ocasional,1,bajo,Mañana,San Javier,Suramericana,1,0,10.8,2,0,1
+Ocasional,5,bajo,Mañana,Poblado,Bello,1,0,5.0,3,1,0
+Premium,5,alto,Flexible,Industriales,Suramericana,1,1,12.9,1,0,7
+Frecuente,37,bajo,Fuera de Hora Pico,San Javier,Prado,1,0,12.3,3,0,8
+Premium,7,alto,Flexible,Exposiciones,San Antonio,0,1,12.0,1,0,2
+Turista,10,medio,Tarde,Sabaneta,Madera,1,0,12.1,0,1,8
+Premium,8,alto,Flexible,Sabaneta,Floresta,1,1,5.1,3,0,1
+Turista,12,medio,Tarde,Parque Berrio,Tricentenario,1,0,12.2,1,1,2
+Premium,12,alto,Flexible,Envigado,Poblado,0,1,7.0,3,1,6
+Ocasional,8,bajo,Tarde,San Javier,Aguacatala,1,0,4.9,2,1,5
+Frecuente,47,bajo,Fuera de Hora Pico,Niquia,Ayura,1,0,10.0,1,0,4
+Ocasional,4,bajo,Noche,Aguacatala,Envigado,0,0,5.6,0,1,2
+Turista,9,medio,Tarde,Ayura,Exposiciones,1,0,7.6,0,1,0
+Turista,12,medio,Tarde,Alpujarra,Poblado,1,0,7.0,0,0,2
+Frecuente,51,bajo,Fuera de Hora Pico,Niquia,La Estrella,1,0,5.4,3,1,0
+Premium,20,alto,Flexible,Envigado,Bello,0,1,5.8,1,1,1
+Premium,9,alto,Flexible,Suramericana,Aguacatala,0,1,6.5,1,1,3
+Frecuente,60,bajo,Hora Pico,San Javier,Industriales,1,0,14.9,2,1,5
+Premium,10,alto,Flexible,Floresta,Tricentenario,1,1,10.3,1,1,8
+Frecuente,29,bajo,Fuera de Hora Pico,Niquia,Santa Lucia,1,0,8.7,0,1,5
+Ocasional,7,bajo,Mañana,Itagui,Cisneros,0,0,9.1,0,1,8
+Ocasional,5,bajo,Mañana,Hospital,Industriales,0,0,11.7,3,0,4
+Premium,15,alto,Flexible,Aguacatala,Alpujarra,0,1,10.2,1,1,3
+Frecuente,50,bajo,Hora Pico,Caribe,Tricentenario,1,0,4.2,2,1,3
+Frecuente,40,bajo,Hora Pico,Estadio,Acevedo,1,0,7.7,1,1,2
+Turista,7,medio,Tarde,Alpujarra,Acevedo,1,0,4.0,3,1,1
+Turista,3,medio,Tarde,Envigado,Exposiciones,1,0,5.1,2,1,5
+Ocasional,4,bajo,Mañana,Industriales,Estadio,1,0,3.1,2,1,5
+Frecuente,56,bajo,Fuera de Hora Pico,Exposiciones,Estadio,1,0,6.7,3,0,1
+Ocasional,4,bajo,Mañana,Poblado,Tricentenario,0,0,5.3,0,1,1
+Premium,17,alto,Flexible,Bello,Suramericana,1,1,7.9,1,1,8
+Premium,7,alto,Flexible,Floresta,Industriales,1,1,10.8,2,1,1
+Turista,9,medio,Tarde,Itagui,Poblado,1,0,7.9,1,0,6
+Premium,14,alto,Flexible,Parque Berrio,Hospital,0,1,8.4,0,1,3
+Premium,9,alto,Flexible,Industriales,Tricentenario,0,1,8.2,0,1,7
+Premium,13,alto,Flexible,Tricentenario,Acevedo,0,1,13.3,2,0,1
+Turista,6,medio,Tarde,Ayura,Madera,1,0,11.0,0,1,4
+Turista,6,medio,Tarde,Acevedo,Aguacatala,1,0,6.9,0,1,5
+Frecuente,55,bajo,Fuera de Hora Pico,Niquia,Envigado,1,0,11.8,1,0,1
+Ocasional,5,bajo,Tarde,Floresta,San Antonio,0,0,4.1,1,1,6
+Frecuente,38,bajo,Hora Pico,Madera,Floresta,1,0,8.3,0,1,1
+Turista,6,medio,Tarde,Suramericana,Universidad,1,0,12.1,2,1,1
+Premium,13,alto,Flexible,La Estrella,San Javier,0,1,9.1,1,1,1
+Turista,15,medio,Tarde,Industriales,Itagui,1,0,9.9,1,1,2
+Ocasional,7,bajo,Noche,Itagui,San Javier,0,0,10.1,2,1,8
+Ocasional,3,bajo,Noche,Alpujarra,Aguacatala,1,0,4.4,3,1,1
+Ocasional,7,bajo,Noche,Alpujarra,Parque Berrio,0,0,10.2,1,0,4
+Premium,12,alto,Flexible,Acevedo,Hospital,1,1,5.6,3,0,3
+Turista,10,medio,Tarde,Santa Lucia,Parque Berrio,1,0,13.2,0,1,6
+Ocasional,6,bajo,Tarde,Hospital,Aguacatala,0,0,11.2,3,1,3
+Turista,10,medio,Tarde,Madera,Caribe,1,0,9.0,2,1,6
+Premium,12,alto,Flexible,Acevedo,Aguacatala,0,1,12.5,2,1,6
+Turista,5,medio,Tarde,Sabaneta,Industriales,1,0,8.4,1,1,4
+Ocasional,7,bajo,Mañana,Madera,La Estrella,0,0,12.1,0,1,7
+Turista,8,medio,Tarde,Floresta,Santa Lucia,1,0,14.2,3,1,7
+Premium,5,alto,Flexible,La Estrella,Alpujarra,0,1,7.1,0,1,5
+Premium,5,alto,Flexible,Cisneros,Acevedo,1,1,8.2,2,1,8
+Premium,6,alto,Flexible,Tricentenario,Industriales,1,1,8.7,2,1,6
+Ocasional,5,bajo,Mañana,Tricentenario,Exposiciones,1,0,14.2,0,1,6
+Frecuente,46,bajo,Hora Pico,Universidad,Envigado,1,0,7.0,2,0,8
+Frecuente,32,bajo,Hora Pico,Universidad,Tricentenario,1,0,10.4,3,1,3
+Premium,11,alto,Flexible,Sabaneta,Itagui,1,1,4.3,3,1,7
+Turista,6,medio,Tarde,Ayura,Alpujarra,1,0,9.1,3,1,2
+Frecuente,41,bajo,Fuera de Hora Pico,Hospital,Ayura,1,0,11.3,1,1,2
+Turista,4,medio,Tarde,Madera,Aguacatala,1,0,12.7,3,1,3
+Premium,24,alto,Flexible,Universidad,La Estrella,1,1,6.2,2,1,6
+Premium,21,alto,Flexible,Envigado,Industriales,1,1,5.8,0,1,7
+Frecuente,53,bajo,Fuera de Hora Pico,San Antonio,Floresta,1,0,10.5,0,1,3
+Premium,12,alto,Flexible,Itagui,Floresta,1,1,4.4,1,1,5
+Premium,14,alto,Flexible,Poblado,Exposiciones,1,1,4.8,1,1,5
+Turista,7,medio,Tarde,Bello,San Antonio,1,0,3.3,2,0,7
+Turista,15,medio,Tarde,Niquia,Hospital,1,0,7.4,3,1,3
+Ocasional,8,bajo,Noche,Itagui,Cisneros,1,0,10.3,2,0,0
+Ocasional,7,bajo,Noche,Estadio,Acevedo,1,0,10.5,2,0,2
+Frecuente,37,bajo,Fuera de Hora Pico,Acevedo,Exposiciones,1,0,11.7,2,0,1
+Turista,3,medio,Tarde,Ayura,Tricentenario,1,0,9.8,1,0,2
+Premium,7,alto,Flexible,Niquia,Universidad,0,1,10.0,2,0,1
+Premium,19,alto,Flexible,Caribe,La Estrella,1,1,9.9,2,1,5
+Frecuente,35,bajo,Fuera de Hora Pico,Ayura,Universidad,1,0,11.3,0,0,7
+Premium,20,alto,Flexible,Exposiciones,Itagui,1,1,6.4,1,1,3
+Frecuente,33,bajo,Hora Pico,Estadio,La Estrella,1,0,9.7,2,1,6
+Premium,7,alto,Flexible,Santa Lucia,Parque Berrio,0,1,9.7,0,1,4
+Ocasional,4,bajo,Mañana,Industriales,Cisneros,0,0,3.6,2,1,4
+Ocasional,4,bajo,Tarde,Parque Berrio,Acevedo,0,0,14.6,3,1,3
+Frecuente,38,bajo,Hora Pico,Estadio,Santa Lucia,1,0,10.6,3,0,2
+Ocasional,3,bajo,Mañana,San Javier,Niquia,1,0,13.6,1,1,3
+Ocasional,7,bajo,Tarde,San Javier,Madera,0,0,10.9,0,1,0
+Frecuente,35,bajo,Hora Pico,Exposiciones,Sabaneta,1,0,11.2,0,1,2
+Premium,19,alto,Flexible,Suramericana,Alpujarra,0,1,8.1,2,1,1
+Frecuente,42,bajo,Fuera de Hora Pico,Estadio,Poblado,1,0,11.3,3,0,6
+Frecuente,39,bajo,Hora Pico,San Javier,Caribe,1,0,5.8,2,1,2
+Ocasional,4,bajo,Mañana,La Estrella,Alpujarra,1,0,10.5,2,1,0
+Ocasional,4,bajo,Noche,Estadio,Aguacatala,1,0,4.7,3,1,5
+Frecuente,56,bajo,Hora Pico,Niquia,Industriales,1,0,13.2,3,0,3
+Frecuente,48,bajo,Fuera de Hora Pico,San Antonio,Universidad,1,0,14.4,2,1,0
+Frecuente,39,bajo,Fuera de Hora Pico,Exposiciones,Envigado,1,0,10.4,1,0,8
+Premium,22,alto,Flexible,Floresta,Caribe,1,1,3.3,0,1,1
+Premium,14,alto,Flexible,Envigado,Parque Berrio,1,1,8.9,1,0,4
+Ocasional,6,bajo,Mañana,Niquia,Hospital,1,0,11.1,1,0,7
+Turista,8,medio,Tarde,Sabaneta,La Estrella,1,0,3.7,2,1,8
+Frecuente,56,bajo,Hora Pico,Niquia,Hospital,1,0,5.1,2,0,0
+Frecuente,60,bajo,Fuera de Hora Pico,Tricentenario,Envigado,1,0,12.1,0,1,7
+Frecuente,58,bajo,Fuera de Hora Pico,Cisneros,Poblado,1,0,6.9,2,1,1
+Frecuente,47,bajo,Hora Pico,Poblado,Bello,1,0,10.7,3,1,6
+Frecuente,33,bajo,Hora Pico,Suramericana,Caribe,1,0,4.9,0,1,6
+Turista,11,medio,Tarde,Sabaneta,La Estrella,1,0,5.1,1,1,6
+Frecuente,26,bajo,Hora Pico,Universidad,San Antonio,1,0,7.4,2,1,5
+Turista,8,medio,Tarde,Exposiciones,Caribe,1,0,3.8,1,1,5
+Ocasional,5,bajo,Tarde,Estadio,Parque Berrio,0,0,9.0,1,1,6
+Frecuente,48,bajo,Hora Pico,Alpujarra,Poblado,1,0,14.2,2,1,4
+Turista,9,medio,Tarde,Industriales,Sabaneta,1,0,7.3,2,1,7
+Ocasional,6,bajo,Mañana,Alpujarra,Bello,1,0,7.8,3,1,5
+Ocasional,2,bajo,Tarde,San Antonio,La Estrella,0,0,4.6,2,1,7
+Ocasional,5,bajo,Mañana,Prado,Industriales,1,0,14.5,3,1,0
+Ocasional,5,bajo,Noche,Industriales,Niquia,1,0,11.3,3,0,2
+Premium,6,alto,Flexible,Industriales,Tricentenario,0,1,12.2,2,0,2
+Ocasional,3,bajo,Mañana,Caribe,Acevedo,1,0,5.2,1,1,2
+Premium,13,alto,Flexible,Aguacatala,Exposiciones,0,1,5.9,0,1,4
+Turista,7,medio,Tarde,Itagui,Aguacatala,1,0,10.6,2,1,2
+Premium,13,alto,Flexible,Floresta,Envigado,0,1,6.8,1,1,4
+Ocasional,7,bajo,Noche,Hospital,Exposiciones,1,0,14.1,2,0,8
+Turista,13,medio,Tarde,San Javier,San Antonio,1,0,4.0,0,1,0
+Ocasional,2,bajo,Tarde,Estadio,Itagui,1,0,8.5,0,0,4
+Turista,6,medio,Tarde,Universidad,Poblado,1,0,13.2,0,1,0
+Premium,5,alto,Flexible,Sabaneta,Suramericana,1,1,7.7,0,1,7
+Premium,6,alto,Flexible,Sabaneta,Aguacatala,1,1,7.4,1,0,4
+Premium,24,alto,Flexible,Madera,Niquia,0,1,11.6,1,0,8
+Premium,7,alto,Flexible,San Antonio,Prado,1,1,9.8,3,1,2
+Premium,15,alto,Flexible,Parque Berrio,Acevedo,1,1,7.0,0,1,3
+Turista,8,medio,Tarde,Cisneros,Poblado,1,0,12.1,0,1,7
+Turista,13,medio,Tarde,Niquia,Santa Lucia,1,0,7.8,3,1,1
+Frecuente,43,bajo,Hora Pico,Caribe,Itagui,1,0,6.2,1,1,5
+Premium,23,alto,Flexible,Aguacatala,Poblado,0,1,11.8,3,1,2
+Frecuente,46,bajo,Hora Pico,Cisneros,Alpujarra,1,0,7.7,2,1,6
+Ocasional,3,bajo,Tarde,Acevedo,Niquia,1,0,3.1,1,1,1
+Frecuente,21,bajo,Fuera de Hora Pico,Alpujarra,Sabaneta,1,0,11.5,3,1,5
+Turista,6,medio,Tarde,Santa Lucia,Prado,1,0,10.2,1,1,6
+Frecuente,33,bajo,Fuera de Hora Pico,Alpujarra,Sabaneta,1,0,13.4,2,1,1
+Frecuente,54,bajo,Fuera de Hora Pico,Santa Lucia,Ayura,1,0,9.0,0,0,8
+Ocasional,2,bajo,Mañana,Hospital,Cisneros,0,0,8.7,2,1,2
+Frecuente,32,bajo,Hora Pico,Prado,Hospital,1,0,5.0,0,1,7
+Ocasional,8,bajo,Mañana,Aguacatala,Envigado,0,0,8.8,3,0,8
+Turista,15,medio,Tarde,Cisneros,Sabaneta,1,0,10.8,0,0,2
+Frecuente,23,bajo,Hora Pico,Caribe,Bello,1,0,6.7,2,1,3
+Premium,8,alto,Flexible,Industriales,Prado,0,1,10.0,3,0,0
+Premium,9,alto,Flexible,Niquia,Floresta,0,1,12.4,1,1,2
+Frecuente,37,bajo,Hora Pico,Aguacatala,Bello,1,0,11.5,1,1,1
+Frecuente,51,bajo,Fuera de Hora Pico,San Javier,Prado,1,0,5.5,0,0,0
+Premium,20,alto,Flexible,Santa Lucia,Cisneros,1,1,10.7,3,0,3
+Premium,21,alto,Flexible,Industriales,Envigado,0,1,5.0,1,0,5
+Frecuente,59,bajo,Fuera de Hora Pico,Sabaneta,Industriales,1,0,9.6,2,1,1
+Ocasional,7,bajo,Tarde,La Estrella,Bello,0,0,8.0,0,1,1
+Frecuente,37,bajo,Hora Pico,Poblado,Suramericana,1,0,10.9,3,0,5
+Frecuente,44,bajo,Hora Pico,Cisneros,Itagui,1,0,4.5,1,1,5
+Ocasional,2,bajo,Mañana,Prado,Parque Berrio,0,0,14.1,3,1,5
+Ocasional,3,bajo,Noche,Cisneros,Ayura,0,0,6.4,2,1,4
+Turista,5,medio,Tarde,Alpujarra,Parque Berrio,1,0,8.6,1,1,0
+Premium,20,alto,Flexible,Tricentenario,Santa Lucia,1,1,4.3,2,1,4
+Ocasional,5,bajo,Tarde,Acevedo,San Antonio,1,0,6.6,2,1,5
+Turista,7,medio,Tarde,Ayura,Madera,1,0,12.6,2,0,2
+Turista,7,medio,Tarde,Exposiciones,San Antonio,1,0,13.4,1,1,4
+Frecuente,25,bajo,Fuera de Hora Pico,Envigado,Parque Berrio,1,0,4.9,1,1,1
+Frecuente,47,bajo,Fuera de Hora Pico,San Antonio,Prado,1,0,9.3,1,1,7
+Frecuente,48,bajo,Hora Pico,Alpujarra,Prado,1,0,13.0,1,0,2
+Premium,5,alto,Flexible,Prado,Suramericana,0,1,4.2,2,1,2
+Frecuente,49,bajo,Hora Pico,Bello,Aguacatala,1,0,6.6,0,1,5
+Frecuente,50,bajo,Hora Pico,San Javier,Bello,1,0,13.3,1,0,8
+Turista,10,medio,Tarde,Universidad,Prado,1,0,14.5,1,0,0
+Premium,21,alto,Flexible,Alpujarra,Exposiciones,1,1,11.2,1,1,3
+Frecuente,25,bajo,Fuera de Hora Pico,Suramericana,Estadio,1,0,12.2,0,1,8
+Premium,21,alto,Flexible,Acevedo,Cisneros,0,1,14.5,2,0,1
+Turista,14,medio,Tarde,Envigado,Hospital,1,0,6.4,0,1,3
+Frecuente,57,bajo,Fuera de Hora Pico,San Antonio,Universidad,1,0,12.7,1,0,7
+Ocasional,8,bajo,Mañana,Prado,Bello,0,0,12.9,1,0,2
+Premium,11,alto,Flexible,Sabaneta,San Javier,0,1,4.0,3,0,6
+Frecuente,34,bajo,Hora Pico,Parque Berrio,San Javier,1,0,5.7,3,1,2
+Premium,13,alto,Flexible,Cisneros,Itagui,0,1,11.8,3,0,2
+Ocasional,3,bajo,Tarde,Sabaneta,Cisneros,1,0,9.5,3,1,1
+Ocasional,3,bajo,Tarde,Itagui,Ayura,0,0,13.0,1,1,2
+Premium,14,alto,Flexible,Bello,Aguacatala,0,1,7.6,0,1,8
+Frecuente,25,bajo,Hora Pico,Estadio,Itagui,1,0,8.6,2,0,6
+Premium,6,alto,Flexible,Bello,Exposiciones,0,1,6.3,0,1,7
+Turista,9,medio,Tarde,Bello,Tricentenario,1,0,11.0,1,0,6
+Frecuente,41,bajo,Fuera de Hora Pico,Alpujarra,Madera,1,0,3.3,0,0,6
+Turista,15,medio,Tarde,Envigado,Alpujarra,1,0,8.7,2,0,7
+Frecuente,55,bajo,Fuera de Hora Pico,Suramericana,Poblado,1,0,14.7,0,1,8
+Premium,16,alto,Flexible,Hospital,Bello,1,1,14.1,0,0,1
+Frecuente,32,bajo,Fuera de Hora Pico,Universidad,Ayura,1,0,14.7,2,1,1
+Frecuente,58,bajo,Hora Pico,Floresta,Universidad,1,0,14.5,0,0,6
+Frecuente,34,bajo,Fuera de Hora Pico,Niquia,Exposiciones,1,0,3.4,3,1,8
+Frecuente,42,bajo,Hora Pico,Tricentenario,Sabaneta,1,0,4.9,2,1,6
+Premium,13,alto,Flexible,Hospital,Cisneros,1,1,3.9,0,0,5
+Ocasional,4,bajo,Tarde,Hospital,Exposiciones,1,0,15.0,2,0,3
+Turista,5,medio,Tarde,Prado,Poblado,1,0,8.1,3,1,2
+Frecuente,46,bajo,Fuera de Hora Pico,Exposiciones,Madera,1,0,8.9,3,1,4
+Premium,15,alto,Flexible,Parque Berrio,Estadio,0,1,12.1,0,1,6
+Premium,9,alto,Flexible,Sabaneta,Poblado,1,1,9.4,3,0,7
+Ocasional,7,bajo,Mañana,Parque Berrio,Suramericana,0,0,12.6,3,1,3
+Ocasional,2,bajo,Tarde,Acevedo,Exposiciones,0,0,7.6,2,0,5
+Frecuente,25,bajo,Hora Pico,Estadio,Floresta,1,0,10.7,2,0,2
+Premium,5,alto,Flexible,Niquia,Santa Lucia,1,1,11.9,1,1,7
+Ocasional,7,bajo,Noche,Ayura,Cisneros,0,0,9.1,2,1,5
+Premium,21,alto,Flexible,Prado,Alpujarra,1,1,6.2,3,1,7
+Turista,7,medio,Tarde,Tricentenario,Exposiciones,1,0,11.8,1,1,0
+Premium,11,alto,Flexible,Suramericana,Aguacatala,0,1,6.9,2,1,7
+Premium,6,alto,Flexible,Suramericana,Aguacatala,1,1,14.1,2,0,8
+Ocasional,6,bajo,Noche,Envigado,Exposiciones,0,0,14.6,2,1,1
+Frecuente,30,bajo,Fuera de Hora Pico,Industriales,Ayura,1,0,3.9,1,1,2
+Frecuente,48,bajo,Hora Pico,Niquia,Bello,1,0,11.7,2,1,6
+Frecuente,40,bajo,Hora Pico,Suramericana,Estadio,1,0,9.7,3,1,0
+Premium,11,alto,Flexible,Itagui,Floresta,0,1,5.9,0,0,0
+Ocasional,5,bajo,Tarde,Prado,Cisneros,1,0,14.6,3,0,4
+Ocasional,1,bajo,Mañana,Aguacatala,San Antonio,1,0,9.4,0,1,3
+Frecuente,53,bajo,Fuera de Hora Pico,Bello,Acevedo,1,0,14.5,3,0,3
+Ocasional,4,bajo,Noche,Niquia,La Estrella,1,0,8.5,2,1,7
+Ocasional,8,bajo,Tarde,Aguacatala,Universidad,0,0,14.7,0,1,2
+Turista,8,medio,Tarde,Sabaneta,Caribe,1,0,8.9,3,1,1
+Ocasional,1,bajo,Tarde,Aguacatala,Parque Berrio,1,0,3.6,3,0,8
+Frecuente,28,bajo,Fuera de Hora Pico,La Estrella,Santa Lucia,1,0,11.3,3,1,1
+Ocasional,7,bajo,Mañana,Ayura,San Antonio,0,0,12.4,3,0,7
+Ocasional,1,bajo,Mañana,Tricentenario,Suramericana,0,0,4.7,0,0,6
+Frecuente,59,bajo,Hora Pico,San Antonio,Acevedo,1,0,13.1,0,0,1
+Ocasional,7,bajo,Noche,Suramericana,Prado,0,0,11.7,0,0,6
+Turista,9,medio,Tarde,Sabaneta,Ayura,1,0,13.8,0,0,1
+Premium,24,alto,Flexible,Madera,Cisneros,0,1,12.6,3,0,2
+Frecuente,29,bajo,Fuera de Hora Pico,Acevedo,Sabaneta,1,0,7.6,1,1,5
+Turista,4,medio,Tarde,Industriales,Aguacatala,1,0,4.8,0,1,7
+Ocasional,3,bajo,Tarde,Parque Berrio,Cisneros,1,0,12.8,3,1,0
+Frecuente,37,bajo,Hora Pico,Santa Lucia,Madera,1,0,13.1,1,1,4
+Ocasional,6,bajo,Noche,Alpujarra,La Estrella,1,0,13.0,2,0,2
+Premium,9,alto,Flexible,Industriales,Universidad,0,1,5.9,2,0,1
+Turista,13,medio,Tarde,San Antonio,Parque Berrio,1,0,9.0,3,1,3
+Frecuente,20,bajo,Hora Pico,Niquia,Industriales,1,0,4.1,1,1,2
+Ocasional,4,bajo,Mañana,Poblado,Industriales,1,0,13.0,3,0,8
+Frecuente,31,bajo,Fuera de Hora Pico,Envigado,Niquia,1,0,9.0,1,1,0
+Premium,24,alto,Flexible,Bello,Floresta,0,1,9.9,3,1,7
+Turista,5,medio,Tarde,Itagui,Exposiciones,1,0,3.4,1,1,6
+Premium,24,alto,Flexible,Prado,Cisneros,0,1,11.6,0,1,4
+Premium,13,alto,Flexible,Floresta,Parque Berrio,1,1,13.9,2,1,1
+Frecuente,60,bajo,Fuera de Hora Pico,Acevedo,Exposiciones,1,0,5.4,1,1,3
+Frecuente,53,bajo,Fuera de Hora Pico,Estadio,Universidad,1,0,4.8,1,1,6
+Turista,8,medio,Tarde,Prado,Suramericana,1,0,11.8,2,0,4
+Premium,18,alto,Flexible,La Estrella,Prado,1,1,10.8,1,1,0
+Ocasional,3,bajo,Noche,Parque Berrio,Hospital,0,0,7.6,2,1,4
+Premium,11,alto,Flexible,Tricentenario,Prado,0,1,6.7,2,1,3
+Premium,17,alto,Flexible,Tricentenario,Suramericana,0,1,12.1,3,1,7
+Premium,14,alto,Flexible,Suramericana,Hospital,0,1,13.1,0,0,3
+Turista,13,medio,Tarde,Exposiciones,Madera,1,0,12.5,0,1,7
+Turista,3,medio,Tarde,Acevedo,San Antonio,1,0,13.5,0,1,5
+Ocasional,7,bajo,Mañana,Madera,Exposiciones,0,0,5.9,2,0,1
+Ocasional,6,bajo,Noche,Floresta,Exposiciones,1,0,7.1,0,1,7
+Premium,5,alto,Flexible,Cisneros,Floresta,1,1,10.3,1,0,5
+Ocasional,1,bajo,Noche,Bello,Niquia,0,0,10.7,2,0,0
+Ocasional,3,bajo,Tarde,Hospital,Tricentenario,1,0,12.0,3,1,4
+Frecuente,48,bajo,Fuera de Hora Pico,La Estrella,Universidad,1,0,9.6,1,1,3
+Frecuente,45,bajo,Fuera de Hora Pico,Industriales,Estadio,1,0,5.7,0,0,3
+Ocasional,1,bajo,Tarde,Hospital,La Estrella,1,0,9.0,3,1,4
+Ocasional,5,bajo,Mañana,Floresta,Parque Berrio,1,0,4.6,1,0,6
+Premium,17,alto,Flexible,Universidad,Envigado,1,1,11.8,0,1,4
+Frecuente,54,bajo,Fuera de Hora Pico,Parque Berrio,Bello,1,0,7.3,2,1,4
+Frecuente,55,bajo,Fuera de Hora Pico,Aguacatala,San Antonio,1,0,4.6,3,1,2
+Premium,15,alto,Flexible,Caribe,Cisneros,0,1,6.5,2,1,0
+Premium,9,alto,Flexible,Niquia,Tricentenario,0,1,6.6,3,0,7
+Turista,11,medio,Tarde,San Antonio,Cisneros,1,0,6.4,1,1,0
+Premium,19,alto,Flexible,Tricentenario,Estadio,1,1,8.2,1,1,3
+Frecuente,56,bajo,Fuera de Hora Pico,Suramericana,Hospital,1,0,14.1,0,0,2
+Premium,16,alto,Flexible,San Javier,Caribe,1,1,13.4,2,1,3
+Turista,10,medio,Tarde,San Javier,Estadio,1,0,5.6,1,1,2
+Premium,16,alto,Flexible,Acevedo,Prado,0,1,15.0,0,0,5
+Ocasional,8,bajo,Mañana,Alpujarra,Itagui,0,0,5.4,1,1,2
+Ocasional,6,bajo,Mañana,Industriales,Sabaneta,1,0,6.7,1,1,8
+Turista,4,medio,Tarde,Poblado,Madera,1,0,5.8,1,1,8
+Ocasional,1,bajo,Tarde,Envigado,Suramericana,1,0,12.3,1,1,2
+Turista,6,medio,Tarde,Sabaneta,Industriales,1,0,12.4,1,1,3
+Ocasional,7,bajo,Mañana,Niquia,San Javier,0,0,10.2,1,1,6
+Turista,11,medio,Tarde,Parque Berrio,Tricentenario,1,0,11.0,3,1,1
+Premium,12,alto,Flexible,Suramericana,Tricentenario,1,1,3.6,3,1,5
+Ocasional,7,bajo,Tarde,San Javier,La Estrella,0,0,4.5,2,1,6
+Premium,23,alto,Flexible,Madera,Poblado,1,1,6.4,1,0,1
+Ocasional,6,bajo,Tarde,Parque Berrio,Niquia,1,0,5.0,1,0,0
+Turista,14,medio,Tarde,Santa Lucia,San Javier,1,0,12.4,1,1,6
+Frecuente,30,bajo,Hora Pico,San Javier,Alpujarra,1,0,11.9,2,1,2
+Ocasional,7,bajo,Tarde,Madera,Hospital,1,0,11.3,0,1,3
+Turista,4,medio,Tarde,La Estrella,Santa Lucia,1,0,6.5,2,1,4
+Premium,11,alto,Flexible,Poblado,San Javier,0,1,6.5,2,1,7
+Turista,10,medio,Tarde,Parque Berrio,Acevedo,1,0,10.8,2,1,5
+Ocasional,4,bajo,Mañana,Hospital,Universidad,1,0,12.1,2,0,3
+Turista,6,medio,Tarde,Bello,Alpujarra,1,0,8.5,2,1,8
+Turista,9,medio,Tarde,Bello,Aguacatala,1,0,15.0,1,1,5
+Ocasional,8,bajo,Noche,Industriales,Poblado,1,0,3.5,3,1,5
+Ocasional,6,bajo,Noche,Industriales,Madera,0,0,14.4,3,1,6
+Premium,16,alto,Flexible,Exposiciones,Suramericana,0,1,14.7,3,0,1
+Premium,7,alto,Flexible,Niquia,Santa Lucia,1,1,12.0,2,0,6
+Premium,21,alto,Flexible,Itagui,Cisneros,1,1,12.3,0,0,1
+Frecuente,20,bajo,Fuera de Hora Pico,Acevedo,Industriales,1,0,10.6,0,1,2
+Turista,4,medio,Tarde,Itagui,Acevedo,1,0,9.1,1,1,1
+Turista,12,medio,Tarde,Tricentenario,Acevedo,1,0,8.0,0,0,8
+Ocasional,8,bajo,Noche,Poblado,Industriales,1,0,11.9,0,1,8
+Turista,14,medio,Tarde,Poblado,Santa Lucia,1,0,13.1,1,0,2
+Premium,24,alto,Flexible,Tricentenario,Santa Lucia,1,1,9.2,1,0,1
+Turista,9,medio,Tarde,San Antonio,Cisneros,1,0,12.0,3,1,3
+Ocasional,4,bajo,Mañana,Parque Berrio,Sabaneta,1,0,6.0,1,1,7
+Turista,15,medio,Tarde,Caribe,Cisneros,1,0,12.6,2,1,7
+Turista,13,medio,Tarde,Alpujarra,Madera,1,0,4.1,1,1,6
+Premium,8,alto,Flexible,Sabaneta,Acevedo,0,1,8.5,3,0,5
+Premium,22,alto,Flexible,Caribe,Itagui,1,1,4.1,1,0,3
+Premium,5,alto,Flexible,Parque Berrio,Industriales,0,1,3.1,3,1,6
+Turista,8,medio,Tarde,Poblado,Parque Berrio,1,0,10.7,2,1,5
+Premium,13,alto,Flexible,Ayura,Aguacatala,0,1,5.6,1,0,2
+Premium,15,alto,Flexible,Prado,Bello,1,1,13.8,2,0,1
