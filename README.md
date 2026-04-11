@@ -34,7 +34,7 @@ python help.py                # Mostrar todos los comandos disponibles
 python main.py               # Ejecutar busqueda Dijkstra (interactivo)
 ```
 
-### Aprendizaje Supervisado (Actividad 2)
+### Actividad 3 - Métodos de aprendizaje supervisado
 ```bash
 python main_ml.py                  # Ejecutar todos los modelos
 python comando_ml.py datasets      # Generar datasets
@@ -45,7 +45,7 @@ python comando_ml.py recomendar    # Recomendar transporte
 python comando_ml.py ayuda         # Mostrar ayuda ML supervisado
 ```
 
-### Aprendizaje No Supervisado (Actividad 3)
+### Actividad 4 - Métodos de aprendizaje no supervisado
 ```bash
 python main_unsupervised.py              # Ejecutar todos los modelos
 python comando_unsupervised.py datasets   # Generar datasets
